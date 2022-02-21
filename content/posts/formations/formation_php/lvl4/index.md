@@ -1,6 +1,6 @@
 ---
-title: "Formation PhP - Quatrieme Niveau - "
-date: 2021-06-13T05:11:25+00:00
+title: "Formation PhP - Quatrieme Niveau"
+date: 2021-12-26T10:11:56+00:00
 description: php formation avancé  
 menu:
   sidebar:
@@ -13,9 +13,21 @@ menu:
 ## _<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>_
 
 ---
-
 <div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <img style="vertical-align: bottom; " src="/images/icones/w30/js_30.png"> <mark>php Niveau 2 </mark>, les fonctions Avancées, l'Objet dans sa version la plus récente en JS, les nouveautés apportées par ECMA V6, le <img style="vertical-align: bottom; " src="/images/icones/w30/json_30.png"> JSON  et bien d'autres choses encore :pancakes:
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans ce :four:ieme niveau de la formation sur <img style="vertical-align: middle;" src="/images/icones/php_h40.png" alt="PhP">
+<span class="text-left">
+
+- Comment avoir une approche du développement orienté objet (POO) 
+- Savoir comprendre les fichiers de configuration et les techniques pour sécuriser son site web.
+- Comprendre la notion d’Objet.
+- Aller plus loin dans la sécurité avec PhP
+- Découvrir le patron de conception MVC
+- et bien d'autres choses encore *selon le temps et l'avancée* :pancakes:
+<hr>
+</span>Liste non exhaustive de ce que l'on pourra aborder :
+  <div  class="row justify-content-center">
+  <img src="poo.png" >
+   </div>
 </div>
 
 ## <i class="fas fa-clipboard-list "></i> TODO :roller_coaster::
@@ -27,7 +39,7 @@ menu:
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur php Lvl2 ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php997 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur **PhP Lvl4** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php404 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

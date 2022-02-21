@@ -1,6 +1,6 @@
 ---
 title: "Formation Javascript - Premier Niveau - "
-date: 2021-06-06T09:11:25+00:00
+date: 2021-06-13T09:11:25+00:00
 description: Javascript formation bases initiation
 menu:
   sidebar:

@@ -1,6 +1,6 @@
 ---
-title: "Formation PhP - Second Niveau - "
-date: 2021-06-13T05:11:25+00:00
+title: "Formation PhP - Second Niveau"
+date: 2021-12-26T10:11:58+00:00
 description: php formation avancé  
 menu:
   sidebar:
@@ -15,7 +15,20 @@ menu:
 ---
 
 <div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <img style="vertical-align: bottom; " src="/images/icones/w30/js_30.png"> <mark>php Niveau 2 </mark>, les fonctions Avancées, l'Objet dans sa version la plus récente en JS, les nouveautés apportées par ECMA V6, le <img style="vertical-align: bottom; " src="/images/icones/w30/json_30.png"> JSON  et bien d'autres choses encore :pancakes:
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans ce second niveau de la formation sur <img style="vertical-align: middle;" src="/images/icones/php_h40.png" alt="PhP">
+<span class="text-left">
+
+- Comment maîtriser les fonctions de base du PHP, c’est-à-dire, créer des fonctions en utilisant les tableaux, les boucles et différents opérateurs.
+- Savoir générer dynamiquement du HTML à partir du PHP.
+- Maîtriser les fonctions avancées du PHP, c’est-à-dire utiliser les variables super-globales en particulier les sessions et les cookies.
+- Transmettre et contrôler des données d’une page à une autre et manipuler une image dynamiquement.
+- <img style="vertical-align: middle; " src="/images/icones/w30/Xdebug_30.png">  et bien d'autres choses encore *selon le temps et l'avancée* :pancakes:
+<hr>
+</span>Liste non exhaustive de ce que l'on pourra aborder :
+  <div  class="row justify-content-center">
+  <img src="avance.png" >
+   </div>
+
 </div>
 
 ## <i class="fas fa-clipboard-list "></i> TODO :roller_coaster::
@@ -27,7 +40,7 @@ menu:
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur php Lvl2 ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php997 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur **PhP Lvl2** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php402 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

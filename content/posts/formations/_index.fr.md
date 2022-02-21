@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Mes Formations
     identifier: liste_formations_fr
-    weight: 20
+    weight: 300
 ---

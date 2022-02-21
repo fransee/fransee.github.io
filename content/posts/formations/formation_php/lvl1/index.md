@@ -1,6 +1,6 @@
 ---
-title: "Formation PhP - Premier Niveau - "
-date: 2021-06-13T10:11:25+00:00
+title: "Formation PhP - Premier Niveau"
+date: 2021-12-26T10:11:59+00:00
 description: php formation bases initiation 
 menu:
   sidebar:
@@ -15,7 +15,7 @@ menu:
 ---
 
 <div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans ce premier niveau de la formation sur <img style="vertical-align: middle;" src="/images/icones/php_h40.png" alt="PhP"> 7, les fondamentaux, ses principales fonctions et structures de contrôle, ainsi que des explications sur la transmission des données entre les <i class="fas fa-file-code"></i> pages et donc l’essentiel pour bien débuter avec ce <a href="https://fr.wikipedia.org/wiki/Langage_serveur">  langage de script coté <i class="fas fa-server"></i> serveur  <i class="fas fa-external-link-alt"></i></a> très utilisé pour les <i class="fas fa-sitemap"></i> sites internet et les <i class="fas fa-file-code"></i> pages web.<br/>
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans ce premier niveau de la formation sur <img style="vertical-align: middle;" src="/images/icones/php_h40.png" alt="PhP"> les fondamentaux, ses principales fonctions et structures de contrôle, ainsi que des explications sur la transmission des données entre les <i class="fas fa-file-code"></i> pages et donc l’essentiel pour bien débuter avec ce <a href="https://fr.wikipedia.org/wiki/Langage_serveur">  langage de script coté <i class="fas fa-server"></i> serveur  <i class="fas fa-external-link-alt"></i></a> très utilisé pour les <i class="fas fa-sitemap"></i> sites internet et les <i class="fas fa-file-code"></i> pages web.<br/>
 La formation dans ses débuts sera très axé sur l'excellent travail de mon ancien collègue, <a href="https://www.editions-eni.fr/supports-de-cours/recherche?exp=olivier%20rollet"><mark> Olivier ROLLET</mark>, Ingénieur maître et auteur chez les éditions Eni dont vous pouvez trouver ses livres -> :books: ICI <i class="fas fa-external-link-alt"></i> <-</a>
 </div>
 
@@ -99,54 +99,38 @@ Paramétrons notre [environnement de développement (IDE) <i class="fas fa-exter
   <img src="extension3.png" >  
   </div>
 
-  - Il faudra peut-être redémarrer entre-temps VSC, faites lui plaisir, faites-le s'il vous le demande.
-  - Ouvrez un répertoire de travail File -> Open Folder puis
-    - On va dans le menu des fichiers en haut à gauche <kbd>CTRL + SHIFT + E</kbd> 
-    - Ensuite soit on clique sur le symbole situé en (1) soit on fait File -> New file, soit on fait <kbd>CTRL + N</kbd> pour  créer un nouveau fichier que l'on va enregistrer <kbd>CTRL + S</kbd> en tant que <mark> index`.php` </mark>
-    - Et ensuite on entre à l'intérieur le code suivant :
+  - Il faudra peut-être redémarrer entre-temps VSC, faites lui plaisir : faites-le s'il vous le demande.
+  - Avant d'ouvrir un répertoire de travail via les manipulations que l'on a vues dans le support sur  [->Javascript Niveau 1<-](../../formation_js/lvl1) on va installer notre serveur php (si cela n'a pas déjà été fait).
+  
+<h4> 2.Dans un second temps on suit le tuto d'installation d'un serveur web (XAMPP)</h4> 
 
-    ```php
-    <!DOCTYPE html>
-    <html>
-    <body>
-      
-        <h2>Ma premiere page PHP</h2>
-        <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
-            Click me to display Date and Time.</button>
-        <p id="demo"></p>
-        <script>//un commentaire en JS, rajout perso
-            alert("Hello World");
-            console.log("Tu peux me voir en appuyant sur F12 ou allant dans les outils de dev de ton navigateur ;)");
-        </script>
-    </body>
-    </html>
-    ```
+[->Tuto installation Xampp (la 5.6.2.8 dans un premier temps ) ICI<-](../../../divers/installation_xampp)
 
-    Le fichier `JsJour1.html` est disponible ici [->ICI<-](Jsjour1.html) en cas de <i class="fas fa-briefcase-medical"></i>  
-  Vous pouvez demander à votre navigateur de l'interpréter comme pour du html en double cliquant dessus ou en utilisant html preview dans VSC : clic droit puis `Open With Live Server` :  
+<h4> 3.Pour finir ouvrons notre dossier de publication de notre serveur web et éditons à nouveau le fichier index.php</h4> 
 
-      <div  class="row justify-content-start">
-      <img src="rendu1.png">  
-      <img src="rendu2.png">   
-    </div>
+- renommons le en _index.php puis écrivons à l'intérieur le code suivant : 
+ ```php
+<?php
+# Un premier commentaire en php
+// Une autre façon d'avoir un commentaire
+echo "Salut "." la "." foule !"; //echo affiche en sortie standard, la concaténation se fait via le '.'
+$mavariablephp="<hr>";
+echo ($mavariablephp);// on peut bien évidemment demander d'afficher du code html
+phpinfo(); //appel a une fonction php qui affiche les variables du serveurs (on en aura besoin avec Xdebug plus tard)
+ ```
 
-  Comme vous pouvez le voir le code Javascript s'exécute entre 2 balises ` <script> et </script> ` et il nous permet d'interagir avec l'utilisateur ou de modifier dynamiquement la page.  
-  On en verra beaucoup plus tout bien évidemment au long la formation.
+- Ce qui nous donne quand on affiche le rendu : 
+  <div  class="row justify-content-center">
+  <img src="indexphp.png" >
+   </div>
 
-<h4> 3. Pour finir notre configuration, et pour la fin de la formation, on va avoir besoin d'installer un serveur Web (si cela n'est pas déjà fait) sur votre ordinateur : </h4>
-
-  - Pour ceux sont sur <img style="vertical-align: bottom;" src="/images/icones/w30/linux_30.png" alt="img"> Linux, <img style="vertical-align: bottom;" src="/images/icones/w30/ubuntu_30.png" alt="img"> Ubuntu :
-    - Suivez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
-    - Ou alors `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.28/).
-  - Pour ceux qui sont sur <i class="fab fa-windows"></i> Windows, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/).
-  - Pour ceux qui sont sur <i class="fab fa-apple"></i> Mac, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.28/).
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 Vous avez pu tout faire c'est super :+1: :muscle: , sinon redonnez-vous une chance, au pire on verra ça rapidement le premier jour.  
 
 :speech_balloon: Maintenant que l'on a configurer notre environnement de développement et que l'on a un premier fichier pour démarrer, on peut passer à la formation :astronaut: :  
 
-:mortar_board: [Afin de débuter la Formation sur Javascript ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_javascript996 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur PhP niveau 1 ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php401 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

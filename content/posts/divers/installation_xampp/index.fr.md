@@ -51,11 +51,11 @@ Pour ce faire suivez les instructions suivantes : ou suivez les tutoriels en lig
      
      ![diapo6](Diapositive6.PNG)
 
-     <h4> 6.</h4>  
-     
-     ![diapo7](Diapositive7.PNG)
+      <h4> 6. Voyons les fichiers situés à la racine du dossier htdocs </h4>  
 
-     <h4> 7.</h4>  
+      ![diapo7](Diapositive7.PNG)
+
+      <h4> 7.Créez un fichier .htaccess à la racine du dossier htdocs</h4>  
      
      ![diapo8](Diapositive8.PNG)
        - [Tuto a récupérer au format PDF ->ICI<- ](Install_Xampp.pdf)

@@ -1,6 +1,6 @@
 ---
-title: "Formation PhP - Troisieme Niveau - "
-date: 2021-06-13T05:11:25+00:00
+title: "Formation PhP - Troisieme Niveau"
+date: 2021-12-26T10:11:57+00:00
 description: php formation avancé  
 menu:
   sidebar:
@@ -13,9 +13,21 @@ menu:
 ## _<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>_
 
 ---
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
 <div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <img style="vertical-align: bottom; " src="/images/icones/w30/js_30.png"> <mark>php Niveau 2 </mark>, les fonctions Avancées, l'Objet dans sa version la plus récente en JS, les nouveautés apportées par ECMA V6, le <img style="vertical-align: bottom; " src="/images/icones/w30/json_30.png"> JSON  et bien d'autres choses encore :pancakes:
+<i class="fas fa-info-circle " style="color: blue;"></i>  Nous verrons dans ce :three:ieme niveau de la formation sur <img style="vertical-align: middle;" src="/images/icones/php_h40.png" alt="PhP">
+<span class="text-left">
+
+- Comment comprendre le langage MySQL et gérer la base de données à l’aide PHPMyAdmin
+- Utiliser le langage SQL en visant une pratique optimale, pour développer des applications performantes accédant aux bases de données.
+- Interagir entre les pages PHP et les bases de données MySQL en gérant la sécurité.
+- et bien d'autres choses encore *selon le temps et l'avancée* :pancakes:
+
+<hr>
+</span>Liste non exhaustive de ce que l'on pourra aborder :
+  <div  class="row justify-content-center">
+  <img src="MYSQL.svg" >
+   </div>
 </div>
 
 ## <i class="fas fa-clipboard-list "></i> TODO :roller_coaster::
@@ -27,7 +39,7 @@ menu:
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur php Lvl2 ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php997 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur **PhP Lvl3** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php403 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

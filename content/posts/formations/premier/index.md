@@ -3,7 +3,7 @@ title: "Panzani Francis's Courses "
 date: 2020-06-06T06:00:20+06:00
 menu:
   sidebar:
-    name: Read Me First 
+    name: -Read Me First 
     identifier: formations_debut_en
     parent: liste_formations_en
     weight: 1

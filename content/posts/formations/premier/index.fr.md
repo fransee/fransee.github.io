@@ -3,7 +3,7 @@ title: "Formations de Francis Panzani"
 date: 2020-06-06T06:00:20+06:00
 menu:
   sidebar:
-    name: A Lire En Premier 
+    name: -A Lire En Premier 
     identifier: formations_debut_fr
     parent: liste_formations_fr
     weight: 1

@@ -51,7 +51,6 @@ skills:
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "At the bottom of the cellar are basic C/C++ programming. Big refresh on preview ^^;;."
@@ -61,14 +60,14 @@ skills:
   summary: "Able to train people and produce little sofwtare with it, mainly use to train or prepare Angular's training"
   url: "https://www.typescriptlang.org/"
 
+- name: SEO 
+  logo: /images/sections/skills/SEOkisspng-search-engine-optimization-computer-icons-web-sear-seo-icon-png-5ab053f026b5e3.0083853915215052641586.png
+  summary: "Able to train people and register site on mostly search engine, Google Analytics Adwords, SEO and Paid referencing"
+
 - name: IT - 3d printer and Raspberry Pi
   logo: /images/sections/skills/8biticoncircle.png
   summary: <a href="images/skills/impression3D.jpg" title="a print from an unknow guy ^^;;"><img align="right" style="margin-left:3px;" width="30%" src="images/skills/impression3D_50.png"></a>"Passionate about computers from my youngest age, i bought an Anet A8 3d printer so I made a small low cost piece of furniture thanks to IKEA and the linked tutorial. I have fun sometimes with my raspberry pi but it's more about educating my daughter about prog and remembering my techno lessons"
   url: "https://www.firediy.fr/article/montage-starter-guide-de-limprimante-3d-anet-a8"
-
-- name: SEO 
-  logo: /images/sections/skills/SEOkisspng-search-engine-optimization-computer-icons-web-sear-seo-icon-png-5ab053f026b5e3.0083853915215052641586.png
-  summary: "Able to train people and register site on mostly search engine, Google Analytics Adwords, SEO and Paid referencing"
 
 
 #![-](/images/icones/w30/linkedin_30.png)
