@@ -1,7 +1,8 @@
-baseURL: https://hugo-toha.github.io
+#baseURL: https://hugo-toha.github.io
+baseURL:  https://fransee.github.io/
 
 languageCode: en-us
-title: "John's Blog"
+title: "Fr John's Blog"
 theme: "toha"
 
 # Manage languages
@@ -54,7 +55,9 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+#  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+gitRepo: https://github.com/fransee/fransee.github.io
+
   # Default branch of your Git repo
   gitBranch: source
 
