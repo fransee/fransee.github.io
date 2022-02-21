@@ -17,8 +17,8 @@ languages:
     weight: 1
 #ajout
   fr:
-  languageName: Français
-  params:
+   languageName: Français
+   params:
 #linkedin: https://linkedin.com/fr/whoever
       navigation:
         help: Airde
@@ -30,8 +30,8 @@ languages:
         view_certificate: rvoir_certificat
         navigation: rnavigation
         contact_me: rme_contacter
-    title: FPanzani PorteFolio
-  weight: 3
+   title: FPanzani PorteFolio
+   weight: 3
   #modif
   # bn:
   #   languageName: বাংলা
