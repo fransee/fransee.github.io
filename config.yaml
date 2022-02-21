@@ -2,7 +2,11 @@
 baseURL:  https://fransee.github.io/
 
 languageCode: en-us
-title: "Fr John's Blog"
+#ajout
+copyright: Everything is mine
+#modif
+title: "Francis Panzani's E-PorteFolio"
+
 theme: "toha"
 
 # Manage languages
@@ -11,9 +15,27 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
+#ajout
+  fr:
+  languageName: Français
+  params:
+#linkedin: https://linkedin.com/fr/whoever
+      navigation:
+        help: Airde
+        home: Acrceuil
+        more: Prlus
+        posts: pRosts
+        publications: Rpublications
+        extracurricular_activities: autres
+        view_certificate: rvoir_certificat
+        navigation: rnavigation
+        contact_me: rme_contacter
+    title: FPanzani PorteFolio
+  weight: 3
+  #modif
+  # bn:
+  #   languageName: বাংলা
+  #   weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
