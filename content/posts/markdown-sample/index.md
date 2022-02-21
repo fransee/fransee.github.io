@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Markdown Sample
     identifier: markdown
-    weight: 30
+    weight: 309
 author:
   name: Jessica Jonas
   image: /images/author/jessica.png
