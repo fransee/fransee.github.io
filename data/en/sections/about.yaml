@@ -33,9 +33,9 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin-in"
   url: "https://linkedin.com/in/francispanzani/"
-- name: Contact form
-  icon: "fas fa-file-signature"
-  url: "#"
+# - name: Contact form
+#   icon: "fas fa-file-signature"
+#   url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
