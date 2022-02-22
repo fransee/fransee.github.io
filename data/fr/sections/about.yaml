@@ -1,6 +1,6 @@
 # section information https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode_(0000-0FFF)
 section:
-  name: About
+  name: A propos
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Trainer and coordination of regional actions/employment center in IT Development
+designation: Formateur, Enseignant et coordination pédagogique des actions régions/pôle emploi en développement informatique
 # your company information
 company:
   name: AFIP Formation.
@@ -18,8 +18,7 @@ company:
 resume: "files/CV_FRANCIS_PANZANI_2022.V1.5.pdf"
 
 # a summary about you
-# 'Je suis un développeur de logiciels passionné et un formateur en développement Informatique avec plus de 9 ans d'expérience professionnelle dans l'informatique. Je suis bénévole dans une association de quartier. Et je suis passionné d'informatique depuis que j'ai vu un Atari ST'
-summary: "👉I am a passionate 💻Software Developper and 🎓IT Former with more of 9 years of working experience in IT.<br>👉Former judging panel of professional software developer (DL) and computer developer designer (CDI) titles, i am a volunteer in a neighborhood association (Local Interest Committee - CIL Gravière).<br>👉 And I have been passionate about computers since I saw an Atari ST😻, ok it's a bite long 👾👾👾 "
+summary: "👉Je suis un Développeur de 💻logiciels passionné et un 🎓Formateur en Développement Informatique avec plus de 9 ans d'expérience professionnelle dans le domaine.<br>👉Anciennement jury des titres professionnels Développeur Logiciel et Concepteur Développeur Informatique, je suis bénévole dans une association de quartier, le Comité d'Intérêt Local.<br>👉 Et je suis passionné d'informatique depuis que j'ai vu un Atari ST😻.<br> Ouais ca date un peu 👾👾👾"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -41,26 +40,26 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership ☻
-  percentage: 85
+- name: Encadrement ☻
+  percentage: 95
   color: blue
-- name: Team Work
+- name: Travail en Équipe
   percentage: 90
   color: yellow
 #esprit critique
-- name: Critical mind²
+- name: Oeil critique²
   percentage: 85
   color: pink
 #puissance de travail
-- name: Ηard Ɯorking
+- name: Autonomie α & Ω
   percentage: 90
   color: green
   #capacité d'adaptation
-- name: Adaptability  ◙
+- name: Adaptabilité ◙
   percentage: 75
   color: sky
   #Résolution de probleme
-- name: PrѺblem S☼lving
+- name: Facilitateur ☼
   percentage: 95
   color: orange
 # you can also provide color code instead of pre-defined color name

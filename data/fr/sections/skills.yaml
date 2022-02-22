@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/skills.html
+
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Formation en Développement Informatique présentiel et distanciel 
+  logo: /images/sections/skills/cloud.png
+  summary: <a href="https://www.editions-hatier.fr/coin-pedago-la-classe-inversee" title="concept de la classe inversée par les éditions Hatier"><img align="left" style="margin-left:3px; background-color:lightgrey;" width="40%" src="/images/skills/classe-inversee-orange.png"></a> "Côté pédagogie, je mixe Scrum ![-](/images/icones/w30/scrum_30.png) avec la <a href="https://www.editions-hatier.fr/coin-pedago-la-classe-inversee" title="concept de la classe inversée par les éditions Hatier" alt="-">Classe Inversée </a>dans le but d'être le plus efficace dans la progression de mes élèves.<br/> J'ai des supports de cours pour toutes mes formations <i>(demandez le programme complet, <a href="https://francis-panzani.github.io/fr/posts/formations/">une petite partie est listée ici :P)</a></i>, elles ont toutes des exercices TP / TD, la plupart peuvent être insérées dans des projets de groupes. </br> Le remote c'est principalement Teams ![-](/images/icones/w30/teams_30.png) ou ![-](/images/icones/w30/discord_30.png) Discord,<a href="/images/skills/trelloJavaJFX.png"> ![-](/images/icones/w30/trello_30.png) Trello et certains outils de projet ...</a><br/> ![-](/images/icones/capsule_40x40.png) [L'idée de base est de donner à mes élèves le minimum pour apprendre, s'exercer, progresser selon les niveaux et aller plus loin. Je gére la montée en compétence du groupe selon les objectifs](https://francis-panzani.github.io/posts/formations/)"
+  url: "https://francis-panzani.github.io/fr/posts/formations/"
+
+- name: Product Owner - Gestion de projet
+  logo: /images/sections/skills/gdp.png
+  summary: "![-](/images/icones/w30/dev.png)  Pour le travail ou les projets associatifs je joue très souvent le rôle du Product Owner ![-](/images/icones/w30/PO.png) / Scrum Master ![-](/images/icones/w30/SM.png) dans des projets agiles fortement typés Scrum![-](/images/icones/w30/scrum_30.png). <br/>J'utilise pour ce faire tout un tas d'outils permettant <ul><li>d'établir les cahiers des charges ![-](/images/icones/w30/word_30.png)![-](/images/icones/w30/PowerPoint_30.png)![-](/images/icones/w30/Excel_30.png)![-](/images/icones/w30/photoshop_30.png)![-](/images/icones/w30/Illustrator_30.png)![-](/images/icones/w30/Staruml_30.png)![-](/images/icones/w30/balsamiq_30.png)</li><li>donner les directives ![-](/images/icones/w30/trello_30.png)![-](/images/icones/w30/GitLab_30.png)![-](/images/icones/w30/Paint_30.png)</li><li>communiquer ![-](/images/icones/w30/gmail_30.png)![-](/images/icones/w30/discord_30.png)![-](/images/icones/w30/calendar_30.png)![-](/images/icones/w30/teams_30.png)![-](/images/icones/w30/linkedin_30.png)</li><li>leader, aider ![-](/images/icones/w30/capsule_30.png)![-](/images/icones/w30/github_30.png)</li><li>  échanger ou autre ![-](/images/icones/w30/drive_30.png) ![-](/images/icones/w30/degoo_30.png)</li></ul> J'y prends beaucoup de plaisir et j'essaie de donner le plus de convivialité possible à ces moments."
+  url: "/images/skills/trelloVG.png"
+
+- name: Bootstrap - Formateur / Dev
+  logo: /images/sections/skills/bootstrap.png
+  summary: "Capable de former et de développer des pages webs responsives avec Bootstrap"
+  url: "https://francis-panzani.github.io/fr/posts/formations/formation_bootstrap/"
+
+- name: Node JS - Formateur / Dev
+  logo: /images/sections/skills/node.png
+  summary: "Capable de former et de produire des applications en CLI, côté serveur avec Mongoose, Jade / Pug, Express et EJS "
+  url: "https://francis-panzani.github.io/fr/posts/formations/formation_nodejs/"
+
+- name: Docker - Notions
+  logo: /images/sections/skills/docker.svg
+  summary: "Débutant, connaissances de base. Impossible actuellement de former sur cette techno"
+  url: "https://www.docker.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Utilisé il y a longtemps comme Système d'Exploitation principal. Capable d'écrire des scripts bash / shell.<br/> J'y reviens de plus en plus, un peu obligé par certaines techno il faut dire ;) "
+
+- name: Git & GitHub - Formateur / Pratiquant :P
+  logo: /images/sections/skills/git.png
+  summary: "Capable de former et je suis expérimenté avec Git Github (essentiellement). De plus j'ai une petite expérience avec GitLab. "
+  url: "https://francis-panzani.github.io/fr/posts/formations/formation_git/"
+
+- name: Autonomie et apprentissage solo
+  logo: /images/sections/skills/secnumacademie_toque.png
+  summary: "Je pris l'habitude d'être autonome dans mon travail et mes montée en compétences. <br/> J'apprends toujours de nouvelles choses avec beaucoup de plaisir quasi quotidiennement"
+
+- name: C / C++ - Notions 
+  logo: /images/sections/skills/c++.png
+  summary: "Au tout début j'avais appris ces 2 langages de base, inutile de dire qu'il ne sont plus très frais à mon souvenir. <br/> Mais il risque d'y avoir un gros rafraîchissement en vue ^^ ;;."
+
+- name: TypeScript - Formateur / Dev 
+  logo: /images/sections/skills/typescript.png
+  summary: "Capable de former et produire de petits logiciels avec, utilisé principalement pour entraîner ou préparer les formations d'Angular"
+  url: "https://francis-panzani.github.io/fr/posts/formations/formation_typescript/"
+
+- name: SEO - Formateur / Utilisateur
+  logo: /images/sections/skills/SEOkisspng-search-engine-optimization-computer-icons-web-sear-seo-icon-png-5ab053f026b5e3.0083853915215052641586.png
+  summary: "Capable de former et de déployer puis d'enregistrer le site sur les moteurs de recherche, Google Analytics & Adwords etc ..,utilisation de référencement naturel et de référencement payant"
+  url: "https://francis-panzani.github.io/fr/posts/formations/referencement/"
+
+- name: IT - 3d printer and Raspberry Pi
+  logo: /images/sections/skills/8biticoncircle.png
+  summary: <a href="/images/skills/impression3D.jpg" title="a print from an unknow guy ^^;;"><img align="right" style="margin-left:3px;" width="30%" src="/images/skills/impression3D_50.png"></a>"Passionné par l'informatique par mon plus jeune age j'ai acquis une imprimante 3d Anet A8 donc j'ai fait un petit meuble à peu de frais grâce à IKEA et au tuto mis en lien.<br/> Je m'amuse de temps en temps avec mes raspberry pi mais c'est plus histoire de sensibiliser ma fille à la prog et à me souvenir de mes cours de technos"
+  url: "https://www.firediy.fr/article/montage-starter-guide-de-limprimante-3d-anet-a8"
+
+#![-](/images/icones/w30/linkedin_30.png)

@@ -2,7 +2,7 @@
 name: "Panzani Francis"
 nickname: "Francis"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "👋Hi, I am"
 #dossier image dans assets/images
 image: "images/author/avatar_cercle_fp.png"
 # give your some contact information. they will be used in the footer

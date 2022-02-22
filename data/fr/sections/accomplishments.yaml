@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Certifications
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Certification Scrum Master 
+  timeline: "10 Juillet 2018"
+  organization:
+    name: Scrum Institute
+    url: https://www.scrum-institute.org/
+  courseOverview: "45/50 Le programme Scrum Master Accredited Certification ™ est un examen de test en ligne à choix multiples auquel vous pouvez participer depuis votre appareil depuis n'importe où dans le monde. Le test contient 50 questions et vous disposez de 60 minutes en une seule séance pour répondre à vos questions."
+  certificateURL: "https://www.scrum-institute.org/badges/69391530415974"
+ 
+- name: Certification Scrum Product Owner
+  timeline: "11 Juillet 2018"
+  organization:
+    name: Scrum Institute
+    url: https://www.scrum-institute.org/
+  courseOverview: "42/50 Le programme Scrum Product Owner Accredited Certification ™ est un examen de test en ligne à choix multiples auquel vous pouvez participer depuis votre appareil depuis n'importe où dans le monde. Le test contient 50 questions et vous disposez de 60 minutes en une seule séance pour répondre à vos questions."
+  certificateURL: "https://www.scrum-institute.org/badges/23620840935967"
+  
+- name: Certification Best Daddy of The World
+  timeline: "27 December 2007 - teenage year"
+  organization:
+    name: Ma Fille 
+    url: https://www.amazon.fr/Certifi%C3%A9-Meilleur-Papa-Monde-lAnniversaire/dp/109966571X
+  courseOverview: "Veille technologique, Astreintes, Formations, Aide au développement, Updates fréquentes, Intégration continue, Management Cycle en V, Agile, Dictatorial !"
+  certificateURL: "/files/certif_meilleurpapa.png"
+  

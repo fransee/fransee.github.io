@@ -1,0 +1,96 @@
+# section information
+section:
+  name: Éducation 
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+#http://www.kiwifroggy.com/equivalence-des-diplomes-francais-systemes-britannique-et-americain/
+degrees:
+#- name: Ph.D in Quantum Cryptography
+##  icon: fa-microscope
+#  timeframe: 2016-2020
+#  institution:
+#    name: ABC University of Technology
+#    url: "#"
+#  grade: #(optional)
+#    scale: CGPA
+#    achieved: 3.6
+#    outOf: 4
+#  publications: #(optional)
+#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    url: "#"
+#  - title: Fusce eu augue ut odio porttitor pulvinar.
+#    url: "#"
+#  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+#    url: "#"
+
+- name: Formateur et Enseignant en Développement Informatique
+  icon: fa-microscope
+  timeframe: 2016-now
+  institution:
+    name: École privée AFIP d'enseignement supérieur et Centre de Formation (Villeurbanne) 
+    url: "https://afip-formations.com/"
+  publications: #(optional)
+  - title: Créations de multiples supports de cours et tutoriels (liste sur demande ou attendez la prochaine update)
+  - title: Créations de multiples TP/TD Exercices/Corrigés et Projets  (liste sur demande ou attendez la prochaine update)
+- name: Master - Titre École d'Expert en Ingénierie du Logiciel
+  icon: fa-graduation-cap
+  timeframe: 2017-2018
+  institution:
+    name: École privée AFIP d'Enseignement Supérieur
+    url: "https://afip-formations.com/"
+  extracurricularActivities: #(optional)
+  - Actuellement en procédure d'homologation par le Ministère du Travail, Code NSF = 326
+  - Titre de niveau 7 dans la nomenclature Européenne, de niveau I in France
+
+- name: P.O.E.C JAVA (Préparation Opérationnelle à l'Emploi Collective)
+  icon: fa-award
+  timeframe: 2015-2016
+  institution:
+    name: M2i Formations (Lyon)
+    url: "https://www.m2iformation.fr/centre-de-formation/lyon-part-dieu/20/"
+  extracurricularActivities:
+    - JAVA 8 SE, JAVA 7 EE, ANDROID, NodeJS, Angular JS, Scrum 
+- name: Formation en Développeur Nouvelles Technologies
+  icon: fa-award
+  timeframe: 2012-2013
+  institution:
+    name: AFIP Centre de Formation (Villeurbanne)
+    url: "https://afip-formations.com/"
+  extracurricularActivities:
+    - JAVA (level 1-2-3), C# (level 1-2), ASP.Net, PHP 4/4, JOOMLA
+
+- name: License Informatique (Niveau)
+  icon: fa-university
+  timeframe: 2001-2002
+  institution:
+    name: Université Nice Sophia Antipolis (Valrose)
+    url: "https://univ-cotedazur.fr/nous-connaitre/patrimoine/valrose"
+  
+- name: D.U.T Informatique Option Génie Informatique
+  icon: fa-graduation-cap
+  timeframe: 1999-2000
+  institution:
+    name: I.U.T Nice
+    url: "https://iut.univ-cotedazur.fr/"
+  extracurricularActivities:
+    - JAVA, C, C++, Assembler, UML, Merise, HTML, CSS, Javascript, ...
+
+- name: DEUG Math Physique / Math Informatique 3.7 (Niveau)
+  icon: fa-university
+  timeframe: 1996-1999
+  institution:
+    name: Université Nice Sophia Antipolis (Valrose)
+    url: "https://univ-cotedazur.fr/nous-connaitre/patrimoine/valrose"
+
+- name: Bac S (option Mathématique)
+  icon: fa-school
+  timeframe: 1995-1996
+  institution:
+    name: Thierry Maulnier's High School (Nice)
+    url: "https://www.lyc-thierry-maulnier.ac-nice.fr/"
+
