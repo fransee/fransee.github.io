@@ -1,0 +1,99 @@
+# section information
+section:
+  name: Projets
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  template: sections/projects.html
+  # Can optionally hide the title in sections
+  #hideTitle: true
+
+# filter buttons
+buttons:
+- name: Tous
+  filter: "all"
+- name: Pro
+  filter: "professional"
+- name: Agile
+  filter: "scrum"
+- name: Loisirs
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Comité Intérêt Local
+  logo: /images/sections/projects/logo_cil_2016.png
+  role: Bénévole - Vice Président
+  timeline: "Janvier 2016 - Aujourd'hui"
+  repo: https://github.com/Francis-Panzani/Projet_Vide_Grenier_AppWeb # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Aide, conception et mise en place d'évènements locaux afin d'améliorer/ d'animer la vie du quartier comme la Fête de la musique, le Vide Grenier, la Fête de Nöel ou le Beaujolais Nouveau, hips ;)
+  # manifestations culturelles et festivites
+  tags: ["hobby", "associative life", "html","css","javascript","php", "java", "scrum"]
+
+- name: ÀTTABLE
+  logo: /images/sections/projects/Logo_ÀTTABLE.png
+  role: Product Owner / Chef de Projet
+  timeline: "2020 - 2021"
+  url: "https://trello.com/b/8my1MeSo/attable-product-init-extreme-quotation"
+  summary: Formation en Html/Css/Js/Php et gestion de projet à partir d'un besoin réel en Agile (Framework Scrum pour la plus grosse partie) 
+  tags: ["academic","eCommerce","showcase","professional","scrum"]
+
+- name: App pour tester les connexions à des BDDs Mysql / SQL Server
+  logo: /images/sections/projects/jee3.png
+  role: Développeur Full Stack (pas trop quand même)
+  timeline: "2019"
+  summary: Après en avoir eu marre d'aider et de montrer aux étudiants comment tester la connectivité avec leurs BDD si elles étaient en ligne ou pas et la vérification des L/P j'ai décidé d'automatiser le tout en Java avec Window Builder \(pour tester mais je préfère largement Java FX\)
+  tags: ["hobby","Java","MVC","Desktop","professional"]
+  url : /files/testconnectiviteJava.png
+
+# Logiciel de gestion de prise d'appels en VBA pour Excell
+# Concevoir, développer, maintenir une application pour mes collègues de travail afin d'automatiser la prise d'appels et les rapports quotidiens ainsi que les statistiques
+- name: Logiciel de gestion de prise d'appels en VBA pour Excell
+  logo: /images/sections/projects/1486565571-microsoft-office-excel_81549.png
+  role: Fullstack Développeur, Concevoir, développer, maintenir une application pour mes collègues de travail afin d'automatiser la prise d'appels et les rapports quotidiens ainsi que les statistiques
+  timeline: "November 2008 - November 2011"
+  summary: 
+  tags: ["hobby","Excell","VBA","Macro", "Productivity", "Freelance","professional" ]
+  url : /files/Prise_appel_technicien_VBA.png
+
+- name: Portage de "Logiciel de gestion de prise d'appels" de VBA a VB.net avec acces à une DATABASE ACCESS
+  logo: /images/sections/projects/VB.NET_Logo.svg.png
+  role: Alone in the Code
+  timeline: "Mars 2009 - Février 2012"
+  summary: Pour des raisons de sécurité, je migre le "Logiciel de gestion de prise d'appels" en VB.Net. J'ai appris par moi-même le VB.net. Je le conçois et le développe sur mes temps libres.
+  tags: ["hobby","VB.net","self training" ]
+  url : /files/alone_in_the_code.jpg
+
+- name: 💓 Projet `Coeur Des Hommes`
+  logo: 
+  role: Product Owner - Team Leader
+  timeline: "2018 - 2021"
+  summary: J'ai dirigé des étudiants dans la réalisation d'un projet java JEE en tant que PO et/ou Team Leader
+  tags: ["Project","professional","Java","MVC","Desktop", "JEE"]
+  url : /images/project/CDH_diag_cas_utilisation.png
+
+- name: Serious Game (avec un peu de fun j'avoue ...)
+  logo: /images/sections/projects/seriousgame_reseau.png
+  role: Developper and trainer 
+  timeline: "2018 - 2020"
+  summary: J'ai développé de petits Serious Game pour mes stagiaires avec Adobe Flash ou Scratch
+  tags: ["professional","Adobe", "Scratch" ]
+  url :  /images/project/seriousgame_reseau.png
+
+- name: Robotic and Poppy Ergo
+  logo: /images/sections/projects/RobotSalonetudiant.PNG
+  role: Développeur, utilisteur et formateur en robotique sur Poppy Ergo Jr ou Raspberry Pi
+  timeline: "2018 - 2020"
+  summary: J'ai développé ou appris à mes stagiaires des notions de robotiques avec Poppy Ergo Jr ou sur des _[Poppy Ergo Jr](https://www.poppy-project.org/fr/robots/poppy-ergo-jr/)_ or _[Raspberry Pi](https://www.thingiverse.com/thing:1113796)_  (Python ou Snap!) avec l'aide de mon imprimante 3d
+  tags: ["hobby","professional","robotic" ]
+  url : /images/project/RobotSalonetudiant.PNG
+
+- name: De multiples Applications et scripts code
+  logo: /images/sections/projects/OOjs_UI_icon_code-progressive.svg.png
+  role: Développeur Mac Gyver (le Chewing Gum en moins)
+  timeline: "Avril 2000 - Aujourd'hui"
+  summary: Tout au long de ma carrière professionnelle je n'ai cessé de développer des outils pour me faciliter la vie au boulot sur des langages divers et variés en fonction des besoins ou des envies :P
+  tags: ["hobby","Java","MVC","Desktop", "WebSite", "Android", "C#","Trop a lister" ,"professional"]
+  url : /files/GIFtappeclavier.gif

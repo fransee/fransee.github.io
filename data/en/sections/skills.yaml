@@ -5,6 +5,8 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
+  template: sections/skills.html
+  
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -63,6 +65,7 @@ skills:
 - name: SEO 
   logo: /images/sections/skills/SEOkisspng-search-engine-optimization-computer-icons-web-sear-seo-icon-png-5ab053f026b5e3.0083853915215052641586.png
   summary: "Able to train people and register site on mostly search engine, Google Analytics Adwords, SEO and Paid referencing"
+  url: "https://francis-panzani.github.io/fr/posts/formations/referencement/"
 
 - name: IT - 3d printer and Raspberry Pi
   logo: /images/sections/skills/8biticoncircle.png

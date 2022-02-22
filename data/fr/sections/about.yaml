@@ -1,6 +1,6 @@
 # section information https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode_(0000-0FFF)
 section:
-  name: About
+  name: A propos
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Trainer and coordination of regional actions/employment center in IT Development
+designation: Formateur, Enseignant et coordination pédagogique des actions régions/pôle emploi en développement informatique
 # your company information
 company:
   name: AFIP Formation.
@@ -18,8 +18,7 @@ company:
 resume: "files/CV_FRANCIS_PANZANI_2022.V1.5.pdf"
 
 # a summary about you
-# 'Je suis un développeur de logiciels passionné et un formateur en développement Informatique avec plus de 9 ans d'expérience professionnelle dans l'informatique. Je suis bénévole dans une association de quartier. Et je suis passionné d'informatique depuis que j'ai vu un Atari ST'
-summary: "👉I am a passionate 💻Software Developper and 🎓IT Former with more of 9 years of working experience in IT.<br>👉Former judging panel of professional software developer (DL) and computer developer designer (CDI) titles, i am a volunteer in a neighborhood association (Local Interest Committee - CIL Gravière).<br>👉 And I have been passionate about computers since I saw an Atari ST😻, ok it's a bite long 👾👾👾 "
+summary: "👉Je suis un Développeur de 💻logiciels passionné et un 🎓Formateur en Développement Informatique avec plus de 9 ans d'expérience professionnelle dans le domaine.<br>👉Anciennement jury des titres professionnels Développeur Logiciel et Concepteur Développeur Informatique, je suis bénévole dans une association de quartier, le Comité d'Intérêt Local.<br>👉 Et je suis passionné d'informatique depuis que j'ai vu un Atari ST😻.<br> Ouais ca date un peu 👾👾👾"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -32,7 +31,7 @@ socialLinks:
   url: "https://github.com/Francis-Panzani"
 - name: LinkedIn
   icon: "fab fa-linkedin-in"
-  url: "https://linkedin.com/in/francispanzani/" 
+  url: "https://linkedin.com/in/francispanzani/"
 # - name: Contact form
 #   icon: "fas fa-file-signature"
 #   url: "#"
@@ -41,32 +40,38 @@ socialLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
+# - type: certification
+#   name: Certified Kubernetes Security Specialist
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
 - type: soft-skill-indicator
-  name: Leadership ☻
-  percentage: 85
+  name: Encadrement ☻
+  percentage: 95
   color: blue
+
 - type: soft-skill-indicator
-  name: Team Work
+  name: Travail en Équipe
   percentage: 90
   color: yellow
 #esprit critique
-- type: soft-skill-indicator
-  name: Critical mind²
+- type: soft-skill-indicator  
+  name: Oeil critique²
   percentage: 85
   color: pink
 #puissance de travail
-- type: soft-skill-indicator
-  name: Ηard Ɯorking
+- type: soft-skill-indicator  
+  name: Autonomie α & Ω
   percentage: 90
   color: green
   #capacité d'adaptation
 - type: soft-skill-indicator
-  name: Adaptability  ◙
+  name: Adaptabilité ◙
   percentage: 75
   color: sky
   #Résolution de probleme
-- type: soft-skill-indicator  
-  name: PrѺblem S☼lving
+- type: soft-skill-indicator
+  name: Facilitateur ☼
   percentage: 95
   color: orange
 

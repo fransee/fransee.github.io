@@ -5,6 +5,7 @@ section:
   enable: true
   weight: 3
   showOnNavbar: true
+  template: sections/experiences.html
   # Can optionally hide the title in sections
   # hideTitle: true 
 
@@ -140,6 +141,7 @@ experiences:
     - Management, production monitoring, distance training, qualification and reporting to the customer.
 - company:
     name: To be continued 
+#    url: "/files/CV_FRANCIS_PANZANI_2022.V1.5.pdf"
     location: France
     overview:   ![a continuer plus tard](files/to-be-continued-png-47206.png)
   positions:
