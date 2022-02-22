@@ -32,41 +32,57 @@ socialLinks:
   url: "https://github.com/Francis-Panzani"
 - name: LinkedIn
   icon: "fab fa-linkedin-in"
-  url: "https://linkedin.com/in/francispanzani/"
+  url: "https://linkedin.com/in/francispanzani/" 
 # - name: Contact form
 #   icon: "fas fa-file-signature"
 #   url: "#"
 
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Leadership ☻
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Leadership ☻
   percentage: 85
   color: blue
-- name: Team Work
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 90
   color: yellow
 #esprit critique
-- name: Critical mind²
+- type: soft-skill-indicator
+  name: Critical mind²
   percentage: 85
   color: pink
 #puissance de travail
-- name: Ηard Ɯorking
+- type: soft-skill-indicator
+  name: Ηard Ɯorking
   percentage: 90
   color: green
   #capacité d'adaptation
-- name: Adaptability  ◙
+- type: soft-skill-indicator
+  name: Adaptability  ◙
   percentage: 75
   color: sky
   #Résolution de probleme
-- name: PrѺblem S☼lving
+- type: soft-skill-indicator  
+  name: PrѺblem S☼lving
   percentage: 95
   color: orange
-# you can also provide color code instead of pre-defined color name
-# - name: Example 1
+
+# - type: certification
+#   name: Certifications Open Classrooms
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/150px-Logo_OpenClassrooms.png"
+
+# - type: certification
+#   name: Certifications Free code camp
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0"
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
-# - name: Example 2
-#   percentage: 65
-#   color: "#8b8383"

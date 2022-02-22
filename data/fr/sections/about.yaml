@@ -36,36 +36,58 @@ socialLinks:
 #   icon: "fas fa-file-signature"
 #   url: "#"
 
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Encadrement ☻
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+# - type: certification
+#   name: Certified Kubernetes Security Specialist
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+- type: soft-skill-indicator
+  name: Encadrement ☻
   percentage: 95
   color: blue
-- name: Travail en Équipe
+
+- type: soft-skill-indicator
+  name: Travail en Équipe
   percentage: 90
   color: yellow
 #esprit critique
-- name: Oeil critique²
+- type: soft-skill-indicator  
+  name: Oeil critique²
   percentage: 85
   color: pink
 #puissance de travail
-- name: Autonomie α & Ω
+- type: soft-skill-indicator  
+  name: Autonomie α & Ω
   percentage: 90
   color: green
   #capacité d'adaptation
-- name: Adaptabilité ◙
+- type: soft-skill-indicator
+  name: Adaptabilité ◙
   percentage: 75
   color: sky
   #Résolution de probleme
-- name: Facilitateur ☼
+- type: soft-skill-indicator
+  name: Facilitateur ☼
   percentage: 95
   color: orange
-# you can also provide color code instead of pre-defined color name
-# - name: Example 1
+
+# - type: certification
+#   name: Certifications Open Classrooms
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/150px-Logo_OpenClassrooms.png"
+
+# - type: certification
+#   name: Certifications Free code camp
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0"
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
-# - name: Example 2
-#   percentage: 65
-#   color: "#8b8383"
