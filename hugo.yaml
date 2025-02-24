@@ -1,8 +1,7 @@
 baseURL: https://fransee.github.io
 
-languageCode: en
-title: "Francis Panzani's E-PorteFolio"
-
+languageCode: fr
+title: "Fluide 's Blog"
 copyright: Everything is mine
 
 # Use Hugo modules to add theme
@@ -25,12 +24,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Fluide's Blog"
+    title: "FRANSEE's Blog"
     weight: 1
-  bn:
+  fr:
     languageCode: fr
-    languageName: Français
-    title: "Francis's Blog"
+    languageName: French
+    title: "FRANSEE Francis's Blog"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
@@ -61,14 +60,14 @@ params:
   # Background image of the landing page
   background: /images/site/background.jpg
   # Background image of the landing page for dark theme
-  #darkBackground: /images/site/background.jpg
+  darkBackground: /images/site/background_2620726.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/FP.png
+    inverted: /images/site/FPinv.png
+    favicon: /images/site/secnumacademie_toque.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/fransee/fransee.github.io
@@ -106,7 +105,7 @@ params:
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: true
+        x: true
         linkedin: true
         reddit: true
         whatsapp: true
@@ -114,11 +113,11 @@ params:
         # tumblr: true
         # pocket: true
         # diaspora: true
-        # mastodon: true
+        mastodon: true
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -156,11 +155,11 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: false
+      enabled: true
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-L8WV0RBRYG
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
@@ -279,6 +278,16 @@ params:
     pagination:
       maxPostsPerPage: 12
 
+  #Info du formulaire de contact protégé par google
+  contact_form:
+    enable: true
+    footer: true
+    # url: http://localhost/_test/FORMENVOIE%20MAIL/surfree/contactv1/mail.php
+    #url: https://copieauto.000webhostapp.com/formulaire/mail.php
+    url: https://copieauto.000webhostapp.com/formulaire/mailwebhost.php
+    #google recapthca ID
+    data_sitekey: 6LcF6vUdAAAAAF0buCEfK2kyuTcmyl2tPp5Uhyuh
+
   # Provide footer configuration.
   footer:
     enable: true
@@ -306,4 +315,8 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
+      enable: false
+
+    #active ou pas le formulaire de contact protégé par google
+    contact_form:
       enable: true
