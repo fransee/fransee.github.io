@@ -1,6 +1,6 @@
 baseURL: https://fransee.github.io
 
-languageCode: bn
+languageCode: fr
 title: "Fluide 's Blog"
 
 # Use Hugo modules to add theme
@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Fluide's Blog"
     weight: 1
   bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
+    languageCode: fr
+    languageName: French
+    title: "Francis's Blog"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
