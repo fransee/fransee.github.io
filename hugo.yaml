@@ -1,7 +1,9 @@
 baseURL: https://fransee.github.io
 
-languageCode: fr
-title: "Fluide 's Blog"
+languageCode: en
+title: "Francis Panzani's E-PorteFolio"
+
+copyright: Everything is mine
 
 # Use Hugo modules to add theme
 module:
@@ -27,7 +29,7 @@ languages:
     weight: 1
   bn:
     languageCode: fr
-    languageName: French
+    languageName: Français
     title: "Francis's Blog"
     weight: 2
 # default language for the content
