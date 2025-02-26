@@ -10,15 +10,16 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  #- title: Habilitation Jury des Titres professionnels
+  - title: Parapente Autonomy lvl 1
+    image: /images/sections/achievements/decollage.png
+    summary: With "Passagers du vent" on Talloires - Initiation Stage 1 week then Autonomy lvl1 Week-End 2days
+  - title: Jury accreditation for professional titles
+    image: /images/sections/achievements/jury_habilitation.png
+    summary: Développeur Logiciel Bac+2 (RNCP 5927) / /	Concepteur Développeur Informatique Bac +3/4 (RNCP 6255) - Arrêt fin 2019
+  - title: Graduation Bac +5
+    image: /images/sections/achievements/diplome_afip_EIL.jpg
+    summary: Received School Title of Software Engineering Expert from AFIP Higher Education in 2018.
+  - title: First aid training certificate ( BNPS before )
+    image: /images/sections/achievements/bnps.png
+    summary: "Basic first aid training, learning gestures and carrying out concrete situations where trainers simulate accidents "

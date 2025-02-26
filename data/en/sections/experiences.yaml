@@ -6,68 +6,183 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
-# Your experiences
+# # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  # - company:
+  #     name: Example Co.
+  #     url: "https://www.example.com"
+  #     location: Dhaka Branch
+  #     logo: /images/sections/experiences/company1.jpg
+  #     # Can optionally show a different logo for dark theme
+  #     # darkLogo: /images/sections/experiences/company1.jpg
+  #     # company overview
+  #     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  #   positions:
+  #   - designation: Senior Software Engineer
+  #     start: Nov 2019
+  #     # don't provide end date if you are currently working there. It will be replaced by "Present"
+  #     # end: Dec 2020
+  #     # give some points about what was your responsibilities at the company.
+  #     responsibilities:
+  #     - Design and develop XYZ tool for ABC task
+  #     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+  #     - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  #   - designation: Junior Software Engineer
+  #     start: Nov 2017
+  #     end: Oct 2019
+  #     responsibilities:
+  #     - Implement and test xyz feature for abc tool.
+  #     - Support client for abc tool.
+  #     - Learn k,d,w technology for xyz.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - company:
+      name: AFIP Formation.
+      url: "https://afip-formations.com/"
+      location: Villeurbanne / Remote
+      logo: /images/sections/education/logo_afip.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview:  AFIP Formations is a private higher education school, offering post-baccalaureate to Master work-study and initial.
+      #AFIP Formations est une école privée d'enseignement supérieur, proposant des formations post-bac jusqu'au Master en alternance et en initial
+    positions:
+      - designation: Trainer and educational coordination of regional actions / employment center in IT development
+        #Formateur et coordination pédagogique des actions régions/pôle emploi en développement informatique
+        start: June 2018
+        end: March 2025
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          #- Assurer la formation en Algorithmie, HTML5, CSS3, Javascript, JQuery, Bootstrap, VueJs 2, UML2, Merise, PhP 7, MySQL, Java 8, JFX, JEE 8, Git, Android 7, Scrum, Wordpress 4, Référencement, Maquetage, Wireframe, d’étudiants (SIO ou bachelors), de demandeurs d'emploi (via validation titre RNCP de niveau Bac+2 a Bac +5) ou de professionnels.
+          #- Suivi pédagogique et suivi des présences, animation d’ateliers, Gestion de projets (personnels ou en groupe).
+          #- Production de supports de cours et d’exercices, de devoirs (TP/TD/Projects), corrections
+          #- Ingénierie pédagogique (Construction d'un projet de formation, Animation d'une action de formation, Evaluation d'une action de formation).
+          - Provide trainings (Techno IT Development part &colon; Web Desktop Mobile & Agile) for students (SIO or bachelors ), job seekers (via validation of RNCP title from Bac + 2 to Bac +5 level ) or professionals [(list below)](#listeformation) .
+          - Educational follow-up and attendance monitoring, animation of workshops, [Project management (personal or in groups )](https://trello.com/b/UBEL0T9y/todo-scrum).
+          - Production of course and exercise materials, homework (TP / TD / Projects ), corrections
+          - Educational engineering (Construction of a training project, Animation of a training action, Evaluation of a training action ).
+          - Approach to a customer problem, creation of Product Vision Board, Product Backlog, Sprint and project management in [Scrum methodology](https://www.scrum.org/).
+            <style type="text/css">
+            <!--
+            @import url("/css/perso/listetab.css");
+            @import url("/css/perso/bootstrap-table.min.css");
+            @import url("/css/perso/animate.css@3.5.1.css");
+            -->
+            </style>
+            <a name="listeformation"></a>
+            <!-- apparait juste pour devices >md  class="d-none d-md-block" -->
+            <div id="appdemo" class="d-none d-md-block">
+            <div class="col-12 " >
+            <table class="table mb-0">
+            <thead>
+            <tr>
+            <th scope="col">Course title</th>
+            <th scope="col">Duration min (hour(s))</th>
+            <th scope="col" >Duration max (hour(s))</th>
+            <th scope="col"  >Projects</th>
+            </tr>
+            </thead>
+            <tbody name="formation-table" is="transition-group">
+            <tr class="formation-table-item" v-for="item in listeitemsavoir" :key="item.id">
+            <th scope="row"><img v-bind:src=item.icon> {{ item.name }}</th>
+            <td>{{ item.dureemin }}</td>
+            <td >{{ item.dureemax }}</td>
+            <td >{{ item.projet }} </td>
+            </tr>
+            </tbody>
+            <tfoot>
+            <td> Sum = {{ listeitemsavoir.length }}</td>
+            <td> {{ totalDureemin }} </td>
+            <td> {{ totalDureemax }} </td>
+            <td> {{ totalProjets }} </td>
+            </tfoot>
+            </table>
+            </div>
+            </div>
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+            <!-- apparait uniquement pour les sm -->
+            <div style="margin:15px warning" class="alert alert-warning d-sm-none" role="alert"><strong><i class="fas fa-laptop"></i> Prefer reading the list with laptob or wider screen for better experience </strong> </div>
+            <!-- apparait juste pour devices >md  d-none d-md-block  -->
+            <center style="margin-top:15px" class="table-sm col order-1"> <button type="button" class="btn btn-info dropdown-toggle" data-toggle="collapse" data-target="#demo">&rarr;Expand for listing</button></center>
+            <div id="demo" class="collapse">
+            <div id="app">
+            <div>
+            <div id="toolbar"></div>
+            <h2 class="text-center overflow-auto">Last up may 2021</h2>
+            <table id="table" class="table mb-0" data-toolbar="#toolbar" data-show-refresh="false" data-show-toggle="true"  data-show-fullscreen="false" data-toggle="table" data-show-columns="true" data-detail-view="false"  data-detail-formatter="detailFormatter" data-show-pagination-switch="false" data-search="true" data-pagination="true" data-flat="true" data-page-list="[15, 30, all]" data-show-footer="true" data-show-export="false" >
+            <thead>
+            <tr>
+            <th data-field="icon_name" data-sortable="true" scope="col">Course title</th>
+            <!--    <th scope="col">Durée min (heure(s))</th>
+            <th data-field="dureemax" data-sortable="true" scope="col">Durée max (heure(s))</th> -->
+            <th data-field="projets" data-sortable="true" scope="col" >Projects</th>
+            <th data-field="descriptif" data-sortable="true" scope="col">Project description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr v-for="item in items" :key="item.id">
+            <th scope="row"><img v-bind:src=item.icon> {{ item.name }}</th>
+            <!--      <td >{{ item.dureemin }}</td>
+            <td>{{ item.dureemax }}</td> -->
+            <td>{{ item.projet }}</td>
+            <td>{{ item.projetdescriptif_fr }} </td>
+            </tr>
+            </tbody>
+            <tfoot>
+            <td> Total = {{ items.length -3}}</td>
+            <!--     <td> {{ totalDureemin }} </td>
+            <td> {{ totalDureemax }} </td> -->
+            <td> {{ totalProjets }} </td>
+            <td> </td>
+            </tfoot>
+            </table>
+            </div>
+            </div> <br/>
+            </div>
+            <script src="/js/perso/vue.min.js"></script>
+            <script src="/js/jquery-3.4.1.min.js"></script>
+            <script src="/js/perso/bootstrap-table.min.js"></script>
+            <script src="/js/perso/liste_tab.js" ></script>
+
+      - designation: It Trainer
+        start: November 2016
+        end: March 2018
+        responsibilities:
+          - Provide training in Algorithmics, HTML5, CSS3, Javascript, JQuery, UML2, Merise, PhP 7, MySQL, Java 8, JEE 8, Git, Android 7, Scrum, SEO, Layout, Wireframe, students (SIO or bachelors ), job seekers (via validation of RNCP title from Bac + 2 to Bac +5 level ) or professionals.
+          - Production of course and exercise materials, homework (TP / TD / Projects ), corrections
+          - Educational engineering (Construction of a training project, Animation of a training action, Evaluation of a training action ).
+
+  - company:
+      name: Norsys
+      url: "https://www.norsys.fr/"
+      location: Lyon
+      logo: /images/sections/experiences/logoNorsys.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      overview:  Digital service company (ESN in french) focused on new technologies - Consulting and assistance in software engineering (Application Design and Development) / Consulting and assistance in project management (specifications, feasibility study, change management, training)
+    positions:
+      - designation: Front-Office Developer
+        start: March 2013
+        end: April 2014
+        responsibilities:
+          - Development in PHP via immersion of specifications relating to a modification of the M6jeux.fr portal
+          - Front Office between the client and 2 collaborators in Offshore (Morocco).
+          - Management, production monitoring, distance training, qualification and reporting to the customer.
+  - company:
+      name: Other experiences will be developped on a Next Release
+      url: "/files/CV_FRANCIS_PANZANI.pdf"
+      location: France
+      logo: /images/sections/experiences/to-be-continued-png-47206.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      overview: <i class="fa-solid fa-person-digging"></i>  You can download, read resume or contact me for more informations  <i class="fa-solid fa-person-digging"></i>
+    positions:
+      - designation: On a Next Release
+        start: December 2000
+        end: March 2013
+        responsibilities:
+          - Various

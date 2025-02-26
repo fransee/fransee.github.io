@@ -17,7 +17,7 @@ company:
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
-resume: "files/CV_FRANCIS_PANZANI.V1.6.pdf"
+resume: "files/CV_FRANCIS_PANZANI.pdf"
 
 # a summary about you
 # 'Je suis un développeur de logiciels passionné et un formateur en développement Informatique avec plus de 9 ans d'expérience professionnelle dans l'informatique. Je suis bénévole dans une association de quartier. Et je suis passionné d'informatique depuis que j'ai vu un Atari ST'
@@ -29,7 +29,6 @@ socialLinks:
   - name: Email
     icon: "fas fa-envelope"
     url: "mailto:francis.panzani@gmail.com"
-
   - name: Github
     icon: "fab fa-github"
     url: "https://github.com/Francis-Panzani"
@@ -45,56 +44,70 @@ socialLinks:
   #   icon: "fab fa-facebook"
   #   url: "#"
 
-#  - name: Mastadon
-#    icon: "fab fa-mastodon"
-#    url: "#"
-#    rel: "me noopener"
+  #  - name: Mastadon
+  #    icon: "fab fa-mastodon"
+  #    url: "#"
+  #    rel: "me noopener"
 
-#  - name: ResearchGate
-#    icon: "fab fa-researchgate"
-#    url: "https://www.researchgate.net/profile/john-doe"
+  #  - name: ResearchGate
+  #    icon: "fab fa-researchgate"
+  #    url: "https://www.researchgate.net/profile/john-doe"
+
+  - name: Contact form
+    icon: "fas fa-file-signature"
+    url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-  - title: "My Resume"
+  - title: "Mon Lien 1"
+    url: "files/resume.pdf"
+  - title: "Mon Lien 2"
     url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-  - type: certification
-    name: Certified Kubernetes Security Specialist
-    url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-    badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-
-  - type: certification
-    name: Istio and IBM Cloud Kubernetes Service
-    url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-    badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-  - type: certification
-    name: Artificial Intelligence and Machine Learning
-    url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-    badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
   - type: soft-skill-indicator
-    name: Leadership
+    name: Leadership ☻
     percentage: 85
     color: blue
-
   - type: soft-skill-indicator
     name: Team Work
     percentage: 90
     color: yellow
-
+  #esprit critique
   - type: soft-skill-indicator
-    name: Hard Working
+    name: Critical mind²
     percentage: 85
+    color: pink
+  #puissance de travail
+  - type: soft-skill-indicator
+    name: Ηard Ɯorking
+    percentage: 90
+    color: green
+    #capacité d'adaptation
+  - type: soft-skill-indicator
+    name: Adaptability  ◙
+    percentage: 75
+    color: sky
+    #Résolution de probleme
+  - type: soft-skill-indicator
+    name: PrѺblem S☼lving
+    percentage: 95
     color: orange
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+  # you can also provide color code instead of the color name
+  # - type: soft-skill-indicator
+  #   name: Example 1
+  #   percentage: 75
+  #   color: "#00adb5"
+# - type: certification
+#   name: Certifications Open Classrooms
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/150px-Logo_OpenClassrooms.png"
+
+# - type: certification
+#   name: Certifications Free code camp
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0"
