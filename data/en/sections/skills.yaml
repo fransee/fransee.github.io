@@ -33,19 +33,40 @@ skills:
   #   categories: ["basic", "language"]
   - name: IT Teaching skills in remote or face-to-face
     logo: /images/sections/skills/cloud.png
-    summary: <a href="https://www.editions-hatier.fr/coin-pedago-la-classe-inversee" title="concept de la classe inversée par les éditions Hatier"><img align="left" style="margin-left:3px; background-color:lightgrey;" width="40%" src="files/skills/classe-inversee-orange.png"></a> "I am mixing scrum ![-](/images/icones/w30/scrum_30.png) concept's with<a href="https://www.editions-hatier.fr/coin-pedago-la-classe-inversee" title="concept de la classe inversée par les éditions Hatier" alt="-"> Inverted Class </a>in order to be the most effective in my student's learning.<br/>I have course materials for all my trainings <i>(ask for listing, <a href="https://francis-panzani.github.io/fr/posts/formations/">small parts here :P)</a></i>, they all have practical work / tutorials, most of them can be inserted into group projects.</br> For remote it's mainly Teams ![-](/images/icones/w30/teams_30.png) or ![-](/images/icones/w30/discord_30.png) Discord,<a href="files/skills/trelloJavaJFX.png"> ![-](/images/icones/w30/trello_30.png) Trello and other management tools ...</a><br/> ![-](/images/icones/capsule_40x40.png) [The concept is that i'll give my students minimum materials to start learning, examples, exercices, courses and somes to learn far away, . I lead the development of the group's skills according to the objectives](https://francis-panzani.github.io/posts/formations/)"
+    summary:
+      <a href="https://www.editions-hatier.fr/coin-pedago-la-classe-inversee" title="concept de la classe inversée par les éditions Hatier"><img align="left" style="margin-left:3px; background-color:lightgrey;" width="40%" src="files/skills/classe-inversee-orange.png"></a> "I am mixing Scrum concept's with<a href="https://www.editions-hatier.fr/coin-pedago-la-classe-inversee" title="concept de la classe inversée par les éditions Hatier" alt="-"> Inverted Class </a>in order to be the most effective in my student's learning.<br/>I have course materials for all my trainings <i>(ask for listing, <a href="https://francis-panzani.github.io/fr/posts/formations/">small parts here :P)</a></i>, they all have practical work / tutorials, most of them can be inserted into group projects.</br>
+      For remote it's mainly Teams or Discord
+      <span style="display:FLEX;margin:0;">
+      ![-](/images/icones/w30/teams_30.png) &nbsp; ![-](/images/icones/w30/discord_30.png) &nbsp; ![-](/images/icones/w30/trello_30.png) <a href="files/skills/trelloJavaJFX.png">  Trello and other management tools ...</a>
+      </span><br/>
+      <span style='float:left'> ![-](/images/icones/w30/capsule_30.png) </span>
+      <a href="https://francis-panzani.github.io/posts/formations/" style='line-height:30px;'> The concept of my training's capsule is that
+
+      i'll give my students minimum materials to start learning, examples, exercices, courses and somes to learn far away, . I lead the development of the group's skills according to the objectives</a>
+
     url: "https://francis-panzani.github.io/posts/formations/"
     categories: ["others"]
-
+  # ![-](/images/icones/w30/PO.png) ![-](/images/icones/w30/SM.png) ![-](/images/icones/w30/scrum_30.png)
   - name: Project management - Product Owner
     logo: /images/sections/skills/gdp.png
-    summary: "![-](/images/icones/w30/dev.png) For work or associative projects, I very often play the role of the Product Owner ![-](/images/icones/w30/PO.png) / Scrum Master ![-](/images/icones/w30/SM.png) in strongly typed Scrum ![-](/images/icones/w30/scrum_30.png) Agile's Projects.<br/>To do this, I use a whole bunch of tools to <ul><li>establish specifications ![-](/images/icones/w30/word_30.png)![-](/images/icones/w30/PowerPoint_30.png)![-](/images/icones/w30/Excel_30.png)![-](/images/icones/w30/photoshop_30.png)![-](/images/icones/w30/Illustrator_30.png)![-](/images/icones/w30/Staruml_30.png)![-](/images/icones/w30/balsamiq_30.png)</li><li>directives ![-](/images/icones/w30/trello_30.png)![-](/images/icones/w30/GitLab_30.png)![-](/images/icones/w30/Paint_30.png)</li><li>communicate ![-](/images/icones/w30/gmail_30.png)![-](/images/icones/w30/discord_30.png)![-](/images/icones/w30/calendar_30.png)![-](/images/icones/w30/teams_30.png)![-](/images/icones/w30/linkedin_30.png)</li><li>leader, help ![-](/images/icones/w30/capsule_30.png)![-](/images/icones/w30/github_30.png)</li><li> exchange ![-](/images/icones/w30/drive_30.png) ![-](/images/icones/w30/degoo_30.png) or other.</li></ul> I take great pleasure in it and I try to give as much conviviality as possible to these moments.  "
+    summary:
+      "![-](/images/icones/w30/dev.png) For work or associative projects, I very often play the role of the Product Owner / Scrum Master in strongly typed Scrum Agile's Projects.<br/>
+      To do this, I use a whole bunch of tools to <ul><li>establish specifications
+      <span style='display:FLEX;margin:0'> ![-](/images/icones/w30/word_30.png)![-](/images/icones/w30/PowerPoint_30.png)![-](/images/icones/w30/Excel_30.png)![-](/images/icones/w30/photoshop_30.png)![-](/images/icones/w30/Illustrator_30.png)![-](/images/icones/w30/Staruml_30.png)![-](/images/icones/w30/balsamiq_30.png)</li>
+      </span >
+      <li>directives <span style='display:FLEX;margin:0'> ![-](/images/icones/w30/trello_30.png)![-](/images/icones/w30/GitLab_30.png)![-](/images/icones/w30/Paint_30.png)</li></span >
+      <li>communicate <span style='display:FLEX;margin:0'> ![-](/images/icones/w30/gmail_30.png)![-](/images/icones/w30/discord_30.png)![-](/images/icones/w30/calendar_30.png)![-](/images/icones/w30/teams_30.png)![-](/images/icones/w30/linkedin_30.png)</li></span >
+      <li>leader, help <span style='display:FLEX;margin:0'>  ![-](/images/icones/w30/capsule_30.png)![-](/images/icones/w30/github_30.png)</li></span >
+      <li> exchange or other.<span style='display:FLEX;margin:0'>  ![-](/images/icones/w30/drive_30.png) ![-](/images/icones/w30/degoo_30.png) </li></span >
+      </ul> I take great pleasure in it and I try to give as much conviviality as possible to these moments.  "
     categories: ["management"]
     url: "files/skills/trelloVG.png"
 
   - name: Learn by myself
     logo: /images/sections/skills/secnumacademie_toque.png
-    summary: "I got used to being independent in my work and my skills development. <br/> I always learn new things with great pleasure almost daily<br> For example, I have been registered with ![OpenClassrooms](/images/OC-1.png) since 2015, I have acquired more around 50 certifications by following their trainings.<br> I also really appreciate ![freeCodeCamp](/files/skills/freeCodeCamp-1.png) , from I will soon put my challenges online 🦾  "
+    summary:
+      "I got used to being independent in my work and my skills development. <br/> I always learn new things with great pleasure almost daily<br> For example, I have been registered with ![OpenClassrooms](/images/OC-1.png) since 2015, I have acquired more around 50 certifications by following their trainings.<br>
+      I also really appreciate ![freeCodeCamp](/files/skills/freeCodeCamp-1.png) , from where I will soon put my challenges online 🦾  </span>"
     url: "http://franpan.free.fr/listeFormationOC/"
     categories: ["others"]
 
@@ -67,6 +88,7 @@ skills:
     summary: "Beginner, basic knowledge. Currently not able to train people on it"
     #url: "https://www.docker.com/"
     categories: ["others"]
+
   - name: Linux
     logo: /images/sections/skills/linux.png
     summary: "Using as the main Operating System. Able of writing bash/shell scripts."
@@ -77,16 +99,22 @@ skills:
     summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
     url: "../posts/formations/formation_git/"
     categories: ["others"]
-
-  - name: C++
-    logo: /images/sections/skills/c++.png
-    summary: "At the bottom of the cellar are basic C/C++ programming. Big refresh on preview ^^;;."
-    categories: ["language"]
+  #rajouter
+  - name: Html5
+    logo: /images/sections/skills/html5_30.png
+    summary: "Able to train people with different degrees, one of the web basics"
+    url: "../posts/formations/formation_html/"
+    categories: ["language", "web"]
 
   - name: TypeScript
     logo: /images/sections/skills/typescript.png
     summary: "Able to train people and produce little sofwtare with it, mainly use to train or prepare Angular's training"
     url: "../posts/formations/formation_typescript/"
+    categories: ["language"]
+
+  - name: C & C++
+    logo: /images/sections/skills/c++.png
+    summary: "At the bottom of the cellar are basic C/C++ programming. Big refresh on preview ^^;;."
     categories: ["language"]
 
   - name: SEO
