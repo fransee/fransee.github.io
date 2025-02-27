@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Formation CSS (Cascading Style Sheets) on FRANSEE Francis's Blog</title><link>https://fransee.github.io/fr/posts/formations/formation_css/</link><description>Recent content in Formation CSS (Cascading Style Sheets) on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Sun, 13 Feb 2022 08:11:26 +0000</lastBuildDate><atom:link href="https://fransee.github.io/fr/posts/formations/formation_css/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation CSS 3 - Premier Niveau -</title><link>https://fransee.github.io/fr/posts/formations/formation_css/base/</link><pubDate>Sun, 13 Feb 2022 08:11:26 +0000</pubDate><guid>https://fransee.github.io/fr/posts/formations/formation_css/base/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info text-center" role="alert">
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> CSS &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/css3_30.png" alt="3"> (Feuilles de style en cascade) &lt;/mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage qui est présent quasiment depuis le début du WWWeb et est un incontournable de la création de &lt;i class="fas fa-sitemap">&lt;/i>sites internet, &lt;i class="fas fa-file-code">&lt;/i>pages web ou même support de documentation &lt;br/>
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;img align="right" width="49%" src="css3.png" alt="" >&lt;img style="-webkit-user-select: none; margin: auto; " src="https://fransee.github.io/images/icones/w30/css3_30.png"> “ Les feuilles de style en cascade, généralement appelées CSS de l&amp;rsquo;anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML.&lt;br>
+Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).&lt;br>
+Introduit au milieu des années 1990, CSS devient couramment utilisé dans la conception de sites web et bien pris en charge par les navigateurs web dans les années 2000.&lt;br>
+L&amp;rsquo;apparition de CSS répond à une volonté de « proposer une alternative à l&amp;rsquo;évolution du HTML d&amp;rsquo;un langage de structuration vers un &lt;strong>&lt;i>langage de présentation&lt;/i>&lt;/strong> » ”&lt;/p></description></item><item><title>Formation CSS 3 - Deuxième Niveau -</title><link>https://fransee.github.io/fr/posts/formations/formation_css/avance/</link><pubDate>Sun, 13 Feb 2022 08:11:25 +0000</pubDate><guid>https://fransee.github.io/fr/posts/formations/formation_css/avance/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info text-center" role="alert">
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> CSS &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/css3_30.png" alt="3"> Avancé &lt;/mark>, des positionnements plus "touchy" (empilement et sticky), des menus divers et variés, le coté responsive avec les Media Queries ainsi que les conteneurs Flexbox et le module Css Grid &lt;br/>
+&lt;/div>
+Pour cette formation nous n'avons pas besoin de prérequis ni d'installation autres que ce que nous avons déjà vu ensemble dans la première partie.
+&lt;div style="margin-top: 1rem;">&lt;/div>
+Une liste non exhaustive de ce que l'on verra :
+&lt;div style="margin-top: 1rem;">&lt;/div>
+&lt;ul>
+&lt;li>Créer des menus avancés responsives&lt;/li>
+&lt;li>Utiliser des éléments CSS avancés (Accordéons, Breadcrumb, etc &amp;hellip;)&lt;/li>
+&lt;li>Mettre en place et écrire les Medias Queries&lt;/li>
+&lt;li>Mettre en place le responsive d’un site web avec Grid et Flexbox&lt;/li>
+&lt;li>Savoir manipuler le conteneur et le contenu avec CSS Grid&lt;/li>
+&lt;li>Savoir éditer de lignes et de colonnes et définir les zones CSS&lt;/li>
+&lt;li>Apprendre à créer des pages pour desktop, tablette et mobile
+&lt;div style="margin-top: 2rem;">&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;p>Si vous êtes pressés de débuter vous pouvez démarrer la partie des CSS Grid &lt;a href="http://franpan.free.fr/formation/_css0022/_Pages/free/css_grid.html#introduction" target="_blank" rel="noopener">ici &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> :&lt;/p></description></item></channel></rss>

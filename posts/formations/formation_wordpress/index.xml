@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Formation Wordpress on FRANSEE's Blog</title><link>https://fransee.github.io/posts/formations/formation_wordpress/</link><description>Recent content in Formation Wordpress on FRANSEE's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Everything is mine</copyright><lastBuildDate>Sun, 13 Jun 2021 10:11:31 +0000</lastBuildDate><atom:link href="https://fransee.github.io/posts/formations/formation_wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation Wordpress - Initiation</title><link>https://fransee.github.io/posts/formations/formation_wordpress/lvl1/</link><pubDate>Sun, 13 Jun 2021 10:11:31 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_wordpress/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous débuterons cette formation par une initiation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"> , on traitera les thématiques suivantes :
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="wpblue.png" alt="W">ordPress.com et &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; color:blue;" src="https://fransee.github.io/images/icones/w30/wordpress4_30.png" alt="W">ordPress.org&lt;/li>
+&lt;li>C&amp;rsquo;est quoi WordPress ?&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/wordpress4_30.png" alt="W">ordPress comme Système de gestion de contenu ou CMS&lt;/li>
+&lt;li>Pourquoi WordPress ?&lt;/li>
+&lt;li>Les ressources WordPress et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;p>“WordPress est un système de gestion de contenu (SGC ou content management system (CMS) en anglais) gratuit, libre et open-source.&lt;br>
+Ce logiciel écrit en PHP repose sur une base de données MySQL et est distribué par la fondation WordPress.org.&lt;br>
+Les fonctionnalités de WordPress lui permettent de créer et gérer différents types de sites Web : site vitrine, site de vente en ligne, site applicatif, blog, portfolio, site institutionnel, site d&amp;rsquo;enseignement…”&lt;/p></description></item><item><title>Formation Wordpress - Avancé</title><link>https://fransee.github.io/posts/formations/formation_wordpress/lvl2/</link><pubDate>Sun, 13 Jun 2021 10:11:30 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_wordpress/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"> , en voyant les thématiques suivantes :
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Les plugins avec &lt;img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/wordpress4_30.png" alt="W">ordpress, notamment :
+&lt;ul>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="https://fransee.github.io/images/icones/w30/yoast.svg"> L&amp;rsquo;obligatoire Yoast SEO, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/wordpress-seo/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/wordpress-seo/&lt;/a>&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="https://fransee.github.io/images/icones/w30/elementor.svg"> L&amp;rsquo;indispensable Elementor Website Builder, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/elementor/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/elementor/&lt;/a>&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/cookienotice_30.png"> L&amp;rsquo;utile cause obligation RGPD, Cookie Notice &amp;amp; Compliance, disponible ici : &lt;a href="https://wordpress.org/plugins/cookie-notice/" target="_blank" rel="noopener">https://wordpress.org/plugins/cookie-notice/&lt;/a>&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/allinone_30.png"> Le nécessaire All in One (ou Duplicator) pour les backups, disponible ici : &lt;a href="https://wordpress.org/plugins/all-in-one-wp-migration/" target="_blank" rel="noopener">https://wordpress.org/plugins/all-in-one-wp-migration/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Les thèmes WordPress &amp;amp; greffons que l&amp;rsquo;on développera et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/woocommerce_30.png"> Woocommerce (si on a le temps car c&amp;rsquo;est juste énorme), plugin officiel pour faire du e-commerce, disponible ici : &lt;a href="https://wordpress.org/plugins/woocommerce/" target="_blank" rel="noopener">https://wordpress.org/plugins/woocommerce/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions suivantes &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item></channel></rss>

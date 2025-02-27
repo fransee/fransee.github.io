@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses Listes FP on FRANSEE's Blog</title><link>https://fransee.github.io/posts/formations/</link><description>Recent content in Courses Listes FP on FRANSEE's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Everything is mine</copyright><lastBuildDate>Sun, 13 Feb 2022 08:11:26 +0000</lastBuildDate><atom:link href="https://fransee.github.io/posts/formations/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation CSS 3 - First Level -</title><link>https://fransee.github.io/posts/formations/formation_css/base/</link><pubDate>Sun, 13 Feb 2022 08:11:26 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_css/base/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" role="alert">
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> CSS &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/css3_30.png" alt="3"> (Feuilles de style en cascade) &lt;/mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage qui est présent quasiment depuis le début du WWWeb et est un incontournable de la création de &lt;i class="fas fa-sitemap">&lt;/i>sites internet, &lt;i class="fas fa-file-code">&lt;/i>pages web ou même support de documentation &lt;br/>
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;img align="right" width="49%" src="css3.png" alt="" >&lt;img style="-webkit-user-select: none; margin: auto; " src="https://fransee.github.io/images/icones/w30/css3_30.png"> “ Les feuilles de style en cascade, généralement appelées CSS de l&amp;rsquo;anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML.&lt;br>
+Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).&lt;br>
+Introduit au milieu des années 1990, CSS devient couramment utilisé dans la conception de sites web et bien pris en charge par les navigateurs web dans les années 2000.&lt;br>
+L&amp;rsquo;apparition de CSS répond à une volonté de « proposer une alternative à l&amp;rsquo;évolution du HTML d&amp;rsquo;un langage de structuration vers un &lt;strong>&lt;i>langage de présentation&lt;/i>&lt;/strong> » ”&lt;/p></description></item><item><title>Formation CSS 3 - Second Level -</title><link>https://fransee.github.io/posts/formations/formation_css/avance/</link><pubDate>Sun, 13 Feb 2022 08:11:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_css/avance/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" role="alert">
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> CSS &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/css3_30.png" alt="3"> Avancé &lt;/mark>, des positionnements plus "touchy" (empilement et sticky), des menus divers et variés, le coté responsive avec les Media Queries ainsi que les conteneurs Flexbox et le module Css Grid &lt;br/>
+&lt;/div>
+Pour cette formation nous n'avons pas besoin de prérequis ni d'installation autres que ce que nous avons déjà vu ensemble dans la première partie.
+&lt;div style="margin-top: 1rem;">&lt;/div>
+Une liste non exhaustive de ce que l'on verra :
+&lt;div style="margin-top: 1rem;">&lt;/div>
+&lt;ul>
+&lt;li>Créer des menus avancés responsives&lt;/li>
+&lt;li>Utiliser des éléments CSS avancés (Accordéons, Breadcrumb, etc &amp;hellip;)&lt;/li>
+&lt;li>Mettre en place et écrire les Medias Queries&lt;/li>
+&lt;li>Mettre en place le responsive d’un site web avec Grid et Flexbox&lt;/li>
+&lt;li>Savoir manipuler le conteneur et le contenu avec CSS Grid&lt;/li>
+&lt;li>Savoir éditer de lignes et de colonnes et définir les zones CSS&lt;/li>
+&lt;li>Apprendre à créer des pages pour desktop, tablette et mobile
+&lt;div style="margin-top: 2rem;">&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;p>Si vous êtes pressés de débuter vous pouvez démarrer la partie des CSS Grid &lt;a href="http://franpan.free.fr/formation/_css0022/_Pages/free/css_grid.html#introduction" target="_blank" rel="noopener">ici &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> :&lt;/p></description></item><item><title>Formation PhP - Premier Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl1/</link><pubDate>Sun, 26 Dec 2021 10:11:59 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce premier niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP"> les fondamentaux, ses principales fonctions et structures de contrôle, ainsi que des explications sur la transmission des données entre les &lt;i class="fas fa-file-code">&lt;/i> pages et donc l’essentiel pour bien débuter avec ce &lt;a href="https://fr.wikipedia.org/wiki/Langage_serveur"> langage de script coté &lt;i class="fas fa-server">&lt;/i> serveur &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> très utilisé pour les &lt;i class="fas fa-sitemap">&lt;/i> sites internet et les &lt;i class="fas fa-file-code">&lt;/i> pages web.&lt;br/>
+La formation dans ses débuts sera très axé sur l'excellent travail de mon ancien collègue, &lt;a href="https://www.editions-eni.fr/supports-de-cours/recherche?exp=olivier%20rollet">&lt;mark> Olivier ROLLET&lt;/mark>, Ingénieur maître et auteur chez les éditions Eni dont vous pouvez trouver ses livres -> :books: ICI &lt;i class="fas fa-external-link-alt">&lt;/i> &lt;-&lt;/a>
+&lt;/div>
+&lt;div class="float-right img-fluid" >
+&lt;img src="variableselonbesoin-red.png" style="transform: rotate(-45deg); position : absolute; margin-right:15%;margin-left:15%; margin-top:30%; z-index: 1; ">
+&lt;img src="phpbaseliste.png" style="z-index: 0;">
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;i class="fab fa-php fa-2x" style="color:blue; vertical-align:middle;">&lt;/i> :“ Hypertext Preprocessor, est un &lt;a href="https://fr.wikipedia.org/wiki/Logiciel_libre" target="_blank" rel="noopener">langage de programmation libre &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> , principalement utilisé pour produire des pages Web dynamiques via un &lt;i class="fas fa-server">&lt;/i> serveur HTTP, mais pouvant également fonctionner comme n&amp;rsquo;importe quel langage interprété de façon locale.
+PHP est un langage impératif orienté objet.&lt;/p></description></item><item><title>Formation PhP - Second Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl2/</link><pubDate>Sun, 26 Dec 2021 10:11:58 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce second niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP">
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Comment maîtriser les fonctions de base du PHP, c’est-à-dire, créer des fonctions en utilisant les tableaux, les boucles et différents opérateurs.&lt;/li>
+&lt;li>Savoir générer dynamiquement du HTML à partir du PHP.&lt;/li>
+&lt;li>Maîtriser les fonctions avancées du PHP, c’est-à-dire utiliser les variables super-globales en particulier les sessions et les cookies.&lt;/li>
+&lt;li>Transmettre et contrôler des données d’une page à une autre et manipuler une image dynamiquement.&lt;/li>
+&lt;li>&lt;img style="vertical-align: middle; " src="https://fransee.github.io/images/icones/w30/Xdebug_30.png"> et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;/span>Liste non exhaustive de ce que l'on pourra aborder :
+&lt;div class="row justify-content-center">
+&lt;img src="avance.png" >
+&lt;/div>
+&lt;/div>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) données précédemment &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation PhP - Troisieme Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl3/</link><pubDate>Sun, 26 Dec 2021 10:11:57 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl3/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce :three:ieme niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP">
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Comment comprendre le langage MySQL et gérer la base de données à l’aide PHPMyAdmin&lt;/li>
+&lt;li>Utiliser le langage SQL en visant une pratique optimale, pour développer des applications performantes accédant aux bases de données.&lt;/li>
+&lt;li>Interagir entre les pages PHP et les bases de données MySQL en gérant la sécurité.&lt;/li>
+&lt;li>et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;/span>Liste non exhaustive de ce que l'on pourra aborder :
+&lt;div class="row justify-content-center">
+&lt;img src="MYSQL.svg" >
+&lt;/div>
+&lt;/div>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) données précédemment &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation PhP - Quatrieme Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl4/</link><pubDate>Sun, 26 Dec 2021 10:11:56 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl4/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce :four:ieme niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP">
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Comment avoir une approche du développement orienté objet (POO)&lt;/li>
+&lt;li>Savoir comprendre les fichiers de configuration et les techniques pour sécuriser son site web.&lt;/li>
+&lt;li>Comprendre la notion d’Objet.&lt;/li>
+&lt;li>Aller plus loin dans la sécurité avec PhP&lt;/li>
+&lt;li>Découvrir le patron de conception MVC&lt;/li>
+&lt;li>et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;/span>Liste non exhaustive de ce que l'on pourra aborder :
+&lt;div class="row justify-content-center">
+&lt;img src="poo.png" >
+&lt;/div>
+&lt;/div>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) données précédemment &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation Wordpress - Initiation</title><link>https://fransee.github.io/posts/formations/formation_wordpress/lvl1/</link><pubDate>Sun, 13 Jun 2021 10:11:31 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_wordpress/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous débuterons cette formation par une initiation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"> , on traitera les thématiques suivantes :
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="wpblue.png" alt="W">ordPress.com et &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; color:blue;" src="https://fransee.github.io/images/icones/w30/wordpress4_30.png" alt="W">ordPress.org&lt;/li>
+&lt;li>C&amp;rsquo;est quoi WordPress ?&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/wordpress4_30.png" alt="W">ordPress comme Système de gestion de contenu ou CMS&lt;/li>
+&lt;li>Pourquoi WordPress ?&lt;/li>
+&lt;li>Les ressources WordPress et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;p>“WordPress est un système de gestion de contenu (SGC ou content management system (CMS) en anglais) gratuit, libre et open-source.&lt;br>
+Ce logiciel écrit en PHP repose sur une base de données MySQL et est distribué par la fondation WordPress.org.&lt;br>
+Les fonctionnalités de WordPress lui permettent de créer et gérer différents types de sites Web : site vitrine, site de vente en ligne, site applicatif, blog, portfolio, site institutionnel, site d&amp;rsquo;enseignement…”&lt;/p></description></item><item><title>Formation Wordpress - Avancé</title><link>https://fransee.github.io/posts/formations/formation_wordpress/lvl2/</link><pubDate>Sun, 13 Jun 2021 10:11:30 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_wordpress/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"> , en voyant les thématiques suivantes :
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Les plugins avec &lt;img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/wordpress4_30.png" alt="W">ordpress, notamment :
+&lt;ul>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="https://fransee.github.io/images/icones/w30/yoast.svg"> L&amp;rsquo;obligatoire Yoast SEO, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/wordpress-seo/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/wordpress-seo/&lt;/a>&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="https://fransee.github.io/images/icones/w30/elementor.svg"> L&amp;rsquo;indispensable Elementor Website Builder, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/elementor/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/elementor/&lt;/a>&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/cookienotice_30.png"> L&amp;rsquo;utile cause obligation RGPD, Cookie Notice &amp;amp; Compliance, disponible ici : &lt;a href="https://wordpress.org/plugins/cookie-notice/" target="_blank" rel="noopener">https://wordpress.org/plugins/cookie-notice/&lt;/a>&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/allinone_30.png"> Le nécessaire All in One (ou Duplicator) pour les backups, disponible ici : &lt;a href="https://wordpress.org/plugins/all-in-one-wp-migration/" target="_blank" rel="noopener">https://wordpress.org/plugins/all-in-one-wp-migration/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Les thèmes WordPress &amp;amp; greffons que l&amp;rsquo;on développera et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;li>&lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="https://fransee.github.io/images/icones/w30/woocommerce_30.png"> Woocommerce (si on a le temps car c&amp;rsquo;est juste énorme), plugin officiel pour faire du e-commerce, disponible ici : &lt;a href="https://wordpress.org/plugins/woocommerce/" target="_blank" rel="noopener">https://wordpress.org/plugins/woocommerce/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions suivantes &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation Javascript - Premier Niveau -</title><link>https://fransee.github.io/posts/formations/formation_js/lvl1/</link><pubDate>Sun, 13 Jun 2021 09:11:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_js/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: orange;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> JavaScript &lt;/mark>&lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/js_30.png" alt="3"> , les fondamentaux, l’essentiel pour démarrer avec ce langage utilisé pour les &lt;i class="fas fa-sitemap">&lt;/i> sites internet, &lt;i class="fas fa-file-code">&lt;/i> pages web&lt;br/> ,&lt;i class="fas fa-desktop">&lt;/i> logiciels ou même &lt;i class="fas fa-mobile-alt">&lt;/i> applications smartphones (oui oui, on peut en trouver de partout :smile:).&lt;br/>
+C'est la troisième couche des technologies standards du web, après HTML et CSS.
+&lt;/div>
+&lt;blockquote>
+&lt;p>“JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web.&lt;br>
+Avec les technologies HTML et CSS, JavaScript est parfois considéré comme l&amp;rsquo;une des technologies cœur du World Wide Web.&lt;br>
+Une grande majorité des sites web l&amp;rsquo;utilisent, et &lt;strong>&lt;i>la majorité des navigateurs web disposent d&amp;rsquo;un moteur JavaScript dédié &lt;/strong>&lt;/i>pour l&amp;rsquo;interpréter, indépendamment des considérations de sécurité qui peuvent se poser le cas échéant.&lt;br>
+C&amp;rsquo;est un langage &lt;strong>&lt;i>orienté objet à prototype&lt;/i>&lt;/strong> : les bases du langage et ses principales interfaces sont fournies par des objets.&lt;br>
+Cependant, à la différence d&amp;rsquo;un langage orienté objets, les objets de base ne sont pas des instances de classes. ”&lt;/p></description></item><item><title>Formation Javascript - Second Niveau -</title><link>https://fransee.github.io/posts/formations/formation_js/lvl2/</link><pubDate>Sun, 13 Jun 2021 05:11:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_js/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" >
+&lt;i class="fas fa-info-circle " style="color: orange;">&lt;/i> Nous verrons dans cette formation sur &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/js_30.png"> &lt;mark>JavaScript Niveau 2 &lt;/mark>, les fonctions Avancées, l'Objet dans sa version la plus récente en JS, les nouveautés apportées par ECMA V6, le &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/json_30.png"> JSON et bien d'autres choses encore :pancakes:
+&lt;/div>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) données précédemment &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation sur XML</title><link>https://fransee.github.io/posts/formations/formation_xml/</link><pubDate>Sat, 12 Jun 2021 07:05:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_xml/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;p>Dans cette formation, on verra comment créer, valider (via &lt;em>DTD&lt;/em> ou &lt;em>Schéma&lt;/em>) , requêter (via &lt;em>XPATH&lt;/em>) et transformer (via &lt;em>XSLT et CSS&lt;/em>) des documents &lt;mark>Extensible Markup Language &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/w30/xml_30.png"> &lt;/mark> et on aura de nombreuses occasion de s&amp;rsquo;exercer et de produire des pages html très optimisées.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;img style="-webkit-user-select: none; margin: auto;" src="https://www.w3.org/2008/site/images/logo-w3c-mobile-lg"> “ Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data&lt;i class="fas fa-database">&lt;/i> on the Web and elsewhere.”&lt;/p></description></item><item><title>Formation HTML 5</title><link>https://fransee.github.io/posts/formations/formation_html/</link><pubDate>Sun, 06 Jun 2021 08:10:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_html/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-info text-center" role="alert">
+&lt;i class="fas fa-info-circle " style="color: orange;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/html5_30.png" alt="-">HTML dans sa version 5 de 2014&lt;/mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage de &lt;i class="fas fa-code">&lt;/i>&lt;b>&amp;lt;balisage&amp;gt;&lt;/b> qui est un incontournable lors de la création de &lt;i class="fas fa-sitemap">&lt;/i>sites internet, &lt;i class="fas fa-file-code">&lt;/i>pages web ou même support de documentation &lt;br/>
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;img style="-webkit-user-select: none; margin: auto; " src="https://fransee.github.io/images/icones/w30/html5_30.png"> “HTML5 (HyperText Markup Language 5) est la dernière révision majeure du HTML (format de données conçu pour représenter les pages web).&lt;br>
+Cette version a été finalisée le 28 octobre 2014.&lt;br>
+HTML5 spécifie deux syntaxes d&amp;rsquo;un modèle abstrait défini en termes de DOM : &lt;b>HTML5&lt;/b> (.html et .html) et &lt;b>XHTML5&lt;/b> (.xhtml, .xht, .xml).&lt;/p></description></item><item><title>Formation MongoDB Base</title><link>https://fransee.github.io/posts/formations/formation_mongodb/</link><pubDate>Sun, 06 Jun 2021 07:15:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_mongodb/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-dark text-left" role="alert">
+&lt;img style="vertical-align: bottom;" src="https://fransee.github.io/images/icones/w30/mongodb_30.png"> &lt;i class="fas fa-info-circle">&lt;/i> Nous verrons dans cette formation sur &lt;mark> Mongo DB (Base) &lt;/mark> une nouvelle façon d'exploiter des données sans SQL (et oui, fini la douce joie des clefs primaires et étrangères, adieu les jointures, fini Merise).
+&lt;p>On verra donc comment installer et exploiter l&amp;rsquo;un des acteurs majeurs du mouvement NO-SQL permettant de traiter des masses immenses de données, le &lt;a href="https://fr.wikipedia.org/wiki/Big_data" target="_blank" rel="noopener">Big Data &lt;i class="fas fa-database fa-2x">&lt;/i> &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a>, à ne pas confondre avec notre version française, le &lt;a href="https://www.youtube.com/watch?v=wcQXW5mje70" target="_blank" rel="noopener">Big Bisous &lt;i class="far fa-kiss-beam fa-2x">&lt;/i> &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a>.&lt;/p></description></item><item><title>Formation VueJS Base</title><link>https://fransee.github.io/posts/formations/formation_vuejs/</link><pubDate>Sun, 06 Jun 2021 07:10:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_vuejs/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-dark text-center" role="alert">
+&lt;i class="fas fa-info-circle " style="color: green;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> &lt;img style="vertical-align: bottom; " src="https://fransee.github.io/images/icones/w30/vuejs2_30.png" >Vue JS (Base) &lt;/mark> , les fondamentaux, l’essentiel pour démarrer avec ce &lt;a href="https://www.wanadev.fr/227-react-vue-angular-quel-framework-front-choisir-en-2021/" title="A lire pour plus d'information">&lt;i class="fas fa-laptop-code">&lt;/i> Framework Front &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> qui prend de plus en plus d'ampleur dans &lt;br/>
+&lt;p>la communauté Javascript &lt;img style="vertical-align: bottom;" src="https://fransee.github.io/images/icones/w30/js_30.png"> et sa &lt;a href="https://2020.stateofjs.com/en-US/technologies/" target="_blank" rel="noopener">myriade de &lt;i class="fas fa-toolbox" >&lt;/i> Frameworks &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a>&lt;/p>
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;img style="-webkit-user-select: none; margin: auto; " src="https://fransee.github.io/images/icones/w30/vuejs2_30.png"> “VueJS a été créé par Evan You (尤雨溪) après avoir travaillé pour &lt;img style="vertical-align: bottom; height: 30px;" src="https://fransee.github.io/images/icones/googlelogo_color_272x92dp.png" alt="Google"> en utilisant &lt;img style="vertical-align: bottom; height: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" alt="AngularJS"> dans plusieurs projets.&lt;br>
+La première version est sortie le 11 février 2014.&lt;br>
+Dans ce support on va travailler avec la version 2.6.11 (du 13 décembre 2019. Ok ça date mais c&amp;rsquo;est mature et surtout toujours d&amp;rsquo;actualité, les bases on pas encore changé).&lt;/p></description></item><item><title>TD Doctrine 2</title><link>https://fransee.github.io/posts/formations/td_doctrine/</link><pubDate>Sat, 05 Jun 2021 07:15:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/td_doctrine/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;div class="d-sm-block alert alert-primary text-center" role="alert">
+&lt;img style="vertical-align: bottom;" src="https://fransee.github.io/images/icones/w30/doctrine_30.png"> Une fois n'est pas coutume, on va apprendre la technologie du cours via un &lt;mark>Travail Dirigé &lt;/mark>en suivant l'excellent tuto suivant :&lt;br/>
+&lt;p>&lt;a href="https://zestedesavoir.com/tutoriels/1713/doctrine-2-a-lassaut-de-lorm-phare-de-php/les-bases-de-doctrine-2/" target="_blank" rel="noopener">https://zestedesavoir.com/tutoriels/1713/doctrine-2-a-lassaut-de-lorm-phare-de-php/les-bases-de-doctrine-2/&lt;/a>&lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/p>
+&lt;/div>
+&lt;p>Pourquoi ce choix ? :&lt;/p>
+&lt;ul>
+&lt;li>Pour vous faire travailler sur d&amp;rsquo;autres ressources que les miennes et découvrir que le web fourmille d&amp;rsquo;excellentes ressources (mais y a du buggé ou de l&amp;rsquo;outdated aussi, malheureusement )&lt;/li>
+&lt;li>Parce qu&amp;rsquo;il est très bien fait et qu&amp;rsquo;il nous servira de base pour Doctrine 2.0&lt;/li>
+&lt;li>Parce que la v3 de doctrine est dans les tuyaux et j&amp;rsquo;avoue avoir la flemme de faire un cours complet sur doctrine 2 pour après le mettre à jour avec la V3 &amp;#x1f445;&lt;/li>
+&lt;li>Parceque un bon développeur sait s&amp;rsquo;économiser et être écolo en pratiquant la &lt;i class="fas fa-recycle" style="color:green">&lt;/i> réutilisation de code (oui oui, ce n&amp;rsquo;est pas de la fain&amp;hellip;.) &amp;#x1f604;&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;img style="-webkit-user-select: none; margin: auto;" src="https://fransee.github.io/images/icones/w30/doctrine_30.png"> “ The Doctrine Project is the home to several PHP libraries primarily focused on database storage and object mapping. The core projects are the Object Relational Mapper (ORM) and the Database Abstraction Layer (DBAL) it is built upon. &lt;br/> Doctrine has been downloaded a total of 2,222,562,433 times!”&lt;/p></description></item><item><title>Formation sur Ajax</title><link>https://fransee.github.io/posts/formations/formation_ajax/</link><pubDate>Sun, 30 May 2021 10:05:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_ajax/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;p>Dans cette courte formation (après une bonne maitrise du tryptique HTML &lt;i class="fab fa-html5">&lt;/i> CSS&lt;i class="fab fa-css3-alt">&lt;/i> &amp;amp; Javascript&lt;i class="fab fa-js-square">&lt;/i>), on verra comment utiliser&lt;/p>
+&lt;p>&lt;img style="float:left;" src="ajax_h50.png">&lt;mark style='line-height:70px;'> : Asynchronous JavaScript and XML&lt;/mark>
+&lt;img align="right" width="30%" src="ajax1.png">
+et l&amp;rsquo;utiliser dans un TP assez pratique pour les formulaires d&amp;rsquo;inscriptions &amp;#x1f604;.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;img src="https://fransee.github.io/posts/formations/formation_ajax/MDN_h50.png" alt="MDN citation"> “ AJAX (Asynchronous JavaScript + XML) n&amp;rsquo;est pas une technologie en soi, mais un terme désignant une « nouvelle » approche utilisant un ensemble de technologies existantes, dont : HTML ou XHTML, les feuilles de styles CSS, JavaScript, le modèle objet de document (DOM), XML, XSLT, et l&amp;rsquo;objet XMLHttpRequest. &lt;br/>Lorsque ces technologies sont combinées dans le modèle AJAX, les applications Web sont capables de réaliser des mises à jour rapides et incrémentielles de l&amp;rsquo;interface utilisateur sans devoir recharger la page entière du navigateur. Les applications fonctionnent plus rapidement et sont plus réactives aux actions de l&amp;rsquo;utilisateur.”&lt;/p></description></item><item><title>Formation sur Python</title><link>https://fransee.github.io/posts/formations/formation_python/</link><pubDate>Sun, 30 May 2021 09:05:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_python/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;p>&lt;img src="https://fransee.github.io/posts/formations/formation_python/python_30.png" alt="icone_python"> Dans cette formation on verra comment installer, configurer &lt;mark>Python V3&lt;/mark> et le prendre en main.&lt;/p>
+&lt;p>Que l&amp;rsquo;on soit débutant, avec une mise en relation poussée avec l&amp;rsquo;algorithmique, jusqu&amp;rsquo;à un niveau avancé afin de l&amp;rsquo;utiliser pour faire des scripts d&amp;rsquo;utilisation et des logiciels graphiques (si si c&amp;rsquo;est possible) vous pourrez progresser et prendre plaisir à l&amp;rsquo;utiliser.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;img src="https://fransee.github.io/images/wikipedia.png" alt="python citation"> “ Python est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.&lt;br>
+Il est doté d&amp;rsquo;un typage dynamique fort, d&amp;rsquo;une gestion automatique de la mémoire par ramasse-miettes et d&amp;rsquo;un système de gestion d&amp;rsquo;exceptions ; il est ainsi similaire à Perl, Ruby, Scheme, Smalltalk et Tcl.”&lt;/p></description></item><item><title>Formation sur Bootstrap 4</title><link>https://fransee.github.io/posts/formations/formation_bootstrap/</link><pubDate>Sat, 22 May 2021 05:05:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_bootstrap/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;p>Dans cette formation on verra comment installer et utiliser &lt;mark> Bootstrap V4&lt;/mark>, faire du responsive Web Design, utiliser ses éléments typographiques, l&amp;rsquo;utiliser pour nous aider à faire la mise en page de nos sites internets et utiliser les éléments avancés (carroussel et autres) qu&amp;rsquo;apportent ce framrwork front gratuit (encore merci à tous ceux qui contribuent ou qui ont contribués à ce très beau projet).
+Ce sera une formation essentiellement pratique avec pas mal d&amp;rsquo;exercices, de TP /TD et on aura des résultats assez rapidement.&lt;/p></description></item><item><title>Formation en Référencement, SEO, Conseils et TP à faire</title><link>https://fransee.github.io/posts/formations/referencement/</link><pubDate>Sun, 16 May 2021 08:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/referencement/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Le référencement est l&amp;rsquo;action de référencer, c&amp;rsquo;est-à-dire mentionner quelque chose ou y faire référence.&lt;br>
+Sur Internet, le travail de référencement consiste à améliorer le positionnement et la visibilité de sites dans des pages de résultats de moteurs de recherche ou d&amp;rsquo;annuaires.&lt;br>
+Le référencement web s&amp;rsquo;articule autour de deux stratégies distinctes et complémentaires :&lt;br>
+&amp;#x1f60e; le référencement &lt;a href="#naturel">naturel&lt;/a> (ou organique) &lt;strong> SEO &lt;/strong>&lt;br>
+&amp;#x1f4b0; le référencement &lt;a href="#payant">payant&lt;/a> (ou liens sponsorisés).&lt;/p></description></item><item><title>Formation Uml</title><link>https://fransee.github.io/posts/formations/formation_uml/</link><pubDate>Sat, 15 May 2021 11:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_uml/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;h2 id="bienvenue-sur-cette-partie-traitant-de-la-formation-à-uml-smiley">Bienvenue sur cette partie traitant de la formation à UML &amp;#x1f603;&lt;/h2>
+&lt;p>On verra ici ce qu&amp;rsquo;est UML (dispensé jusqu&amp;rsquo;en bac +3 /4 et oui, vous n&amp;rsquo;avez pas fini d&amp;rsquo;en entendre parler).&lt;br>
+&lt;em>U&lt;/em>nified &lt;em>M&lt;/em>odeling &lt;em>L&lt;/em>anguage ou en français Langage de Modélisation Unifié est un langage de modélisation graphique à base de pictogrammes conçu pour fournir une méthode normalisée pour visualiser la conception d&amp;rsquo;un système.&lt;/p></description></item><item><title>Formation sur Node Js</title><link>https://fransee.github.io/posts/formations/formation_nodejs/</link><pubDate>Sat, 08 May 2021 18:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_nodejs/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;p>Dans cette formation on verra comment installer et configurer NodeJS, le prendre en main, l&amp;rsquo;utiliser avec MongoDB, Jade/Pug et Express JS, on m&amp;rsquo;utilisera en mode CLI, si on a du temps on fera une API/REST&lt;/p>
+&lt;p>Tout d&amp;rsquo;abord un petit historique des frameworks web jusqu&amp;rsquo;à 2019 (merci &lt;a href="https://twitter.com/lofidewanto/status/1128981965632364544" target="_blank" rel="noopener">Dr Jawa&lt;/a> )
+&lt;img src="https://pbs.twimg.com/media/D6rzG-_XYAMNjuJ?format=jpg&amp;amp;name=large" alt="historique des framework web">&lt;br>
+Si on regarde l&amp;rsquo;état du JS en 2020 on se rends compte qu&amp;rsquo;il est extremement populaire : &lt;a href="https://2020.stateofjs.com/en-US/" target="_blank" rel="noopener">https://2020.stateofjs.com/en-US/&lt;/a>&lt;br>
+Faut dire qu&amp;rsquo;il est un peu incontournable pour le moment et que de nombreux framewords l&amp;rsquo;utilisent ou font appel a lui pour se lancer.&lt;/p></description></item><item><title>Formation sur TypeScript</title><link>https://fransee.github.io/posts/formations/formation_typescript/</link><pubDate>Fri, 07 May 2021 19:05:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_typescript/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;p>Dans cette formation on verra comment installer et configurer TypeScript, le prendre en main, faire un tour de ce qu&amp;rsquo;il a apporté a Javascript (ECMA 6), ça sera une bonne préparation pour la Formation sur Angular.&lt;/p>
+&lt;p>&lt;em>Passons en revue ses caractéristiques&lt;/em> :&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> TypeScript est un langage de programmation libre et open source développé par Microsoft qui a pour but d&amp;rsquo;améliorer et de sécuriser la production de code JavaScript.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Son contributeur principal estAnders Hejlsberg, créateur de Delphi,Turbo Pascal et principal inventeur de C#.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> C&amp;rsquo;est un sur-ensemble ou sur-couche de JavaScript (cela signifie que JavaScript est inclus dans TypeScript qui ajoute ce qui semble manquer au langage).&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> L’ensemble des fonctionnalités supplémentaires permet au langage de se rapprocher de ses concurrents célèbres et populaires tels que Java et C++.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Typescript supporte ECMA 6.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Les dernières versions de JavaScript (à partir d’ECMAScript 2015) reprennent ces évolutions. Elles devraient donc se généraliser au fur et à mesure des mises à jour des moteurs JavaScript au sein des navigateurs.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Le code TypeScript est transcompilé via un transpileur ou transcodeur nommé tsc.Plus simplement, l’ensemble du code est transformé en JavaScript et peut ensuite être interprété par n&amp;rsquo;importe quel navigateur web ou moteur JavaScript.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> TypeScript permet d&amp;rsquo;utiliser via des en-têtes TypeScript de nombreuses bibliothèques populaires comme JQuery, MongoDB, D3.JS, Node.js.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Angular s&amp;rsquo;appuie beaucoup dessus c&amp;rsquo;est pourquoi il est très souvent vu au début de tout apprentissage sur ce Framewwork Web.&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Sorti en 2012, ses fichiers sont en .ts, le site off: &lt;a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">https://www.typescriptlang.org/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>En gros c&amp;rsquo;est une sur-couche de JavaScript qui permet de :&lt;/p></description></item><item><title>Formation Git et Github</title><link>https://fransee.github.io/posts/formations/formation_git/</link><pubDate>Sat, 06 Feb 2021 12:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_git/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
+&lt;p>Créé en 1995 par Linus Torvalds (le fondateur de Linux) il a su s&amp;rsquo;implanter rapidement comme le logiciel de versionning le plus populaire depuis 2016.&lt;/p>
+&lt;p>La fonctionnalité Git qui le distingue vraiment de presque tous les autres SCM est son modèle de branche :&lt;/p>
+&lt;ul>
+&lt;li>Git permet et je vous recommande d&amp;rsquo;à avoir plusieurs branches locales (qui peuvent être entièrement indépendantes les unes des autres).&lt;/li>
+&lt;li>La création, la fusion et la suppression des lignes de développement ne prennent que quelques secondes.&lt;/li>
+&lt;/ul>
+&lt;p>Cela signifie que vous pouvez faire des choses comme:&lt;/p></description></item><item><title>Panzani Francis's Courses</title><link>https://fransee.github.io/posts/formations/premier/</link><pubDate>Sat, 06 Jun 2020 06:00:20 +0600</pubDate><guid>https://fransee.github.io/posts/formations/premier/</guid><description>&lt;hr>
+&lt;h2 id="voilà-les-indications-sur-les-slides-que-lon-va-utiliser-ainsi-que-les-consignes-à-suivre-pour-les-formations-">Voilà les indications sur les slides que l&amp;rsquo;on va utiliser ainsi que les consignes à suivre pour les formations :&lt;/h2>
+&lt;p>&lt;img src="https://fransee.github.io/posts/formations/premier/hero.svg" alt="consignes a suivre">&lt;/p>
+&lt;p>Pour les plus curieux et motivés : &lt;em>&lt;a href="https://dailygeekshow.com/7-conseils-mieux-apprendre-etudiant/" target="_blank" rel="noopener">https://dailygeekshow.com/7-conseils-mieux-apprendre-etudiant/&lt;/a>&lt;/em>&lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/p></description></item></channel></rss>
