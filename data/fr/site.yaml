@@ -13,7 +13,7 @@ description: Portfolio de Francis Panzani portefolio folio formation développem
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-  - name: Mon  in
+  - name: Mon  in👋
     url: https://www.linkedin.com/in/francispanzani/
     # specify whether to hide the menu item from top navbar or not.
     hideFromNavbar: false

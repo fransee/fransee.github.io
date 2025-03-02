@@ -13,7 +13,7 @@ menu:
 -
 
 <div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <img style="vertical-align: bottom; " src="/images/icones/w30/js_30.png"> <mark>JavaScript Niveau 2 </mark>, les fonctions Avancées, l'Objet dans sa version la plus récente en JS, les nouveautés apportées par ECMA V6, le <img style="vertical-align: bottom; " src="/images/icones/w30/json_30.png"> JSON  et bien d'autres choses encore :pancakes:
+<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <i class="fa-brands fa-js fa-beat"></i> <mark>JavaScript Niveau 2 </mark>, les fonctions Avancées, l'Objet dans sa version la plus récente en JS, les nouveautés apportées par ECMA V6, le JSON  et bien d'autres choses encore :pancakes:
 </div>
 
 ## <i class="fas fa-clipboard-list "></i> TODO :roller_coaster::
@@ -25,8 +25,8 @@ menu:
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur Javascript Lvl2 ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_javascript997 "lien vers le site contenant les fichiers de la formation")
 
+:mortar_board: [Afin de débuter la Formation sur <i class="fa-brands fa-js"></i> Javascript Lvl2 <i class="fa-brands fa-css3 fa-beat-fade"></i> ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_javascript997 "lien vers le site contenant les fichiers de la formation")
 </div>
 
 Merci de garder pour vous les ressources que vous y trouverez et de ne pas les diffuser :smirk:  

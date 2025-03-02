@@ -13,9 +13,8 @@ menu:
 ## _<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>_
 
 ---
-
 <div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <mark> JavaScript </mark><img style="vertical-align: bottom; " src="/images/icones/w30/js_30.png" alt="3"> , les fondamentaux, l’essentiel pour démarrer avec ce langage utilisé pour les <i class="fas fa-sitemap"></i> sites internet, <i class="fas fa-file-code"></i> pages web<br/> ,<i class="fas fa-desktop"></i> logiciels ou même <i class="fas fa-mobile-alt"></i> applications smartphones (oui oui, on peut en trouver de partout :smile:).<br/> 
+<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <mark><i class="fa-brands fa-js fa-beat"></i> JavaScript </mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage utilisé pour les <i class="fas fa-sitemap"></i> sites internet, <i class="fas fa-file-code"></i> pages web<br/> ,<i class="fas fa-desktop"></i> logiciels ou même <i class="fas fa-mobile-alt"></i> applications smartphones (oui oui, on peut en trouver de partout 😄).<br/> 
 C'est la troisième couche des technologies standards du web, après HTML et CSS.
 </div>
 
@@ -25,11 +24,11 @@ C'est la troisième couche des technologies standards du web, après HTML et CSS
 > C'est un langage <strong><i>orienté objet à prototype</i></strong> : les bases du langage et ses principales interfaces sont fournies par des objets.  
 > Cependant, à la différence d'un langage orienté objets, les objets de base ne sont pas des instances de classes. ”
 >
-> <cite>[ <img style="-webkit-user-select: none; margin: auto; " height="40px" src="/images/wikipedia.png"> Wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/JavaScript "Définition à lire pour bien comprendre")</cite>
+> <cite>[<img  style="float:left; margin: 1px;"  height="40px" src="https://blog.mozilla.org/opendesign/files/2017/06/logo-1000x256.png">MDN <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/JavaScript "Définition à lire pour bien comprendre")</cite>
 >
 > <hr/>
 >
-> <img  src="cake.png" class="img-fluid float-right" style="max-width: 250px;  height: auto;"><img style="-webkit-user-select: none; margin: auto; " src="/images/icones/w30/js_30.png"> “ JavaScript (souvent abrégé en « JS ») est un langage de script léger, orienté objet, principalement connu comme le langage de script des pages web.  
+> <img  src="cake.png" class="img-fluid float-right" style="max-width: 250px;  height: auto;"> “ JavaScript (souvent abrégé en « JS ») est un langage de script léger, orienté objet, principalement connu comme le langage de script des pages web.  
 > Mais il est aussi utilisé dans de nombreux environnements extérieurs aux navigateurs web tels que Node.js, Apache CouchDB voire Adobe Acrobat.  
 > Le code JavaScript est interprété ou compilé à la volée [(JIT) <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/Compilation_%C3%A0_la_vol%C3%A9e).  
 > Le standard qui spécifie JavaScript est [ECMAScript <i class="fas fa-external-link-alt"></i>](https://developer.mozilla.org/fr/docs/Web/JavaScript/Language_Resources "les différentes spécifications du langage et ses versions")  
@@ -45,9 +44,9 @@ Dans cette première partie on abordera les bases de Javascript dans sa V5 (just
 Vous avez là encore énormément de support et de ressources complémentaires disponible sur le Net.  
 Afin de ne pas vous disperser, utilisez principalement les 2 suivantes (y a du bon mais surtout du moins bon) :
 
-1. <img  height="30px" style="vertical-align:top; float:left; "  src="/images/W3Schools_logo.svg.png" alt="">&nbsp;L'incontournable W3School (Vous le connaissez déjà et on y retournera) : https://www.w3schools.com/js/DEFAULT.asp
+1. <img  height="30px" style="vertical-align:top; float:left; "  src="/files/images/W3Schools_logo.svg.png" alt="">&nbsp;L'incontournable W3School (Vous le connaissez déjà et on y retournera) : https://www.w3schools.com/js/DEFAULT.asp
 
-2. <img  height="30px"  style="vertical-align:top;"  src="/images/MDN_h50.png" alt="MDN ">&nbsp; Chez [MDN Web Docs <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/MDN_Web_Docs "Définition de MDN web docs, Mozilla et Google collaborent à la diffusion de ressources pédagogiques"), la bible :  
+2. <img  height="20px"  style="vertical-align:top;float:left;"  src="/files/images/MDN_h50.png" alt="MDN ">&nbsp; Chez [MDN Web Docs <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/MDN_Web_Docs "Définition de MDN web docs, Mozilla et Google collaborent à la diffusion de ressources pédagogiques"), la bible :  
    2.1 https://developer.mozilla.org/fr/docs/Learn/Front-end_web_developer  
    2.2 https://developer.mozilla.org/fr/docs/Learn/JavaScript
 
@@ -64,9 +63,9 @@ Paramétrons notre [environnement de développement (IDE) <i class="fas fa-exter
   - https://addons.mozilla.org/fr/firefox/addon/web-developer/  
   - Puis cliquez sur la roue <i class="fas fa-cog"></i> située maintenant en haut à droite et activez ou désactivez les options : ![](webdeb.png)
 
-  <h4> 2.Dans un second temps on va changer d'éditeur de code pour passer sur Visual Studio Code <img style="vertical-align:bottom;" height="30px" src="/images/icones/Visual studio code logo.png" alt="img"> : </h4>  Il devient un incontournable (en gratuit, merci crocsoft au passage) des éditeurs légers :
+  <h4> 2.Dans un second temps on va changer d'éditeur de code pour passer sur Visual Studio Code : </h4>  Il devient un incontournable (en gratuit, merci crocsoft au passage) des éditeurs légers :
 
- - `Télécharger` _PUIS_ `installer` Visual Studio Code <img style="vertical-align:bottom;" height="30px" src="/images/icones/Visual studio code logo.png" alt="img"> :[->ICI <i class="fas fa-external-link-alt"></i><- ](https://code.visualstudio.com/).
+ - `Télécharger` _PUIS_ `installer` Visual Studio Code <img style="vertical-align:bottom;float:left;margin: 2px" height="30px" src="/files/images/Visual studio code logo.png" alt="img"> :[->ICI <i class="fas fa-external-link-alt"></i><- ](https://code.visualstudio.com/).
  - Installer les extensions <i class="fab fa-js-square fa-2x" style="vertical-align:bottom; color:orange"></i> ci-dessous pour VSC : <kbd>CTRL + SHIFT + X</kbd> puis tapez Debugger, Code runner, Live server.
 
   <div  class="row justify-content-start">
@@ -112,18 +111,19 @@ Paramétrons notre [environnement de développement (IDE) <i class="fas fa-exter
 
 <h4> 3. Pour finir notre configuration, et pour la fin de la formation, on va avoir besoin d'installer un serveur Web (si cela n'est pas déjà fait) sur votre ordinateur : </h4>
 
-  - Pour ceux sont sur <img style="vertical-align: bottom;" src="/images/icones/w30/linux_30.png" alt="img"> Linux, <img style="vertical-align: bottom;" src="/images/icones/w30/ubuntu_30.png" alt="img"> Ubuntu :
+  - Pour ceux sont sur <i class="fa-brands fa-linux"></i> Linux,<i class="fa-brands fa-ubuntu"></i> Ubuntu :
     - Suivez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
-    - Ou alors `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.28/).
-  - Pour ceux qui sont sur <i class="fab fa-windows"></i> Windows, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/).
-  - Pour ceux qui sont sur <i class="fab fa-apple"></i> Mac, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.28/).
+    - Ou alors `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom; padding:1px" src="/files/images/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.28/).
+  - Pour ceux qui sont sur <i class="fab fa-windows"></i> Windows, `Télécharger` *PUIS* `installer`  Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/).
+  - Pour ceux qui sont sur <i class="fab fa-apple"></i> Mac, `Télécharger` *PUIS* `installer` Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.28/).
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
-Vous avez pu tout faire c'est super :+1: :muscle: , sinon redonnez-vous une chance, au pire on verra ça rapidement le premier jour.  
+Vous avez pu tout faire c'est super 👍 💪 , sinon redonnez-vous une chance, au pire on verra ça rapidement le premier jour.  
 
 :speech_balloon: Maintenant que l'on a configurer notre environnement de développement et que l'on a un premier fichier pour démarrer, on peut passer à la formation :astronaut: :  
 
-:mortar_board: [Afin de débuter la Formation sur Javascript ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_javascript996 "lien vers le site contenant les fichiers de la formation")
+
+:mortar_board: [Afin de débuter la Formation sur <i class="fa-brands fa-js"></i> Javascript <i class="fa-brands fa-css3 fa-beat-fade"></i> ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_javascript996 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

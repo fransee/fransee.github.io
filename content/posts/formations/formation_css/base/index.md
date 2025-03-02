@@ -15,15 +15,15 @@ menu:
 ---
 
 <div class="d-sm-block  alert alert-info text-center" role="alert"> 
-<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans cette formation sur <mark> CSS <img style="vertical-align: bottom; " src="/images/icones/w30/css3_30.png" alt="3"> (Feuilles de style en cascade) </mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage qui est présent quasiment depuis le début du WWWeb et est un incontournable de la création de <i class="fas fa-sitemap"></i>sites internet, <i class="fas fa-file-code"></i>pages web ou même support de documentation <br/>
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans cette formation sur <mark> <i class="fa-brands fa-css3-alt fa-beat"></i> CSS 3 (Feuilles de style en cascade) </mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage qui est présent quasiment depuis le début du WWWeb et est un incontournable de la création de <i class="fas fa-sitemap"></i>sites internet, <i class="fas fa-file-code"></i>pages web ou même support de documentation <br/>
 </div>
 
-> <img align="right" width="49%" src="css3.png" alt="" ><img style="-webkit-user-select: none; margin: auto; " src="/images/icones/w30/css3_30.png"> “ Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML.  
+> <img align="right" width="49%" src="css3.png" alt="" ><img style="-webkit-user-select: none; margin: auto; " src="/files/images/css3_30.png"> “ Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML.  
 > Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).  
 Introduit au milieu des années 1990, CSS devient couramment utilisé dans la conception de sites web et bien pris en charge par les navigateurs web dans les années 2000.  
 >L'apparition de CSS répond à une volonté de « proposer une alternative à l'évolution du HTML d'un langage de structuration vers un <strong><i>langage de présentation</i></strong> »  ”
 >
-> <cite>[ <img style="-webkit-user-select: none; margin: auto; " height="40px" src="/images/wikipedia.png"> Wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade "Définition à lire pour bien comprendre")</cite>
+> <cite>[ <img style="float:left; margin: 1px; " height="40px" src="/files/images/wikipedia.png"> Wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade "Définition à lire pour bien comprendre")</cite>
 ><hr/>
 > 
 > “ CSS est l'un des langages principaux du Web ouvert et a été standardisé par le [W3C](https://www.w3.org/Style/CSS/#specs).  
@@ -32,11 +32,11 @@ Ce standard évolue sous forme de niveaux (levels), CSS1 est désormais considé
 >- :two_hearts: [L'extension Web Developer <i class="fas fa-cog"></i> <i class="fas fa-external-link-alt"></i>](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), A installer  
 >- :raised_hands: [Le livre de recettes de disposition CSS <i class="fas fa-external-link-alt"></i>](https://developer.mozilla.org/fr/docs/Web/CSS/Layout_cookbook)  
 >
-> <cite>[<img style="-webkit-user-select: none; margin: auto; " height="40px" src="https://blog.mozilla.org/opendesign/files/2017/06/logo-1000x256.png">MDN <i class="fas fa-external-link-alt"></i>](https://developer.mozilla.org/fr/docs/Web/CSS "Définition à lire pour bien comprendre")</cite>
+> <cite>[<img  style="float:left; margin: 1px;"  height="40px" src="https://blog.mozilla.org/opendesign/files/2017/06/logo-1000x256.png">MDN <i class="fas fa-external-link-alt"></i>](https://developer.mozilla.org/fr/docs/Web/CSS "Définition à lire pour bien comprendre")</cite>
 
 Vous l'avez compris, CSS va nous permettre de positionner, disposer, définir le style (couleur etc ) de nos documents web alors qu'HTML nous permet de structurer et de stoquer les données à afficher.  
 Css permet bien plus encore, notamment les animations (que l'on abordera selon les formations).  
-De plus le net fourmille de tutos sur CSS <img style="vertical-align: bottom; " src="/images/icones/w30/css3_30.png" alt="3"> (auxquels vous pouvez bien évidemment aller jeter un oeil ) :
+De plus le net fourmille de tutos sur <i class="fa-brands fa-css3-alt fa-beat"></i> CSS 3 (auxquels vous pouvez bien évidemment aller jeter un oeil ) :
 
 <img align="left" width="50%" src="css-elements-inspect-me.msft.png" alt=""> 
 <img align="right" width="50%" src="3school.png" alt="">
@@ -44,11 +44,11 @@ De plus le net fourmille de tutos sur CSS <img style="vertical-align: bottom; " 
 
 1. <img  height="30px" style="vertical-align:top; float:left; "  src="/images/W3Schools_logo.svg.png" alt="">&nbsp;L'incontournable W3School (Vous le connaissez déjà et on y retournera) : https://www.w3schools.com/css/
 
-2. <img  height="30px"  style="vertical-align:top; float:left; "  src="/images/MDN_h50.png" alt="MDN ">&nbsp;La bible : https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics  
+2. <img  height="30px"  style="vertical-align:top; float:left; "  src="/files/images/MDN_h50.png" alt="MDN ">&nbsp;La bible : https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics  
 
-3. <img  height="30px"  style="vertical-align:top; float:left; "  src="/images/microsoft logo ico.png" alt="MDN "> &nbsp;  En mode pris par la main : https://docs.microsoft.com/fr-fr/microsoft-edge/devtools-guide-chromium/css/ 
+3. <img  height="30px"  style="vertical-align:top; float:left; "  src="/files/images/microsoft logo ico.png" alt="MDN "> &nbsp;  En mode pris par la main : https://docs.microsoft.com/fr-fr/microsoft-edge/devtools-guide-chromium/css/ 
 
-4. <img  height="30px"  style="vertical-align:bottom;  "  src="/images/logo-alsacreations.svg" alt="Alsa création"> &nbsp; Très intéressant : https://www.alsacreations.com/tuto/liste/2-css.html
+4. <img  height="30px"  style="vertical-align:bottom;  "  src="/files/images/logo-alsacreations.svg" alt="Alsa création"> &nbsp; Très intéressant : https://www.alsacreations.com/tuto/liste/2-css.html
 
 
 <div class="d-sm-block  alert alert-dark text-left" role="alert" style="clear:both;">
@@ -113,11 +113,12 @@ Atom a beaucoup d'autre plugins pour vous simplifer la vie :
   ```
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
-Vous avez pu tout faire c'est super :+1: :muscle: , sinon redonnez-vous une chance, au pire on verra ça rapidement le premier jour.  
+
+Vous avez pu tout faire, c'est super 👍 💪 , sinon redonnez-vous une chance, au pire on verra ça rapidement le premier jour.  
 
 :speech_balloon: Maintenant que l'on a configurer notre environnement de développement et que l'on a un premier fichier pour démarrer, on peut passer à la formation :astronaut: :  
 
-:mortar_board: [Afin de débuter la Formation sur CSS ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_css002 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur CSS ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_css002 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

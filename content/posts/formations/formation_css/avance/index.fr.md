@@ -11,9 +11,8 @@ menu:
 ---
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
-
 <div class="d-sm-block  alert alert-info text-center" role="alert"> 
-<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans cette formation sur <mark> CSS <img style="vertical-align: bottom; " src="/images/icones/w30/css3_30.png" alt="3"> Avancé </mark>, des positionnements plus "touchy" (empilement et sticky), des menus divers et variés, le coté responsive avec les Media Queries ainsi que les conteneurs Flexbox et le module Css Grid <br/>
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans cette formation sur <mark> CSS 3 Avancé </mark>, des positionnements plus "touchy" (empilement et sticky), des menus divers et variés, le coté responsive avec les Media Queries ainsi que les conteneurs Flexbox et le module Css Grid <br/>
 </div>
 Pour cette formation nous n'avons pas besoin de prérequis ni d'installation autres que ce que nous avons déjà vu ensemble dans la première partie. 
 {{< vs 1>}}
@@ -35,11 +34,12 @@ Si vous êtes pressés de débuter vous pouvez démarrer la partie des CSS Grid 
 {{< vs 4>}}
 ### <center><img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule pour démarrer le cours : </center>
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
-Vous avez revu vos cours sur CSS base : c'est super :+1: :muscle:.
+Vous avez revu vos cours sur CSS base : c'est super 👍 💪.
 
 :speech_balloon: Maintenant que l'on est dans les bonnes dispositions avec notre environnement de développement configuré (👉sinon refaites le [CSS base <i class="fas fa-external-link-alt"></i>](../base/ "Lien  vers la formation CSS base")  ) , on peut passer à la formation :astronaut: :  
 
-:mortar_board: [Afin de débuter la Formation sur CSS ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_css0022 "lien vers le site contenant les fichiers de la formation")
+
+:mortar_board: [Afin de débuter la Formation sur CSS <i class="fa-brands fa-css3 fa-beat-fade"></i> ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_css0022 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 
