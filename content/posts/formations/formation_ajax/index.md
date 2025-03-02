@@ -15,8 +15,10 @@ menu:
 ---
 
 Dans cette courte formation (après une bonne maitrise du tryptique HTML <i class="fab fa-html5"></i> CSS<i class="fab fa-css3-alt"></i> & Javascript<i class="fab fa-js-square"></i>), on verra comment utiliser
-
-<img style="float:left;" src="ajax_h50.png"><mark style='line-height:70px;'> : Asynchronous JavaScript and XML</mark>
+![AJAX](ajax_h50.png)
+<span style="float:left;">
+</span >
+<mark style='line-height:70px;'> : Asynchronous JavaScript and XML</mark>
 <img align="right" width="30%" src="ajax1.png">
 et l'utiliser dans un TP assez pratique pour les formulaires d'inscriptions :smile:.
 

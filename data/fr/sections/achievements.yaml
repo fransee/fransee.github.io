@@ -1,24 +1,29 @@
 # section information
 section:
-  name: Achievements
+  name: Réalisations
   id: achievements
   enable: true
   weight: 10
   showOnNavbar: true
+#ancienne version??  template: sections/achievements.html
+
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  #- title: Habilitation Jury des Titres professionnels
+- title: Parapente Autonomie Niv 1 bloqué par le COVID ^^;;
+  image: /images/sections/achievements/decollage.png
+  summary: Avec les Passagers du vent sur Talloires - Stage Initiation 1 semaine puis Autonomie niv1 Week End 2j 
+
+- title: Jury des titre professionnel - Développeur Informatique - Concepteur Développeur Informatique (Accréditation)  
+  image: /images/sections/achievements/jury_habilitation.png
+  summary: Développeur Logiciel Bac+2 (RNCP 5927) / /	Concepteur Développeur Informatique Bac +3/4 (RNCP 6255) - Arrêt fin 2019
+
+- title: Expert en Ingénierie du Logiciel (Diplôme)
+  image: /images/sections/achievements/diplome_afip_EIL.jpg
+  summary: Received School Title of Software Engineering Expert from AFIP Higher Education in 2018.
+- title: Attestation de Formation aux Premiers Secours avant BNPS
+  image: /images/sections/achievements/bnps.png
+  summary: "Formation de base de premiers secours, apprentissage de gestes et la réalisation de situations concrètes où les formateurs simulent des accidents"

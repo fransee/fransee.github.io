@@ -1,21 +1,23 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Panzani Francis"
+nickname: "Francis et :"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
-image: "images/author/john.png"
+greeting: "👋 Bonjour, je me prénomme "
+#dossier image dans assets/images
+image: "images/author/avatar_cercle_fp.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
-  researchgate: john-doe
+  email: "francis.panzani@gmail.com"
+  phone: "+06 jamais la premiere fois, d'abord par mail ;)"
+  github: Francis-Panzani
+  linkedin: francispanzani
+  # researchgate: Francis-Panzani
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - Je suis un Développeur Fullstack (Hautement Back) ...   
+  - Je suis un Formateur en Développement Informatique    
+  - J'aime Coder, Tester, Apprendre et Transmettre   
+  - Je recherche actuellement un nouveau challenge dans une école, un centre de formation pour adultes ou un poste de product owner   
+  # - Je suis bénévole dans mon association de quartier, le C.I.L de la Gravière
+  - J'aime travailler ou aider sur des projets en tant que Product Owner ou Facilitateur   

@@ -9,96 +9,177 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
+# degrees:
+# - name: Ph.D in Quantum Cryptography
+#   icon: fa-microscope
+#   timeframe: 2016-2020
+#   institution:
+#     name: ABC University of Technology
+#     url: "#"
+#     logo: /images/sections/education/tech_college.png
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/education/tech_college.png
+#   grade: #(optional)
+#     scale: CGPA
+#     achieved: 3.6
+#     outOf: 4
+#   publications: #(optional)
+#   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     url: "#"
+#   - title: Fusce eu augue ut odio porttitor pulvinar.
+#     url: "#"
+#   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+#     url: "#"
+# - name: B.Sc. in Computer Science & Engineering
+#   icon: fa-graduation-cap
+#   timeframe: 2012-2016
+#   institution:
+#     name: University of XYZ
+#     url: "#"
+#     logo: /images/sections/education/university.jpg
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/education/university.jpg
+#   grade: #(optional)
+#     scale: CGPA
+#     achieved: 3.5
+#     outOf: 4
+#   takenCourses: #(optional)
+#     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+#     showGrades: true
+#     collapseAfter: 3
+#     courses:
+#     - name: Data Structures and Algorithm
+#       achieved: 3.75
+#       outOf: 4
+#     - name: Network Security
+#       achieved: 3.80
+#       outOf: 4
+#     - name: Operating System
+#       achieved: 3.5
+#       outOf: 4
+#     - name: Artificial Intelligent
+#       achieved: 3.75
+#       outOf: 4
+#   publications: #(optional)
+#   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     url: "#"
+#   - title: Fusce eu augue ut odio porttitor pulvinar.
+#     url: "#"
+#   extracurricularActivities: #(optional)
+#   - In vitae facilisis est, eget porta sem.
+#   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#   - Duis sed massa feugiat, ornare justo et, aliquam est.
+#   - Pellentesque ut fringilla magna.
+#   customSections: #(optional)
+#     - name: Thesis
+#       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     - name: Supervisor
+#       content: Fusce eu augue ut odio porttitor pulvinar.
+# - name: Higher Secondary School Certificate
+#   icon: fa-university
+#   timeframe: 2010-2012
+#   institution:
+#     name: MST College of Science
+#     url: "#"
+#     logo: /images/sections/education/science_college.png
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/education/science_college.png
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 5
+#     outOf: 5
+#   extracurricularActivities: #(optional)
+#   - In vitae facilisis est, eget porta sem.
+#   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#   - Duis sed massa feugiat, ornare justo et, aliquam est.
+#   - Pellentesque ut fringilla magna.
+# - name: Secondary School Certificate
+#   icon: fa-school
+#   timeframe: 2005-2010
+#   institution:
+#     name: JK School of Science
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 4.5
+#     outOf: 5
+
+#http://www.kiwifroggy.com/equivalence-des-diplomes-francais-systemes-britannique-et-americain/
+
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
-  institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
+  - name: Formateur et Enseignant en Développement Informatique
+    icon: fa-microscope
+    timeframe: 2016-2025
+    institution:
+      name: École privée AFIP d'enseignement supérieur et Centre de Formation (Villeurbanne) 
+      url: "https://afip-formations.com/"
+      logo: /images/sections/education/logo_afip.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  customSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-    logo: /images/sections/education/science_college.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    publications: #(optional)
+    - title: Créations de multiples supports de cours et tutoriels (liste sur demande ou attendez la prochaine update)
+    - title: Créations de multiples TP/TD Exercices/Corrigés et Projets  (liste sur demande ou attendez la prochaine update)
+  - name: Master - Titre École d'Expert en Ingénierie du Logiciel
+    icon: fa-graduation-cap
+    timeframe: 2017-2018
+    institution:
+      name: École privée AFIP d'Enseignement Supérieur
+      url: "https://afip-formations.com/"
+      logo: /images/sections/education/logo_afip.png
+
+    extracurricularActivities: #(optional)
+    - Actuellement en procédure d'homologation par le Ministère du Travail, Code NSF = 326
+    - Titre de niveau 7 dans la nomenclature Européenne, de niveau I in France
+
+  - name: P.O.E.C JAVA (Préparation Opérationnelle à l'Emploi Collective)
+    icon: fa-award
+    timeframe: 2015-2016
+    institution:
+      name: M2i Formations (Lyon)
+      url: "https://www.m2iformation.fr/centre-de-formation/lyon-part-dieu/20/"
+      logo: /images/sections/education/m2ii.png
+    extracurricularActivities:
+      - JAVA 8 SE, JAVA 7 EE, ANDROID, NodeJS, Angular JS, Scrum
+
+  - name:  Formation en Développeur Nouvelles Technologies
+    icon: fa-award
+    timeframe: 2012-2013
+    institution:
+      name: AFIP Centre de Formation (Villeurbanne)
+      url: "https://afip-formations.com/"
+      logo: /images/sections/education/logo_afip.png
+    extracurricularActivities:
+      - JAVA (level 1-2-3), C# (level 1-2), ASP.Net, PHP (level 1-2-3-4), JOOMLA
+
+  - name:  License Informatique (Niveau)
+    icon: fa-university
+    timeframe: 2001-2002
+    institution:
+      name: Université Nice Sophia Antipolis (Valrose)
+      url: "https://univ-cotedazur.fr/nous-connaitre/patrimoine/valrose"
+      logo: /images/sections/education/unsa.png
+
+  - name: D.U.T Informatique Option Génie Informatique
+    icon: fa-graduation-cap
+    timeframe: 1999-2000
+    institution:
+      name: I.U.T Nice
+      url: "https://iut.univ-cotedazur.fr/"
+      logo: /images/sections/education/IutNice.jpeg
+    extracurricularActivities:
+      - JAVA, C, C++, Assembler, UML, Merise, HTML, CSS, Javascript, ...
+
+  - name: DEUG Math Physique / Math Informatique / 3.7 (Niveau)
+    icon: fa-university
+    timeframe: 1996-1999
+    institution:
+      name: Université Nice Sophia Antipolis (Valrose)
+      url: "https://univ-cotedazur.fr/nous-connaitre/patrimoine/valrose"
+      logo: /images/sections/education/unsa.png
+
+  - name: Bac S (option Mathématique)
+    icon: fa-school
+    timeframe: 1995-1996
+    institution:
+      name: Thierry Maulnier's High School (Nice)
+      url: "https://www.lyc-thierry-maulnier.ac-nice.fr/"
+      logo: /images/sections/education/thierryMaulnier.png

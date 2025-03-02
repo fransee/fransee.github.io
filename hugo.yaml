@@ -21,18 +21,19 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  en:
-    languageCode: en
-    languageName: English
-    title: "FRANSEE's Blog"
-    weight: 1
+  #desactivé cause bug images
+  # en:
+  #   languageCode: en
+  #   languageName: English
+  #   title: "FRANSEE's Blog"
+  #   weight: 2
   fr:
     languageCode: fr
     languageName: French
     title: "FRANSEE Francis's Blog"
-    weight: 2
+    weight: 1
 # default language for the content
-defaultContentLanguage: en
+defaultContentLanguage: fr
 
 # Allow raw html in markdown file
 markup:

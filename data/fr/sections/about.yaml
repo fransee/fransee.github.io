@@ -1,6 +1,6 @@
-# section information
+# section information https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode_(0000-0FFF)
 section:
-  name: About
+  name: A propos
   id: about
   enable: true
   weight: 1
@@ -8,97 +8,106 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Je suis actuellement la recherche d'un nouveau challenge. Mon dernier poste était Formateur, Enseignant et coordination pédagogique des actions régions/pôle emploi en développement informatique
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: AFIP Formation.
+  url: "https://afip-formations.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
+resume: "files/CV_FRANCIS_PANZANI.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+# 'Je suis un développeur de logiciels passionné et un formateur en développement Informatique avec plus de 9 ans d'expérience professionnelle dans l'informatique. Je suis bénévole dans une association de quartier. Et je suis passionné d'informatique depuis que j'ai vu un Atari ST'
+summary: "👉Je suis un Développeur de 💻logiciels passionné et un 🎓Formateur en Développement Informatique avec plus de 9 ans d'expérience professionnelle dans le domaine.<br>👉Anciennement jury des titres professionnels Développeur Logiciel et Concepteur Développeur Informatique, j'ai été bénévole dans diverses associations de mon quartier, le Comité d'Intérêt Local, CSF ...<br>👉 Et je suis passionné d'informatique depuis que j'ai vu un Atari ST😻.<br> Ouais ca date un peu 👾👾👾"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "mailto:francis.panzani@gmail.com"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/Francis-Panzani"
+  - name: LinkedIn
+    icon: "fab fa-linkedin-in"
+    url: "https://linkedin.com/in/francispanzani/"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  # - name: Twitter
+  #   icon: "fab fa-twitter"
+  #   url: "#"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  # - name: Facebook
+  #   icon: "fab fa-facebook"
+  #   url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+  #  - name: Mastadon
+  #    icon: "fab fa-mastodon"
+  #    url: "#"
+  #    rel: "me noopener"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+  #  - name: ResearchGate
+  #    icon: "fab fa-researchgate"
+  #    url: "https://www.researchgate.net/profile/john-doe"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+  - name: Contact form
+    icon: "fas fa-file-signature"
+    url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+  - title: "Mon Lien 1"
+    url: "files/resume.pdf"
+  - title: "Mon Lien 2"
+    url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  - type: soft-skill-indicator
+    name: Encadrement ☻
+    percentage: 90
+    color: blue
+  - type: soft-skill-indicator
+    name: Travail en Équipe
+    percentage: 100
+    color: yellow
+  #esprit critique
+  - type: soft-skill-indicator
+    name: Oeil critique²
+    percentage: 85
+    color: pink
+  #puissance de travail
+  - type: soft-skill-indicator
+    name:  Autonomie   α & Ω
+    percentage: 90
+    color: green
+    #capacité d'adaptation
+  - type: soft-skill-indicator
+    name: Adaptabilité ◙
+    percentage: 75
+    color: sky
+    #Résolution de probleme
+  - type: soft-skill-indicator
+    name: Facilitateur ☼
+    percentage: 100
+    color: orange
+  # you can also provide color code instead of the color name
+  # - type: soft-skill-indicator
+  #   name: Example 1
+  #   percentage: 75
+  #   color: "#00adb5"
+# - type: certification
+#   name: Certifications Open Classrooms
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/150px-Logo_OpenClassrooms.png"
 
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+# - type: certification
+#   name: Certifications Free code camp
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0"
