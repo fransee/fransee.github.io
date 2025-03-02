@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Various Posts on FRANSEE's Blog</title><link>https://fransee.github.io/posts/divers/</link><description>Recent content in Various Posts on FRANSEE's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Everything is mine</copyright><lastBuildDate>Sat, 12 Jun 2021 03:06:25 +0000</lastBuildDate><atom:link href="https://fransee.github.io/posts/divers/index.xml" rel="self" type="application/rss+xml"/><item><title>Installation d'un serveur Web en local grâce à XAMPP</title><link>https://fransee.github.io/posts/divers/installation_xampp/</link><pubDate>Sat, 12 Jun 2021 03:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/divers/installation_xampp/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Divers Post on FRANSEE Francis's Blog</title><link>https://fransee.github.io/posts/divers/</link><description>Recent content in Divers Post on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Sat, 12 Jun 2021 03:06:25 +0000</lastBuildDate><atom:link href="https://fransee.github.io/posts/divers/index.xml" rel="self" type="application/rss+xml"/><item><title>Installation d'un serveur Web en local grâce à XAMPP</title><link>https://fransee.github.io/posts/divers/installation_xampp/</link><pubDate>Sat, 12 Jun 2021 03:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/divers/installation_xampp/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;hr>
 &lt;p>Vous allez avoir besoin durant les formations d&amp;rsquo;avoir un serveur web en local afin de tester vos développements AVANT de les publier sur le serveur de Production.&lt;br>
 XAMPP va nous aider à cela.&lt;br>
@@ -43,15 +43,16 @@ Un style épuré (twitter &lt;i class="fab fa-twitter">&lt;/i>) vaux mieux qu’
 &lt;p>Puis finissez par cliquer sur &lt;code>DEMANDER DES PRODUITS GRATUITS&lt;/code>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Attendez le mail de JetBrains puis cliquez sur le lien &lt;code>follow this link&lt;/code> afin de valider votre email (ça peut prendre un petit moment).&lt;/p></description></item><item><title>Installer LAMP &amp; Ubuntu sur Windows 10</title><link>https://fransee.github.io/posts/divers/wsl_w10/</link><pubDate>Fri, 05 Feb 2021 18:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/divers/wsl_w10/</guid><description>&lt;hr>
-&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;p>Attendez le mail de JetBrains puis cliquez sur le lien &lt;code>follow this link&lt;/code> afin de valider votre email (ça peut prendre un petit moment).&lt;/p></description></item><item><title>Installer LAMP &amp; Ubuntu sur Windows 10</title><link>https://fransee.github.io/posts/divers/wsl_w10/</link><pubDate>Fri, 05 Feb 2021 18:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/divers/wsl_w10/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;hr>
 &lt;p>&amp;#x1f393;
 Afin de suivre l&amp;rsquo;installation ensemble vous aurez besoin de suivre les instructions du support suivant : &amp;#x1f4d9;&lt;a href="Install-LAMP-WSL-WINDOWS.pdf">-&amp;gt;Install-LAMP-WSL-WINDOWS&amp;lt;-&lt;/a>&lt;/p>
 &lt;h2 id="todo--roller_coaster">TODO &amp;#x1f3a2;:&lt;/h2>
 &lt;ul>
 &lt;li>On suivra ensemble les instructions du fichier &amp;#x1f4d9; &lt;code>Install-LAMP-WSL-WINDOWS.pdf&lt;/code> .&lt;/li>
-&lt;li>Pour ceux qui ont vraiment du mal vous installerez [Xampp] (&lt;a href="https://www.apachefriends.org/fr/index.html" target="_blank" rel="noopener">https://www.apachefriends.org/fr/index.html&lt;/a> ).&lt;/li>
-&lt;li>Sources :&lt;/li>
+&lt;li>Pour ceux qui ont vraiment du mal vous installerez &lt;a href="https://www.apachefriends.org/fr/index.html" target="_blank" rel="noopener">Xampp&lt;/a>.
+&lt;br/>&lt;br/>&lt;/li>
+&lt;li>Sources et aides diverses (à lire en cas hein :P):&lt;/li>
 &lt;li>&amp;#x2139;&amp;#xfe0f; &lt;a href="https://doc.ubuntu-fr.org/wsl" target="_blank" rel="noopener">https://doc.ubuntu-fr.org/wsl&lt;/a>&lt;/li>
 &lt;li>&amp;#x2139;&amp;#xfe0f; &lt;a href="https://docs.microsoft.com/fr-fr/windows/wsl/install-win10" target="_blank" rel="noopener">https://docs.microsoft.com/fr-fr/windows/wsl/install-win10&lt;/a>
 &amp;#xa9;&amp;#xfe0f; &amp;#x1f6ab; Do not distribute &amp;#x1f60c;&lt;/li>
@@ -131,7 +132,7 @@ class="center"
 >
 &lt;div style="margin-top: 3rem;">&lt;/div>
 &lt;h4 id="a-image-with-float-attribute">A image with &lt;code>float&lt;/code> attribute.&lt;/h4>
-&lt;img src="%20boat.jpg"
+&lt;img src="boat.jpg"
 alt="A boat at the sea"
 width="500"
 height="200"
