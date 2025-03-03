@@ -26,7 +26,7 @@ Une liste non exhaustive de ce que l'on verra :
 &lt;/ul>
 &lt;p>Si vous êtes pressés de débuter vous pouvez démarrer la partie des CSS Grid &lt;a href="http://franpan.free.fr/formation/_css0022/_Pages/free/css_grid.html#introduction" target="_blank" rel="noopener">ici &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> :&lt;/p></description></item><item><title>Formation PhP - Premier Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl1/</link><pubDate>Sun, 26 Dec 2021 10:11:59 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info text-center" >
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce premier niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP"> les fondamentaux, ses principales fonctions et structures de contrôle, ainsi que des explications sur la transmission des données entre les &lt;i class="fas fa-file-code">&lt;/i> pages et donc l’essentiel pour bien débuter avec ce &lt;a href="https://fr.wikipedia.org/wiki/Langage_serveur"> langage de script coté &lt;i class="fas fa-server">&lt;/i> serveur &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> très utilisé pour les &lt;i class="fas fa-sitemap">&lt;/i> sites internet et les &lt;i class="fas fa-file-code">&lt;/i> pages web.&lt;br/>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce premier niveau de la formation sur &lt;i class="fa-brands fa-php fa-beat fa-xl" >&lt;/i> les fondamentaux, ses principales fonctions et structures de contrôle, ainsi que des explications sur la transmission des données entre les &lt;i class="fas fa-file-code">&lt;/i> pages et donc l’essentiel pour bien débuter avec ce &lt;a href="https://fr.wikipedia.org/wiki/Langage_serveur"> langage de script coté &lt;i class="fas fa-server">&lt;/i> serveur &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> très utilisé pour les &lt;i class="fas fa-sitemap">&lt;/i> sites internet et les &lt;i class="fas fa-file-code">&lt;/i> pages web.&lt;br/>
 La formation dans ses débuts sera très axé sur l'excellent travail de mon ancien collègue, &lt;a href="https://www.editions-eni.fr/supports-de-cours/recherche?exp=olivier%20rollet">&lt;mark> Olivier ROLLET&lt;/mark>, Ingénieur maître et auteur chez les éditions Eni dont vous pouvez trouver ses livres -> :books: ICI &lt;i class="fas fa-external-link-alt">&lt;/i> &lt;-&lt;/a>
 &lt;/div>
 &lt;div class="float-right img-fluid" >
@@ -36,26 +36,28 @@ La formation dans ses débuts sera très axé sur l'excellent travail de mon anc
 &lt;blockquote>
 &lt;p>&lt;i class="fab fa-php fa-2x" style="color:blue; vertical-align:middle;">&lt;/i> :“ Hypertext Preprocessor, est un &lt;a href="https://fr.wikipedia.org/wiki/Logiciel_libre" target="_blank" rel="noopener">langage de programmation libre &lt;i class="fas fa-external-link-alt">&lt;/i>&lt;/a> , principalement utilisé pour produire des pages Web dynamiques via un &lt;i class="fas fa-server">&lt;/i> serveur HTTP, mais pouvant également fonctionner comme n&amp;rsquo;importe quel langage interprété de façon locale.
 PHP est un langage impératif orienté objet.&lt;/p></description></item><item><title>Formation PhP - Second Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl2/</link><pubDate>Sun, 26 Dec 2021 10:11:58 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
-&lt;div class="d-sm-block alert alert-info text-center" >
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce second niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP">
+&lt;div class="d-sm-block alert alert-info " >
+&lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce second niveau de la formation sur &lt;i class="fab fa-php fa-2x" style="color:blue; vertical-align:middle;">&lt;/i>&lt;/center>
 &lt;span class="text-left">
 &lt;ul>
 &lt;li>Comment maîtriser les fonctions de base du PHP, c’est-à-dire, créer des fonctions en utilisant les tableaux, les boucles et différents opérateurs.&lt;/li>
 &lt;li>Savoir générer dynamiquement du HTML à partir du PHP.&lt;/li>
 &lt;li>Maîtriser les fonctions avancées du PHP, c’est-à-dire utiliser les variables super-globales en particulier les sessions et les cookies.&lt;/li>
 &lt;li>Transmettre et contrôler des données d’une page à une autre et manipuler une image dynamiquement.&lt;/li>
-&lt;li>&lt;img style="vertical-align: middle; " src="https://fransee.github.io/images/icones/w30/Xdebug_30.png"> et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;li>&lt;img style="float : left;margin:3px" src="https://fransee.github.io/files/images/Xdebug_30.png">et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;/span>Liste non exhaustive de ce que l'on pourra aborder :
+&lt;/span>&lt;center>Liste non exhaustive de ce que l'on pourra aborder :&lt;/center>
 &lt;div class="row justify-content-center">
 &lt;img src="avance.png" >
 &lt;/div>
 &lt;/div>
 &lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
 &lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) données précédemment &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation PhP - Troisieme Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl3/</link><pubDate>Sun, 26 Dec 2021 10:11:57 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl3/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
-&lt;div class="d-sm-block alert alert-info text-center" >
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce :three:ieme niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP">
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+&lt;div class="d-sm-block alert alert-info " >
+&lt;center>&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce 3️⃣ ieme niveau de la formation sur &lt;i class="fab fa-php fa-2x" style="color:blue; vertical-align:middle;">&lt;/i>&lt;/center>
 &lt;span class="text-left">
 &lt;ul>
 &lt;li>Comment comprendre le langage MySQL et gérer la base de données à l’aide PHPMyAdmin&lt;/li>
@@ -64,15 +66,15 @@ PHP est un langage impératif orienté objet.&lt;/p></description></item><item><
 &lt;li>et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;/span>Liste non exhaustive de ce que l'on pourra aborder :
+&lt;/span> &lt;center>Liste non exhaustive de ce que l'on pourra aborder :&lt;/center>
 &lt;div class="row justify-content-center">
 &lt;img src="MYSQL.svg" >
 &lt;/div>
 &lt;/div>
 &lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
 &lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) données précédemment &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation PhP - Quatrieme Niveau</title><link>https://fransee.github.io/posts/formations/formation_php/lvl4/</link><pubDate>Sun, 26 Dec 2021 10:11:56 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_php/lvl4/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
-&lt;div class="d-sm-block alert alert-info text-center" >
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce :four:ieme niveau de la formation sur &lt;img style="vertical-align: middle;" src="https://fransee.github.io/images/icones/php_h40.png" alt="PhP">
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans ce 4️⃣ieme niveau de la formation sur &lt;i class="fab fa-php fa-2x" style="color:blue; vertical-align:middle;">&lt;/i>&lt;/center>
 &lt;span class="text-left">
 &lt;ul>
 &lt;li>Comment avoir une approche du développement orienté objet (POO)&lt;/li>
@@ -83,7 +85,7 @@ PHP est un langage impératif orienté objet.&lt;/p></description></item><item><
 &lt;li>et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;/span>Liste non exhaustive de ce que l'on pourra aborder :
+&lt;/span>&lt;center>Liste non exhaustive de ce que l'on pourra aborder :&lt;/center>
 &lt;div class="row justify-content-center">
 &lt;img src="poo.png" >
 &lt;/div>
@@ -189,10 +191,10 @@ et l&amp;rsquo;utiliser dans un TP assez pratique pour les formulaires d&amp;rsq
 &lt;blockquote>
 &lt;p>&lt;img src="https://fransee.github.io/posts/formations/formation_ajax/MDN_h50.png" alt="MDN citation"> “ AJAX (Asynchronous JavaScript + XML) n&amp;rsquo;est pas une technologie en soi, mais un terme désignant une « nouvelle » approche utilisant un ensemble de technologies existantes, dont : HTML ou XHTML, les feuilles de styles CSS, JavaScript, le modèle objet de document (DOM), XML, XSLT, et l&amp;rsquo;objet XMLHttpRequest. &lt;br/>Lorsque ces technologies sont combinées dans le modèle AJAX, les applications Web sont capables de réaliser des mises à jour rapides et incrémentielles de l&amp;rsquo;interface utilisateur sans devoir recharger la page entière du navigateur. Les applications fonctionnent plus rapidement et sont plus réactives aux actions de l&amp;rsquo;utilisateur.”&lt;/p></description></item><item><title>Formation sur Python</title><link>https://fransee.github.io/posts/formations/formation_python/</link><pubDate>Sun, 30 May 2021 09:05:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_python/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;hr>
-&lt;p>&lt;img src="https://fransee.github.io/posts/formations/formation_python/python_30.png" alt="icone_python"> Dans cette formation on verra comment installer, configurer &lt;mark>Python V3&lt;/mark> et le prendre en main.&lt;/p>
+&lt;p>&lt;span style='display:FLEX;margin:0'> &lt;img src="https://fransee.github.io/posts/formations/formation_python/python_30.png" alt="icone_python">  Dans cette formation on verra comment installer, configurer &lt;mark>Python V3&lt;/mark> et le prendre en main.&lt;/p>
 &lt;p>Que l&amp;rsquo;on soit débutant, avec une mise en relation poussée avec l&amp;rsquo;algorithmique, jusqu&amp;rsquo;à un niveau avancé afin de l&amp;rsquo;utiliser pour faire des scripts d&amp;rsquo;utilisation et des logiciels graphiques (si si c&amp;rsquo;est possible) vous pourrez progresser et prendre plaisir à l&amp;rsquo;utiliser.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;img src="https://fransee.github.io/images/wikipedia.png" alt="python citation"> “ Python est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.&lt;br>
+&lt;p>“ Python est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.&lt;br>
 Il est doté d&amp;rsquo;un typage dynamique fort, d&amp;rsquo;une gestion automatique de la mémoire par ramasse-miettes et d&amp;rsquo;un système de gestion d&amp;rsquo;exceptions ; il est ainsi similaire à Perl, Ruby, Scheme, Smalltalk et Tcl.”&lt;/p></description></item><item><title>TP E-PorteFolio</title><link>https://fransee.github.io/posts/divers/portefolio/</link><pubDate>Fri, 28 May 2021 08:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/divers/portefolio/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;hr>
 &lt;center> Résumé du cahier des charges d'un E-portfolio : &lt;/center>
@@ -225,7 +227,7 @@ Le référencement web s&amp;rsquo;articule autour de deux stratégies distincte
 &lt;p>On verra ici ce qu&amp;rsquo;est UML (dispensé jusqu&amp;rsquo;en bac +3 /4 et oui, vous n&amp;rsquo;avez pas fini d&amp;rsquo;en entendre parler).&lt;br>
 &lt;em>U&lt;/em>nified &lt;em>M&lt;/em>odeling &lt;em>L&lt;/em>anguage ou en français Langage de Modélisation Unifié est un langage de modélisation graphique à base de pictogrammes conçu pour fournir une méthode normalisée pour visualiser la conception d&amp;rsquo;un système.&lt;/p></description></item><item><title>Formation sur Node Js</title><link>https://fransee.github.io/posts/formations/formation_nodejs/</link><pubDate>Sat, 08 May 2021 18:06:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_nodejs/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;hr>
-&lt;p>Dans cette formation on verra comment installer et configurer NodeJS, le prendre en main, l&amp;rsquo;utiliser avec MongoDB, Jade/Pug et Express JS, on m&amp;rsquo;utilisera en mode CLI, si on a du temps on fera une API/REST&lt;/p>
+&lt;p>Dans cette formation on verra comment installer et configurer &lt;i class="fa-brands fa-node fa-2xl">&lt;/i>, le prendre en main, l&amp;rsquo;utiliser avec MongoDB, Jade/Pug et Express JS, on l&amp;rsquo;utilisera en mode CLI et si on a du temps on fera une API/REST&lt;/p>
 &lt;p>Tout d&amp;rsquo;abord un petit historique des frameworks web jusqu&amp;rsquo;à 2019 (merci &lt;a href="https://twitter.com/lofidewanto/status/1128981965632364544" target="_blank" rel="noopener">Dr Jawa&lt;/a> )
 &lt;img src="https://pbs.twimg.com/media/D6rzG-_XYAMNjuJ?format=jpg&amp;amp;name=large" alt="historique des framework web">&lt;br>
 Si on regarde l&amp;rsquo;état du JS en 2020 on se rends compte qu&amp;rsquo;il est extremement populaire : &lt;a href="https://2020.stateofjs.com/en-US/" target="_blank" rel="noopener">https://2020.stateofjs.com/en-US/&lt;/a>&lt;br>
