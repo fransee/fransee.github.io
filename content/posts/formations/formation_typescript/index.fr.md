@@ -12,7 +12,6 @@ menu:
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
 ---
-
 Dans cette formation on verra comment installer et configurer TypeScript, le prendre en main, faire un tour de ce qu'il a apporté a Javascript (ECMA 6), ça sera une bonne préparation pour la Formation sur Angular.  
 
 *Passons en revue ses caractéristiques* :
@@ -36,8 +35,6 @@ En gros c'est une sur-couche de JavaScript qui permet de :
 - Implémenter des interfaces (au sens de la programmation objet).
 - Gérer l’accès aux attributs par trois mots réservés : public, protected, private.
 
-
-
 ## TODO  :roller_coaster:: 
 
 - Installez la version node-v10.24.1 [->ICI<-](https://nodejs.org/dist/latest-v10.x/)
@@ -52,7 +49,7 @@ npm install -g typescript
 
 - Puis créons via [Visual Studio Code](https://code.visualstudio.com/download) un fichier `hello.ts` 
   - Rentrons y le code Javascript suivant :  
-  <center> <img  src="install_typescript2.png" width="55%" alt ="[image install 2]"></center>
+  <center> <img  src="install_typescript2.png" width="55%" alt ="[image install 2]"></center>  
 
   - _C'est pour la demo, on verra pour le typescript pur plus tard, no stress ;)_  
 - Afin de transcompiler le fichier et de l’intégrer à une page HTML, la commande à lancer dans un terminal Windows est  :
@@ -66,9 +63,11 @@ tsc hello.ts
 
 <img align="left" src="install_typescript4.png" alt ="[image install 4]"><img width="50%" src="install_typescript5.png" alt ="[image install 5]">
 
+
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur TypeScript  ensemble, vous aurez besoin de suivre les instructions du  :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins  & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_typescript321 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur TypeScript ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_typescript321 "lien vers le site contenant les fichiers de la formation")
+
 
 </div>
 

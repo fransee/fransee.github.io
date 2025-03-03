@@ -14,17 +14,25 @@ menu:
 
 ---
 
-<div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: blue;"></i> Nous poursuivrons cette formation sur <img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"> , en voyant les thématiques suivantes : 
+<div class="d-sm-block alert alert-info" > <center>
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous poursuivrons cette formation sur <img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"></center> en voyant les thématiques suivantes : 
 <span class="text-left">
 
-- Les plugins avec <img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="/images/icones/w30/wordpress4_30.png" alt="W">ordpress, notamment : 
-  - <img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="/images/icones/w30/yoast.svg"> L'obligatoire Yoast SEO, disponible ici : https://fr.wordpress.org/plugins/wordpress-seo/
-  - <img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="/images/icones/w30/elementor.svg"> L'indispensable Elementor Website Builder, disponible ici : https://fr.wordpress.org/plugins/elementor/
-  - <img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="/images/icones/w30/cookienotice_30.png"> L'utile cause obligation RGPD, Cookie Notice & Compliance, disponible ici : https://wordpress.org/plugins/cookie-notice/
-  - <img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="/images/icones/w30/allinone_30.png"> Le nécessaire All in One (ou Duplicator) pour les backups, disponible ici : https://wordpress.org/plugins/all-in-one-wp-migration/
+- Les plugins avec <i class="fa-brands fa-wordpress fa-xl"></i>ordpress, notamment : 
+  - <span style='float:left'> <img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="yoast.svg"> </span>&nbsp;L'obligatoire Yoast SEO, disponible ici : https://fr.wordpress.org/plugins/wordpress-seo/
+
+
+  - <span style='float:left'> <img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="elementor.svg"></span>&nbsp;L'indispensable Elementor Website Builder, disponible ici : https://fr.wordpress.org/plugins/elementor/
+
+
+  - <span style='float:left'> <img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="cookienotice_30.png"></span>&nbsp; L'utile cause obligation RGPD, Cookie Notice & Compliance, disponible ici : https://wordpress.org/plugins/cookie-notice/
+
+
+  - <span style='float:left'> <img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="allinone_30.png"></span>&nbsp; Le nécessaire All in One (ou Duplicator) pour les backups, disponible ici : https://wordpress.org/plugins/all-in-one-wp-migration/
+
+
 - Les thèmes WordPress & greffons que l'on développera et bien d'autres choses encore *selon le temps et l'avancée* :pancakes:
-- <img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="/images/icones/w30/woocommerce_30.png"> Woocommerce (si on a le temps car c'est juste énorme), plugin officiel pour faire du e-commerce, disponible ici : https://wordpress.org/plugins/woocommerce/
+- <span style='float:left'><img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="woocommerce_30.png"></span>&nbsp; Woocommerce (si on a le temps car c'est juste énorme), plugin officiel pour faire du e-commerce, disponible ici : https://wordpress.org/plugins/woocommerce/
 </div>
 
 ## <i class="fas fa-clipboard-list "></i> TODO :roller_coaster::
@@ -34,8 +42,7 @@ menu:
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur **<img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="/images/icones/w30/wordpress4_30.png" alt="W">ordpress Lvl2** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_wp912 "lien vers le site contenant les fichiers de la formation")
-
+:mortar_board: [Afin de débuter la Formation sur **<i class="fa-brands fa-wordpress fa-xl"></i>ordpress Lvl2** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_wp912 "lien vers le site contenant les fichiers de la formation")
 </div>
 
 Merci de garder pour vous les ressources que vous y trouverez et de ne pas les diffuser :smirk:  

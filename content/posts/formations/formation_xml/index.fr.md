@@ -13,11 +13,13 @@ menu:
 -
 ---
 
- Dans cette  formation, on verra comment créer, valider (via *DTD* ou *Schéma*) , requêter (via *XPATH*) et transformer (via *XSLT et CSS*) des documents <mark>Extensible Markup Language  <img style="vertical-align: middle;" src="/images/icones/w30/xml_30.png"> </mark> et on aura de nombreuses occasion de s'exercer et de produire des pages html très optimisées.
+ Dans cette  formation, on verra comment créer, valider (via *DTD* ou *Schéma*) , requêter (via *XPATH*) et transformer (via *XSLT et CSS*) des documents <mark>Extensible Markup Language   </mark> et on aura de nombreuses occasion de s'exercer et de produire des pages html très optimisées.
 
-> <img style="-webkit-user-select: none; margin: auto;" src="https://www.w3.org/2008/site/images/logo-w3c-mobile-lg"> “ Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data<i class="fas fa-database"></i> on the Web and elsewhere.”
+><img style="float:left;vertical-align: middle;" src="xml_30.png">  “ Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data<i class="fas fa-database"></i> on the Web and elsewhere.”
 >
-> -- <cite>[W3C <i class="fas fa-external-link-alt"></i>](https://www.w3.org/XML/)</cite>
+> <cite> [<img style="float:left; margin: 1px; " src="https://www.w3.org/2008/site/images/logo-w3c-mobile-lg"><span style="line-height:70px"> -- W3C <i class="fas fa-external-link-alt"></i>](https://www.w3.org/XML/)</cite>
+><hr/>
+
 
 XML est un méta-language (un language qui permet de générer d'autre langage).  
 Il est issu de SGML, pour résumer il est un peu comme HTML mais permet de faire beaucoup plus de choses, d'être plus précis, de définir nos balises par nous mêmes et on peut utiliser d'autres langages pour associer à nos documents XML du style ou les transformer selon nos besoins).
@@ -59,8 +61,7 @@ Crédit image de fond (et si vous souhaitez en voir plus) : https://mamchenkov.n
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur XML ensemble, vous aurez besoin de suivre les instructions du  :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins  & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_xml323 "lien vers le site contenant les fichiers de la formation")
-
+:mortar_board: [Afin de débuter la Formation sur XML ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_xml323 "lien vers le site contenant les fichiers de la formation")
 </div>
 
 Merci de garder pour vous les ressources que vous y trouverez et de ne pas les diffuser :smirk:  

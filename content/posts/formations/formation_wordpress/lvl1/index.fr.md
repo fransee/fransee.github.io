@@ -11,14 +11,15 @@ menu:
 ---
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
-
-<div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: blue;"></i> Nous débuterons cette formation par une initiation sur <img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"> , on traitera les thématiques suivantes : 
+<div class="d-sm-block alert alert-info " > <center>
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous débuterons cette formation par une initiation sur <img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress"> 
+</center>
+On traitera les thématiques suivantes : 
 <span class="text-left">
 
-- <img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="wpblue.png" alt="W">ordPress.com et <img style="-webkit-user-select: none; margin: auto; vertical-align:sub; color:blue;" src="/images/icones/w30/wordpress4_30.png" alt="W">ordPress.org
-- C'est quoi WordPress ?
-- <img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="/images/icones/w30/wordpress4_30.png" alt="W">ordPress comme Système de gestion de contenu ou CMS
+- <i class="fa-brands fa-wordpress fa-xl"></i>ordPress.com et <i class="fa-brands fa-wordpress-simple fa-xl"></i>ordPress.org
+- C'est quoi <i class="fa-brands fa-wordpress fa-xl"></i>ordPress ?
+- <i class="fa-brands fa-wordpress fa-xl"></i>ordPress comme Système de gestion de contenu ou CMS
 - Pourquoi WordPress ? 
 - Les ressources WordPress et bien d'autres choses encore *selon le temps et l'avancée* :pancakes:
 </div>
@@ -54,7 +55,7 @@ menu:
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur **<img style="-webkit-user-select: none; margin: auto;vertical-align:sub;" src="/images/icones/w30/wordpress4_30.png" alt="W">ordpress Lvl1** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_wp911 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur **<i class="fa-brands fa-wordpress fa-xl"></i>ordpress Lvl1** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_wp911 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 
