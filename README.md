@@ -9,8 +9,10 @@ Attributions:
 
 liste des markdows
 https://gist.github.com/rxaviers/7360908
-🚧👷
+🚧👷 👍 💪 
 
+<i class="fa-brands fa-php fa-beat-fade fa-xl" style="color: #74C0FC;"></i>
+<i class="fa-brands fa-windows"></i>
 <i class="fa-brands fa-js"></i>
  <i class="fa-brands fa-linux"></i>
  <i class="fa-brands fa-ubuntu" style="color: #ff8800;"></i>

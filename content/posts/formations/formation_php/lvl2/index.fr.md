@@ -11,17 +11,18 @@ menu:
 ---
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
-<div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans ce second niveau de la formation sur <img style="vertical-align: middle;" src="/images/icones/php_h40.png" alt="PhP">
+<div class="d-sm-block alert alert-info " > 
+<center>
+<i class="fas fa-info-circle " style="color: blue;"></i> Nous verrons dans ce second niveau de la formation sur <i class="fab fa-php fa-2x" style="color:blue; vertical-align:middle;"></i></center>
 <span class="text-left">
 
 - Comment maîtriser les fonctions de base du PHP, c’est-à-dire, créer des fonctions en utilisant les tableaux, les boucles et différents opérateurs.
 - Savoir générer dynamiquement du HTML à partir du PHP.
 - Maîtriser les fonctions avancées du PHP, c’est-à-dire utiliser les variables super-globales en particulier les sessions et les cookies.
 - Transmettre et contrôler des données d’une page à une autre et manipuler une image dynamiquement.
-- <img style="vertical-align: middle; " src="/images/icones/w30/Xdebug_30.png">  et bien d'autres choses encore *selon le temps et l'avancée* :pancakes:
+- <img style="float : left;margin:3px" src="/files/images/Xdebug_30.png">et bien d'autres choses encore *selon le temps et l'avancée* :pancakes:
 <hr>
-</span>Liste non exhaustive de ce que l'on pourra aborder :
+</span><center>Liste non exhaustive de ce que l'on pourra aborder :</center>
   <div  class="row justify-content-center">
   <img src="avance.png" >
    </div>
@@ -37,7 +38,7 @@ menu:
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur **PhP Lvl2** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_php402 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation sur **<i class="fab fa-php fa-2x" style="color:blue; vertical-align:middle;"></i> niveau 2** ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_php402 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

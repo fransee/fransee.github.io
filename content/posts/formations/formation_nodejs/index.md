@@ -12,15 +12,14 @@ menu:
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
 ---
-
-Dans cette formation on verra comment installer et configurer NodeJS, le prendre en main, l'utiliser avec MongoDB, Jade/Pug et Express JS, on m'utilisera en mode CLI, si on a du temps on fera une API/REST 
+Dans cette formation on verra comment installer et configurer <i class="fa-brands fa-node fa-2xl"></i>, le prendre en main, l'utiliser avec MongoDB, Jade/Pug et Express JS, on l'utilisera en mode CLI et si on a du temps on fera une API/REST 
 
 Tout d'abord un petit historique des frameworks web jusqu'à 2019 (merci [Dr Jawa](https://twitter.com/lofidewanto/status/1128981965632364544) )
 ![historique des framework web](https://pbs.twimg.com/media/D6rzG-_XYAMNjuJ?format=jpg&name=large)   
 Si on regarde l'état du JS en 2020 on se rends compte qu'il est extremement populaire : https://2020.stateofjs.com/en-US/   
 Faut dire qu'il est un peu incontournable pour le moment et que de nombreux framewords l'utilisent ou font appel a lui pour se lancer.   
 
-Node JS est un environnement permettant la gestion et/ou l'utilisation de services applicatifs sur Windows/Linux/OsX (plateforme logicielle libre en JavaScript créer en 2009 orientée vers les applications réseau événementielles hautement concurrente, faut que ça dépote quoi :P).   
+<i class="fa-brands fa-node-js fa-lg"></i> Node JS est un environnement permettant la gestion et/ou l'utilisation de services applicatifs sur <i class="fa-brands fa-windows"></i> Windows/ <i class="fa-brands fa-linux fa-lg"></i> Linux/ <i class="fa-brands fa-apple fa-lg"></i> OsX (plateforme logicielle libre en JavaScript créer en 2009 orientée vers les applications réseau événementielles hautement concurrente, faut que ça dépote quoi :P).   
 Node.js est utilisé notamment comme plateforme de serveur Web, elle est utilisée par Groupon, Vivaldi, SAP, LinkedIn, Microsoft, Yahoo, Walmart, Rakuten, Sage et PayPal.   
 On l'utilise principalement coté serveur mais on peut aussi l'utiliser en local pour faire des logiciels et même des executables (Oui Oui on abordera le sujet, s'il nous reste du temps).   
 
@@ -37,8 +36,7 @@ Aide :
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur Node JS  ensemble, vous aurez besoin de suivre les instructions du  :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins  & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_node159 "lien vers le site contenant les fichiers de la formation")
-
+:mortar_board: [Afin de débuter la Formation sur <i class="fa-brands fa-node-js fa-lg"></i> Node JS ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_node159 "lien vers le site contenant les fichiers de la formation")
 </div>
 
 Merci de garder pour vous les ressources que vous y trouverez et de ne pas les diffuser :smirk:  
