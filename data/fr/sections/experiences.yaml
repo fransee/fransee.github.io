@@ -182,7 +182,7 @@ experiences:
       # darkLogo: /images/sections/experiences/company1.jpg
       overview: <i class="fa-solid fa-person-digging"></i>  Vous pouvez télécharger mon CV ou me contacter pour plus d'infos  <i class="fa-solid fa-person-digging"></i>
     positions:
-      - designation: A la prochaine itération ->
+      - designation: 👷 A la prochaine itération 🚧👷->
         start: Décembre 2000
         end: Mars 2013
         responsibilities:
