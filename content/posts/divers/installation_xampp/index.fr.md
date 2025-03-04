@@ -22,15 +22,15 @@ Pour nos premiers on installera pas tout mais vous êtes libres de rajouter des 
 <h4> CAS 1 - Installation normale avec la dernière version de Xampp </h4>
 Pour ce faire suivez les instructions suivantes : ou suivez les tutoriels en ligne suivants :
 
-- Pour ceux sont sur <img style="vertical-align: bottom;" src="/images/icones/w30/linux_30.png" alt="img"> Linux, <img style="vertical-align: bottom;" src="/images/icones/w30/ubuntu_30.png" alt="img"> Ubuntu, suivez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
+- Pour ceux sont sur <i class="fab fa-linux fa-xl"></i> Linux,<i class="fab fa-ubuntu fa-xl"></i> Ubuntu, suivez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
 - Pour ceux sur Windows : https://fr.wikihow.com/installer-XAMPP-pour-Windows  
 
 <h4> CAS 2 - Installation personnalisée d'une version de XAMPP en php 5.6.28 (pour être au plus proche de la config des serveurs php de Free) </h4>
 
-  - Pour ceux sont sur <img style="vertical-align: bottom;" src="/images/icones/w30/linux_30.png" alt="img"> Linux, <img style="vertical-align: bottom;" src="/images/icones/w30/ubuntu_30.png" alt="img"> Ubuntu : 
-    - `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.28/).
+  - Pour ceux sont sur <i class="fab fa-linux fa-xl"></i> Linux, <i class="fab fa-ubuntu fa-xl"></i> Ubuntu : 
+    - `Télécharger` *PUIS* `installer` ***Xampp*** ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.28/).
     - Pour vous aider vous avez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
-  - Pour ceux qui sont sur <i class="fab fa-windows"></i> Windows, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/).
+  - Pour ceux qui sont sur <i class="fab fa-windows fa-xl"></i> Windows, `Télécharger` *PUIS* `installer` ***Xampp*** ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/).
   - Suivez les instructions suivantes :  
 
      <h4> 1.Suivez le déroulé des écrans après avoir téléchargé votre version de Xampp (pas forcément la 8): </h4>
@@ -61,7 +61,7 @@ Pour ce faire suivez les instructions suivantes : ou suivez les tutoriels en lig
        - [Tuto a récupérer au format PDF ->ICI<- ](Install_Xampp.pdf)
        - fichier [htaccess](htaccess) a renommer en `.`htaccess
 
-  - Pour ceux qui sont sur <i class="fab fa-apple"></i> Mac, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.28/).
+  - Pour ceux qui sont sur <i class="fab fa-apple"></i> Mac, `Télécharger` *PUIS* `installer` ***Xampp*** ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.28/).
     - Vous pouvez suivre la doc [->ICI<-](https://www.apachefriends.org/faq_osx.html)
 
 

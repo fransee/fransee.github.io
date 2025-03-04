@@ -22,11 +22,9 @@ Le contexte :
 - Il est un moyen de communication et de diffusion de l’actualité de l’étudiant/stagiaire et de son CV, c’est sa carte de visite digitale.
 - Il peut avoir une partie publique et une partie privée.
 - Une partie librement personnelle (dont l’accès peut être privé) est à fournir en plus des minimas (mandatory = obligatoire) requis.
-<figure style="float:left"><img  src="https://pikaso.me/assets/images/browser-extension.png" alt="[en bleu et blanc sans fioriture]" width="100" title="faites clair avec peu de couleur et d'animations, des formes arrondies et non aggressives"/> <figcaption> :thought_balloon: </figcaption></figure>
-Un style épuré (twitter <i class="fab fa-twitter"></i>) vaux mieux qu’un patchwork de styles <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F501447739752585137%2F&psig=AOvVaw2n7E38gqU4wbs-chu5N19y&ust=1622285607252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCCp5ab7PACFQAAAAAdAAAAABAD" title="mais si vous devenez célèbres n'hesitez pas">type Picasso</a>  
 
-(Attention il y a un piège il faut regarder juste le style et pas le nom de l'extension ou ce qui est en focus :innocent:)  
-<br/><br/>
+Un style épuré (twitter <i class="fab fa-twitter"></i>) vaux mieux qu’un patchwork de styles <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F501447739752585137%2F&psig=AOvVaw2n7E38gqU4wbs-chu5N19y&ust=1622285607252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCCp5ab7PACFQAAAAAdAAAAABAD" title="mais si vous devenez célèbres n'hesitez pas">type Picasso</a>  
+<br/>
 
 
 _Voilà un exemple de diagramme de cas d'utilisation du site hébergeant votre E-Portefolio dont vous pouvez vous inspirer pour votre réalisation :_

@@ -17,11 +17,11 @@ menu:
 
 ---
 
-Bienvenue sur mon espace personnel sur GitHub :smiley:
+Bienvenue sur mon espace personnel sur <i class="fa-brands fa-github fa-xl"></i> GitHub :smiley:
 
-C'était l'occasion pour moi de faire mon eportefolio et de tester les pages GitHub pages en découvrant Markdown, je n'ai pas pu résister :smile:
+C'était l'occasion pour moi de faire mon eportefolio et de tester les pages GitHub pages en découvrant <i class="fa-brands fa-markdown fa-xl"></i> Markdown, je n'ai pas pu résister :smile:
 
-- [x] D'ailleurs un petit lien pour ceux qui ne connaissent pas les GitHub pages (`Hébergement de pages statiques gratuites, si si` :heart_eyes:) et Markdown avec GitHub (n'oubliez pas le raw html et les frameworks JS ) :
+- [x] D'ailleurs un petit lien pour ceux qui ne connaissent pas les <i class="fa-brands fa-square-github fa-xl"></i> GitHub pages (`Hébergement de pages statiques gratuites, si si` :heart_eyes:) et Markdown avec GitHub (n'oubliez pas le raw html et les frameworks JS ) :
   - [Pages GitHub](https://pages.github.com/)<i class="fas fa-external-link-alt"></i>
   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown tout un programme")<i class="fas fa-external-link-alt"></i>
 

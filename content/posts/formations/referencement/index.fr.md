@@ -12,7 +12,6 @@ menu:
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
 ---
-
 >Le référencement est l'action de référencer, c'est-à-dire mentionner quelque chose ou y faire référence.  
  Sur Internet, le travail de référencement consiste à améliorer le positionnement et la visibilité de sites dans des pages de résultats de moteurs de recherche ou d'annuaires.  
 Le référencement web s'articule autour de deux stratégies distinctes et complémentaires :  
@@ -76,7 +75,7 @@ Article détaillé : <a href="https://fr.wikipedia.org/wiki/Social_Media_Optimiz
 ---   
 ## 10 Conseils sur le référencement  <a name="10conseils"> </a> 
 <section>
-<figure style="float:left"><img  src="les-10-commandements-bof-0044006082493_0.jpg" alt="Les 10 commandements du référencement" width="200" title="Fodra peut être que je voie a changer l'image non ?"/> <figcaption>   :thought_balloon: :innocent: </figcaption></figure>
+<figure style="float:left"><img  src="les-10-commandements-bof-0044006082493_0.jpg" alt="Les 10 commandements du référencement" width="200" title="Fodra peut être que je voie a changer l'image non ?"/> <figcaption>   💭 😇 </figcaption></figure>
 <p>
 <strong>Voici les 10 commandement du bon référencement : 10 règles de base que vous devez absolument suivre si vous briguez les premières positions dans les moteurs de recherche.<br /></strong></p>
 <p style="text-align: justify; ">Pour aider les <strong>créateurs de sites</strong> à mieux <strong>référencer </strong>leurs <strong>pages web</strong>, Google a édicté quelques <strong>règles </strong>explicitées dans ses documents. D&rsquo;autres sont vaguement <strong>évoquées </strong>et certaines sont <strong>déduites </strong>de manière empirique.<br/> Voici <strong>10 règles de base</strong>, presque des <strong>commandements</strong>, que vous devez absolument connaître pour <strong>bien référencer</strong> les pages de votre
@@ -117,7 +116,7 @@ sujet et choisir de vous lire ou non.</p>
 <p style="text-align: justify;">Comment<strong> bien présenter</strong> un contenu ? <a title="Structure type d’un article de blog" href="http://www.pour-le-web.com/e-marketing/structure-type-dun-article-de-blog">Pour qu&rsquo;un texte soit scanné</a> donnez-lui <strong>un titre</strong>            principal qui <strong>résume </strong>votre article, un <strong>chapeau </strong>(terme journalistique qui décrit le texte en gras au dessus des articles) pour présenter le contenu. Des <strong>inter-titres</strong>, <strong>sous-titres</strong>            ou les deux pour <strong>hiérarchiser </strong>et <strong>structurer</strong>, etc. N&rsquo;hésitez pas à vous inspirer des mises en forme d&rsquo;un journal papier ou d&rsquo;un <strong>magazine</strong>. Prenez aussi en compte le fait qu&rsquo;Internet
 est <strong>multi-média</strong>. Textes, images fixes et films ne sont pas incompatibles.</p>
 <h2>5. Des images parlantes tu utiliseras</h2>
-<a href="http://www.gifsanimes.fr/animaux/"><img src="http://www.gifsanimes.fr/animaux/animaux-gifs/perroquet/perroquet-gifs-animes-920822.gif" border="0" alt="image de perroquet qui parle"/>Une photo qui parle</a>   
+<a href="https://fr.vidnoz.com/intelligence-artificielle/chien-qui-parle.html"><img src="https://fr.vidnoz.com/bimg/chien-qui-parle.webp" border="0" alt="image de chien qui parle"/>Une photo qui parle</a>   
 
 Oui bon ok, c'est peut être pas a prendre au premier degré non plus :tongue:
 
@@ -141,10 +140,10 @@ sur ce <strong>lien </strong>et à sa destination et s&rsquo;il ne trouve pas un
 <p style="text-align: justify;">En écrivant des<strong> liens explicites</strong> vous donnez donc de la <strong>matière </strong>aux <strong>robots</strong>, c&rsquo;est pourquoi vous devez éviter autant que possible les liens du genre &laquo;&nbsp;Cliquez ici&nbsp;&raquo;
 ou &laquo;&nbsp;Lire la suite&nbsp;&raquo; . Bien sûr évitez aussi les liens sous forme d&rsquo;urls quand cela est possible.</p>
 
-<h2>7. :busts_in_silhouette: Sur les réseaux sociaux tu seras :eyes: </h2>
+<h2>7. 👥 Sur les réseaux sociaux tu seras 👀 </h2>
 <i class="fab fa-facebook-square"></i><i class="fab fa-twitter-square"></i><i class="fab fa-instagram"></i>
 <p style="text-align: justify;">C&rsquo;était déjà le cas avant <strong>2010</strong>, mais cette année-là ce fut rendu publique : <a title="FACEBOOK ET GOOGLE les géants du ref" href="https://www.amnesty.fr/actualites/facebook-et-google-les-geants-de-la-surveillance">les réseaux sociaux influencent votre référencement</a>.<br/>
-:scream_cat: Oups ce n'était pas le bon lien, le voici : <a title="Référencement naturel Influence réseaux sociaux" href="https://www.webrankinfo.com/dossiers/reseaux-sociaux/impact-referencement">Référencement naturel : Google et Bing disent utiliser Facebook et Twitter dans leur algorithme </a> :sweat_smile:  
+🙀 Oups ce n'était pas le bon lien, le voici : <a title="Référencement naturel Influence réseaux sociaux" href="https://www.webrankinfo.com/dossiers/reseaux-sociaux/impact-referencement">Référencement naturel : Google et Bing disent utiliser Facebook et Twitter dans leur algorithme </a> 😅  
 
 Google et les autres <strong>moteurs de recherches</strong> prennent en <strong>compte </strong>les références à vos pages sur les <strong>réseaux sociaux</strong> pour leur <strong>référencement</strong>. En gros, plus vous avez de liens,
 d&rsquo;annotations, de like, de retweet, bref de références sur les réseaux, plus votre page sera considérée comme importante.</p>
@@ -153,18 +152,20 @@ page web sur la pêche, elle aura plus de chance d&rsquo;apparaitre dans les mot
 <p style="text-align: justify;">Or à ce jour les deux réseaux sociaux les plus puissants sont <strong>Facebook, Google+ </strong>et <strong>Twitter</strong>. Et même si en soi un lien est un lien, d&rsquo;où qu&rsquo;il vienne, en vous concentrant sur ces trois plate-forme
 vous gagnerez plus qu&rsquo;en visant tous les réseaux sociaux à la fois.</p>
 <p style="text-align: justify;">Ok, mais comment <a title="comment avoir plus de fans sur facebook" href="https://www.ludosln.net/comment-avoir-plus-de-fans-sur-facebook-10-astuces-qui-ont-fait-leurs-preuves/">gagner des fans sur Facebook</a>, des <a title="Comment augmenter votre nombre de followers sur Twitter" href="https://www.ionos.fr/digitalguide/web-marketing/les-media-sociaux/comment-augmenter-votre-nombre-de-followers-sur-twitter/">followers sur Twitter</a> et des membres dans vos cercles ? D&rsquo;abord en proposant aux <strong>visiteurs </strong>de votre site de <strong>vous rejoindre</strong>            sur ces plates-formes. Ensuite vous pouvez faire de la <strong>communication </strong>autour de vos communautés, offrir quelque chose à vos fans, cercles ou followers, mettre en place des jeux concours ou encore des partenariats.</p>
+
 <h2>8. Les autres blogs tu commenteras</h2>
-:speech_balloon: :exclamation: :question: :thumbsup: :-1: :clap: :heart:  :fu: (ha non pas celui là, soyez gentil :angel:)
+💬 ❗ ❓ 👍 👎 👏 ❤️  🖕 (ha non pas celui là, soyez gentil 👼)
 <p style="text-align: justify;"><strong>Commenter </strong>des blogs vous permet de créer des <strong>backlinks </strong>(des liens vers chez vous) et dans cet objectif il ne faut pas négliger les forums, digg-like et annuaires. Mais écrire sur le blog d&rsquo;un autre, même
 un simple <strong>commentaire</strong>, n&rsquo;est <strong>pas </strong>un acte <strong>neutre</strong>.</p>
-<p style="text-align: justify;">Commenter un article de blog peut et devrait aussi servir à initier des relations avec le propriétaire du blog. :couplekiss: Avec un peu plus d&rsquo;effort de votre part pour écrire un commentaire valable, vous pourrez attirer son attention. :crying_cat_face: Et même si
-ce dernier ne vous remarque pas, ses lecteurs, eux, peut être vous verront-ils.:eyes:</p>
+<p style="text-align: justify;">Commenter un article de blog peut et devrait aussi servir à initier des relations avec le propriétaire du blog. 💏 Avec un peu plus d&rsquo;effort de votre part pour écrire un commentaire valable, vous pourrez attirer son attention. 😿 Et même si
+ce dernier ne vous remarque pas, ses lecteurs, eux, peut être vous verront-ils.👀</p>
 <p style="text-align: justify;">Pour ce qui est de <strong>digg-like</strong>, ce sont de vrai mines en terme de <strong>backlinks</strong>, car la plupart sont en dofollow (des liens suivis par les moteurs). Si vous arrivez dans leurs <strong>premières pages</strong> vous
 bénéficierez d&rsquo;une soudaine <strong>visibilité </strong>qui vous apportera beaucoup de visiteurs. Alors essayez d&rsquo;écrire des résumés de vos articles et des titres qui donnent envie de <strong>voter pour vous</strong>.</p>
 <p style="text-align: justify;">Enfin, je vous recommande de ne pas trop compter sur les <strong>forums </strong>pour les liens. Car le travail que demande une vrai présence sur un forum vaut largement plus qu&rsquo;un lien. Si vous décidez d&rsquo;aller sur un forum, faites-le
 pour une bonne raison : <strong>y participer et échanger</strong>.</p>
 <p style="text-align: justify;">Quel blog commenter ? Comment choisir ? Quel type de commentaires faut-il laisser ? Évidemment choisissez un <strong>blog </strong>dans votre <strong>thématique </strong>et autorisant les commentaires. Mais vérifiez aussi que ces derniers sont
 en <strong>Dofollow</strong>, affichés dans la même page que l&rsquo;article et que vous pourrez laisser <strong>votre url</strong> de site. Pour le contenu, essayez de rédiger des avis ou d&rsquo;apporter une plus-value à l&rsquo;article.</p>
+
 <h2>9. De bons partenariats tu développeras</h2>
 <p style="text-align: justify;">Pourquoi parler de <strong>partenariats </strong>et <strong>pas d&rsquo;échanges de liens</strong> ? Parce qu&rsquo;il ne s&rsquo;agit pas ici de simplement mettre une page &laquo;&nbsp;partenaires&nbsp;&raquo; dans laquelle on listerait une
 pléthore de structures pouvant potentiellement faire la même chose pour nous. Ce serait perdre votre temps. D&rsquo;abord parce que <strong>plus il y a de lien</strong> sur une page, plus la <strong>valeur </strong>de ses liens <strong>diminuent</strong>.
@@ -179,7 +180,8 @@ approchent.
 </p>
 <p style="text-align: justify;">Au delà de <strong>partenariats </strong>sur le contenu il peut bien sûr y avoir des partenariats sur les <strong>actions </strong>: jeux <strong>concours </strong>sponsorisés, organisation <strong>d&rsquo;évènements</strong> communs, affiliation,
 &#8230;Comme vous le voyez les partenariats ne servent pas uniquement le référencement.</p>
-<h2 style="text-align: justify;">10. Du :no_entry: flash et du javascript tu te méfieras</h2>
+
+<h2 style="text-align: justify;">10. Du ⛔ flash et du javascript tu te méfieras</h2>
 <p style="text-align: justify;">La réalité de cette assertion c&rsquo;est qu&rsquo;il faut <strong>éviter le flash comme la peste</strong>. Les <strong>robots </strong>sont <strong>incapables </strong>(à quelques exception près) <strong>de lire</strong> le contenu d&rsquo;un
 <strong>flash</strong>. Pour eux, tout élément en <strong>flash est comme un carré noir</strong> auquel vous auriez donné un titre. Et comme Google est méfiant, il classera toujours les carrés noirs avec des titres en dessous des contenus
 totalement lisibles sur le même sujet. Pour en rajouter, <strong>google </strong>ne sait <strong>pas suivre</strong> les <strong>liens en flash</strong>. Il ne pourra donc pas naviguer dans un site totalement en flash. Enfin, et ce n&rsquo;est
@@ -214,15 +216,15 @@ TODO :roller_coaster::
   - [x] Téléchargement et installation du logiciel Winscp pour Windows sur votre ordinateur ici : https://sourceforge.net/projects/winscp/ <br/>
   Pour Mac utilisez votre logiciel ftp favori ;).
   - [ ] On fera un petit tour des sites produits par tout le monde, ça sera plus sympa et cela nous permettra d'échanger sur les différentes façons de créer un site vitrine.<br/>
-  Des idées ici : https://www.lafabriquedunet.fr/creation-site-vitrine/articles/12-exemples-sites-vitrines-reussis/. 
+  Des idées ici : https://www.lafabriquedunet.fr/creation-site-vitrine/articles/12-exemples-sites-vitrines-reussis/ 
 
 _<center>**Vous retrouverez toutes les instructions** [->ICI<-](TP1preparatoire.pdf "A ne pas diffuser :P")</center>_
 <br/>
 
-## Débuter la formation <i class="fas fa-sitemap"></i>: 
+## Débuter la formation <i class="fas fa-sitemap"></i> : 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation en <i class="fas fa-sitemap"></i> référencement ensemble, vous aurez besoin de suivre les instructions du  :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins  & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_referencement111 "lien vers le site contenant les fichiers de la formation")
+:mortar_board: [Afin de débuter la Formation en <i class="fas fa-sitemap"></i> référencement ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_referencement111 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 

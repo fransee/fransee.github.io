@@ -19,49 +19,51 @@ Pour nos premiers on installera pas tout mais vous êtes libres de rajouter des 
 
 ## TODO  :roller_coaster::
 
-<h5> CAS 1 - Installation normale avec la dernière version de Xampp </h5>
-Pour ce faire suivez les instructions suivantes `( de 1 à 6 )`, ou suivez les tutoriels en ligne suivants :
+<h4> CAS 1 - Installation normale avec la dernière version de Xampp </h4>
+Pour ce faire suivez les instructions suivantes : ou suivez les tutoriels en ligne suivants :
 
-- Pour ceux sont sur <img style="vertical-align: bottom;" src="/images/icones/w30/linux_30.png" alt="img"> Linux, <img style="vertical-align: bottom;" src="/images/icones/w30/ubuntu_30.png" alt="img"> Ubuntu, suivez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
+- Pour ceux sont sur <i class="fab fa-linux fa-xl"></i> Linux,<i class="fab fa-ubuntu fa-xl"></i> Ubuntu, suivez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
 - Pour ceux sur Windows : https://fr.wikihow.com/installer-XAMPP-pour-Windows  
-- Pour ceux qui sont sur <i class="fab fa-apple"></i> Mac, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.28/).
-  - Vous pouvez suivre la doc [->ICI<-](https://www.apachefriends.org/faq_osx.html)
 
-<h5> CAS 2 - Installation personnalisée d'une version de XAMPP en php 5.6.28 (pour être au plus proche de la config des serveurs php de Free) </h5>
+<h4> CAS 2 - Installation personnalisée d'une version de XAMPP en php 5.6.28 (pour être au plus proche de la config des serveurs php de Free) </h4>
 
-  - Pour ceux sont sur <img style="vertical-align: bottom;" src="/images/icones/w30/linux_30.png" alt="img"> Linux, <img style="vertical-align: bottom;" src="/images/icones/w30/ubuntu_30.png" alt="img"> Ubuntu : 
-    - `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.28/).
+  - Pour ceux sont sur <i class="fab fa-linux fa-xl"></i> Linux, <i class="fab fa-ubuntu fa-xl"></i> Ubuntu : 
+    - `Télécharger` *PUIS* `installer` ***Xampp*** ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.28/).
     - Pour vous aider vous avez les instructions de la `communauté` : [->ICI <i class="fas fa-external-link-alt"></i><- ](https://doc.ubuntu-fr.org/xampp)  
-  - Pour ceux qui sont sur <i class="fab fa-windows"></i> Windows, `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" src="/images/icones/w30/xampp_30.png" > Xampp ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/).
-  - Suivez les instructions suivantes `de 1 à 7 `:  
+  - Pour ceux qui sont sur <i class="fab fa-windows fa-xl"></i> Windows, `Télécharger` *PUIS* `installer` ***Xampp*** ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/).
+  - Suivez les instructions suivantes :  
 
-<h4> 1.Suivez le déroulé des écrans après avoir téléchargé votre version de Xampp (pas forcément la 8): </h4>
+     <h4> 1.Suivez le déroulé des écrans après avoir téléchargé votre version de Xampp (pas forcément la 8): </h4>
 
-![diapo2](Diapositive2.PNG)  
-<h4> 2. En cas de problème dans le lancement du serveur Web (toujours regarder les logs ou messages d'erreurs)</h4>  
+     ![diapo2](Diapositive2.PNG)  
+     <h4> 2. En cas de problème dans le lancement du serveur Web (toujours regarder les logs ou messages d'erreurs)</h4>  
 
-![diapo3](Diapositive3.PNG)  
-<h4> 3. Parfois on a un blocage avec notre parefeu : </h4>  
+     ![diapo3](Diapositive3.PNG)  
+     <h4> 3. Parfois on a un blocage avec notre parefeu : </h4>  
+     
+     ![diapo4](Diapositive4.PNG)  
 
-![diapo4](Diapositive4.PNG)  
+     <h4> 4. Selon les besoins on doit changer le port d'écoute de notre serveur Web : </h4>  
+     
+     ![diapo5](Diapositive5.PNG)
 
-<h4> 4. Selon les besoins on doit changer le port d'écoute de notre serveur Web : </h4>  
+     <h4> 5. Pour mettre en conformité avec free ou visualiser les fichiers dans le dossier de travail : </h4>  
+     
+     ![diapo6](Diapositive6.PNG)
 
-![diapo5](Diapositive5.PNG)
+      <h4> 6. Voyons les fichiers situés à la racine du dossier htdocs </h4>  
 
-<h4> 5. Pour mettre en conformité avec free ou visualiser les fichiers dans le dossier de travail : </h4>  
+      ![diapo7](Diapositive7.PNG)
 
-![diapo6](Diapositive6.PNG)
+      <h4> 7.Créez un fichier .htaccess à la racine du dossier htdocs</h4>  
+     
+     ![diapo8](Diapositive8.PNG)
+       - [Tuto a récupérer au format PDF ->ICI<- ](Install_Xampp.pdf)
+       - fichier [htaccess](htaccess) a renommer en `.`htaccess
 
-<h4> 6. Voyons les fichiers situés à la racine du dossier htdocs </h4>  
+  - Pour ceux qui sont sur <i class="fab fa-apple"></i> Mac, `Télécharger` *PUIS* `installer` ***Xampp*** ( <mark>La 5.6.28, pas la derniere !!! </mark>) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.28/).
+    - Vous pouvez suivre la doc [->ICI<-](https://www.apachefriends.org/faq_osx.html)
 
-![diapo7](Diapositive7.PNG)
-
-<h4> 7.Créez un fichier .htaccess à la racine du dossier htdocs</h4>  
-
-![diapo8](Diapositive8.PNG)
-  - [Tuto a récupérer au format PDF ->ICI<- ](Install_Xampp.pdf)
-  - Fichier [htaccess](htaccess) a renommer en `.`htaccess
 
 Merci de garder pour vous les ressources que vous y trouverez et de ne pas les diffuser :smirk:  
 Merci de m'avertir de toute erreur ou coquille qui m'auraient échapées :heart_eyes:

@@ -12,8 +12,11 @@ menu:
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
 ---
-<div class="d-sm-block  alert alert-primary text-center" role="alert"> 
-<img style="vertical-align: bottom;" src="/images/icones/w30/doctrine_30.png"> Une fois n'est pas coutume, on va apprendre la technologie du cours via un <mark>Travail Dirigé </mark>en suivant l'excellent tuto suivant :<br/>  
+*<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
+-
+---
+<div class="d-sm-block  alert alert-primary" role="alert"> 
+<img style="float:left;" src="doctrine_30.png"> Une fois n'est pas coutume, on va apprendre la technologie du cours via un <mark>Travail Dirigé </mark>en suivant l'excellent tuto suivant :<br/>  
 
 https://zestedesavoir.com/tutoriels/1713/doctrine-2-a-lassaut-de-lorm-phare-de-php/les-bases-de-doctrine-2/<i class="fas fa-external-link-alt"></i>
 
@@ -26,13 +29,14 @@ Pourquoi ce choix ? :
 - Parceque un bon développeur sait s'économiser et être écolo en pratiquant la <i class="fas fa-recycle" style="color:green"></i> réutilisation de code (oui oui, ce n'est pas de la fain....) :smile:
 
 
-> <img style="-webkit-user-select: none; margin: auto;" src="/images/icones/w30/doctrine_30.png"> “ The Doctrine Project is the home to several PHP libraries primarily focused on database storage and object mapping. The core projects are the Object Relational Mapper (ORM) and the Database Abstraction Layer (DBAL) it is built upon. <br/> Doctrine has been downloaded a total of 2,222,562,433 times!”
+> <img style="float:left;" src="doctrine_30.png"> “ The Doctrine Project is the home to several PHP libraries primarily focused on database storage and object mapping. The core projects are the Object Relational Mapper (ORM) and the Database Abstraction Layer (DBAL) it is built upon. <br/> Doctrine has been downloaded a total of 2,222,562,433 times!”
 >
 > -- <cite>[doctrine-project.org <i class="fas fa-external-link-alt"></i>](https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html)</cite>   <hr/>
-> <img style="-webkit-user-select: none; margin: auto;" src="/images/icones/w30/doctrine_30.png"> “ Doctrine est un ORM (couche d'abstraction à la base de données) pour PHP. Il s'agit d'un logiciel libre sous licence GNU LGPL.<br/>
-Doctrine est l'ORM par défaut du framework Symfony <img style="-webkit-user-select: none; margin: auto;" src="/images/icones/w30/Symfony2_30.png">(depuis la version 1.3 de ce framework). Cependant son utilisation dans le cadre d'un projet développé avec Symfony est optionnelle.<br/> De plus, il peut être utilisé avec de nombreux autres frameworks tels que Zend Framework, CodeIgniter, FLOW3 ou encore Lithium.”
+>  “ Doctrine est un ORM (couche d'abstraction à la base de données) pour PHP. Il s'agit d'un logiciel libre sous licence GNU LGPL.<br/>
+Doctrine est l'ORM par défaut du framework Symfony (depuis la version 1.3 de ce framework). Cependant son utilisation dans le cadre d'un projet développé avec Symfony est optionnelle.<br/> De plus, il peut être utilisé avec de nombreux autres frameworks tels que Zend Framework, CodeIgniter, FLOW3 ou encore Lithium.”
 >
-> -- <cite>[wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/Doctrine_(ORM) "Définition à lire pour bien comprendre")</cite>
+> <cite>[ <img style="float:left; margin: 1px; " height="40px" src="/files/images/wikipedia.png"> Wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/Doctrine_(ORM) "Définition à lire pour bien comprendre")</cite>
+><hr/>
 
 On va donc voir ensemble comment installer, configurer et utiliser les opérations de base de l’ORM Doctrine (qui est l'un si ce n'est le plus utilisé avec PhP) via la modélisation et la réalisation d'une application simple de gestion de sondages.
 
@@ -42,7 +46,7 @@ En résumé dans notre code php on va donner des instructions à l'orm pour qu'i
 
 Crée en 2066 il s'inspire d'un autre ORM très célèbre qui est hibernate pour la techno <i class="fab fa-2x fa-java"></i> Java.  
 Il a aussi son langage de requête orienté objet, le Doctrine Query Langage (DQL).  
-Il peut être utilisé à la place du langage SQL pour créer les requêtes d'accès et de manipulation des données de la base de données. Sa syntaxe s'inspire du Hibernate Query Langage, le langage de requête d'<img style="vertical-align: middle;" height="45px" src="/images/icones/hibernate.png" alt="Hibernate">, et du <i class="fab fa-2x fa-java"></i> Java Persistence Query Language, celui de JPA.  
+Il peut être utilisé à la place du langage SQL pour créer les requêtes d'accès et de manipulation des données de la base de données. Sa syntaxe s'inspire du Hibernate Query Langage, le langage de requête d'**Hibernate**, et du <i class="fab fa-2x fa-java"></i> Java Persistence Query Language, celui de JPA.  
 
 Doctrine se compose de 2 grandes parties :
 
@@ -54,12 +58,12 @@ Paramétrons notre environnement de développement (ça va être simple ... :smi
 
 ## TODO  :roller_coaster::
 
-- `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" height="25px" src="/images/icones/Xampp_logo.svg.png" alt="Xampp"> (une version qui supporte php 7+) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://www.apachefriends.org/fr/index.html).
+- `Télécharger` *PUIS* `installer` Xampp (une version qui supporte php 7+) :[->ICI <i class="fas fa-external-link-alt"></i><-](https://www.apachefriends.org/fr/index.html).
   - On le mettra dans un dossier le plus proche de la racine
-  - On installera a minima  <img style="vertical-align: middle;" height="30px" src="/images/icones/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e127fe8d0.6727913515348567225239.png" alt="Apache"> /  <img style="vertical-align: middle;" src="/images/icones/w30/mysql_30.png" alt="img">MySQL / <img style="vertical-align: middle;" height="25px" src="/images/icones/php_h40.png" alt="PhP"> / <img style="vertical-align: bottom;" height="50px" src="/images/icones/PhpMyAdmin_logo.png" alt="phpMyAdmin"> 
+  - On installera a minima  Apache / <i class="fa-solid fa-database fa-2xl"></i> MySQL / <i class="fa-brands fa-php fa-xl" style="color: #0e63a4;"></i> / phpMyAdmin 
 
 
-- `Télécharger` *PUIS* `installer` <img style="vertical-align: bottom;" height="30px" src="/images/icones/Visual studio code logo.png" alt="img">  Visual Studio Code :[->ICI <i class="fas fa-external-link-alt"></i><- ](https://code.visualstudio.com/).
+- `Télécharger` *PUIS* `installer`   Visual Studio Code :[->ICI <i class="fas fa-external-link-alt"></i><- ](https://code.visualstudio.com/).
 <img style="float:right;" src="PhpExtension.png" alt=" ils sont complémentaires :)" tooltip="ils sont complémentaires :)"/>
 - Installer les 2 extensions <i class="fab fa-php fa-2x" style="vertical-align:middle; color:blue"></i> de Felix Becker (Un grand merci à lui au passage, la première pour le debuggage, la seconde pour le linter ) pour VSC : <kbd>CTRL + SHIFT + X</kbd> puis tapez PHP, c'est simple ce sont les 2 et 3 ieme les plus téléchargées (donc tout en haut) &rarr;&rarr;&rarr;
 
@@ -74,7 +78,7 @@ echo "hello doctrine";
 phpinfo();
 ```
 - Lancez-le dans votre navigateur via votre serveur local afin de vous assurez que vous êtes bien en php7+ (si ce n'est pas le cas, faites le nécessaire afin d'avoir votre serveur local en php v7+ de fonctionnel, cf cours précédents).
-- Passons aux choses sérieuses, on va installer  <img style="vertical-align: bottom;" height="30px" src="/images/icones/w30/composer_30.png" alt="img"> Composer[->ICI <i class="fas fa-external-link-alt"></i><- ](https://getcomposer.org/)
+- Passons aux choses sérieuses, on va installer **Composer**[->ICI <i class="fas fa-external-link-alt"></i><- ](https://getcomposer.org/)
   - Cliquez sur download, pour ceux sur Windows, `Télécharger` *PUIS* `Installer` l'exécutable, pour les autres, suivez la doc officielle
   - Dans les settings, vérifier que le chemin est bien celui de l'interpréteur php que vous allez lancer (vous pouvez en avoir plusieurs, a vous de choisir).
     - Si vous ne voyez rien, faites browse et allez dans le dossier d'installation de votre xampp, dans le sous-dossier php :
@@ -84,7 +88,8 @@ phpinfo();
 ```bash
         composer require doctrine/orm:^2.5
 ```
-Ce qui nous donne : 
+
+Ce qui nous donne :
 <img src="composer2.png" alt="en bas tapez : composer require doctrine/orm:^2.5">
 
 <div class="d-sm-block  alert alert-warning text-center" >Si vous avez des messages en rouge, il vous <mark> faut fermer puis relancer Visual Studio Code </mark> car les variables d'environnement avec lesquelles VSC à été démarré ont changées depuis l'installation de Composer</div>
@@ -176,11 +181,14 @@ composer dump-autoload
 ```  
 
 <br/>
-<img style="vertical-align: bottom;" src="/images/icones/w30/doctrine_30.png"> Maintenant que Doctrine est correctement installé et configuré, nous allons l’exploiter dans notre projet pour mettre en place un modèle de données full Orienté Objet
+
+Maintenant que ***Doctrine*** est correctement installé et configuré, nous allons l’exploiter dans notre projet pour mettre en place un modèle de données full Orienté Objet
 <hr/>
+
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: [Afin de débuter la Formation sur Doctrine ensemble, vous aurez besoin de suivre les instructions du  :books:support suivant et/ou de récupérer les éléments de la <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins  & Passswords :closed_lock_with_key: donnés par le formateur <i class="fas fa-chalkboard-teacher"></i> ) <i class="fas fa-external-link-alt"></i>.](http://franpan.free.fr/formation/_doctrine327 "lien vers le site contenant les fichiers de la formation")
+
+:mortar_board: [Afin de débuter la Formation sur Doctrine ensemble, vous aurez besoin de suivre les instructions du :books:support suivant et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule : (Logins & Passswords :closed_lock_with_key: donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp;)&nbsp; <i class="fas fa-external-link-alt"></i>.</span>](http://franpan.free.fr/formation/_doctrine327 "lien vers le site contenant les fichiers de la formation")
 
 </div>
 
