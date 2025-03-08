@@ -7,6 +7,8 @@ An example hugo static site with Toha theme.
 Attributions:
 - <a href='https://www.freepik.com/vectors/business'>Business vector created by studiogstock - www.freepik.com</a>
 
+hugo server --disableFastRender
+
 liste des markdows
 https://gist.github.com/rxaviers/7360908
 🚧👷 👍 💪 
