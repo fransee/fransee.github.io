@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FRANSEE Francis's Blog</title><link>https://fransee.github.io/</link><description>Recent content on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Sun, 13 Feb 2022 08:11:26 +0000</lastBuildDate><atom:link href="https://fransee.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation CSS 3 - Premier Niveau -</title><link>https://fransee.github.io/posts/formations/formation_css/base/</link><pubDate>Sun, 13 Feb 2022 08:11:26 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_css/base/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FRANSEE Francis's Blog</title><link>https://fransee.github.io/</link><description>Recent content on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Sun, 02 Mar 2025 10:11:31 +0000</lastBuildDate><atom:link href="https://fransee.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation Java - Bases</title><link>https://fransee.github.io/posts/formations/formation_java/lvl1/</link><pubDate>Sun, 02 Mar 2025 10:11:31 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous débuterons cette formation par une initiation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">
+&lt;/center>
+On traitera les thématiques suivantes :
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>&lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordPress.com et &lt;i class="fa-brands fa-wordpress-simple fa-xl">&lt;/i>ordPress.org&lt;/li>
+&lt;li>C&amp;rsquo;est quoi &lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordPress ?&lt;/li>
+&lt;li>&lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordPress comme Système de gestion de contenu ou CMS&lt;/li>
+&lt;li>Pourquoi WordPress ?&lt;/li>
+&lt;li>Les ressources WordPress et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;p>“WordPress est un système de gestion de contenu (SGC ou content management system (CMS) en anglais) gratuit, libre et open-source.&lt;br>
+Ce logiciel écrit en PHP repose sur une base de données MySQL et est distribué par la fondation WordPress.org.&lt;br>
+Les fonctionnalités de WordPress lui permettent de créer et gérer différents types de sites Web : site vitrine, site de vente en ligne, site applicatif, blog, portfolio, site institutionnel, site d&amp;rsquo;enseignement…”&lt;/p></description></item><item><title>Formation Java - programmation graphique</title><link>https://fransee.github.io/posts/formations/formation_java/lvl2/</link><pubDate>Sun, 02 Mar 2025 10:11:30 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info" > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">&lt;/center> en voyant les thématiques suivantes :
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>
+&lt;p>Les plugins avec &lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordpress, notamment :&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="yoast.svg"> &lt;/span> L&amp;rsquo;obligatoire Yoast SEO, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/wordpress-seo/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/wordpress-seo/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="elementor.svg">&lt;/span> L&amp;rsquo;indispensable Elementor Website Builder, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/elementor/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/elementor/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="cookienotice_30.png">&lt;/span>  L&amp;rsquo;utile cause obligation RGPD, Cookie Notice &amp;amp; Compliance, disponible ici : &lt;a href="https://wordpress.org/plugins/cookie-notice/" target="_blank" rel="noopener">https://wordpress.org/plugins/cookie-notice/&lt;/a>&lt;/p></description></item><item><title>Formation Java -</title><link>https://fransee.github.io/posts/formations/formation_java/lvl3/</link><pubDate>Sun, 02 Mar 2025 10:11:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl3/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info" > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">&lt;/center> en voyant les thématiques suivantes :
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>
+&lt;p>Les plugins avec &lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordpress, notamment :&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="yoast.svg"> &lt;/span> L&amp;rsquo;obligatoire Yoast SEO, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/wordpress-seo/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/wordpress-seo/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="elementor.svg">&lt;/span> L&amp;rsquo;indispensable Elementor Website Builder, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/elementor/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/elementor/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="cookienotice_30.png">&lt;/span>  L&amp;rsquo;utile cause obligation RGPD, Cookie Notice &amp;amp; Compliance, disponible ici : &lt;a href="https://wordpress.org/plugins/cookie-notice/" target="_blank" rel="noopener">https://wordpress.org/plugins/cookie-notice/&lt;/a>&lt;/p></description></item><item><title>Formation CSS 3 - Premier Niveau -</title><link>https://fransee.github.io/posts/formations/formation_css/base/</link><pubDate>Sun, 13 Feb 2022 08:11:26 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_css/base/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info text-center" role="alert">
 &lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> &lt;i class="fa-brands fa-css3-alt fa-beat">&lt;/i> CSS 3 (Feuilles de style en cascade) &lt;/mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage qui est présent quasiment depuis le début du WWWeb et est un incontournable de la création de &lt;i class="fas fa-sitemap">&lt;/i>sites internet, &lt;i class="fas fa-file-code">&lt;/i>pages web ou même support de documentation &lt;br/>
 &lt;/div>
