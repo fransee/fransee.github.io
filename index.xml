@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FRANSEE Francis's Blog</title><link>https://fransee.github.io/</link><description>Recent content on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Sun, 02 Mar 2025 10:11:31 +0000</lastBuildDate><atom:link href="https://fransee.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation Java - Bases</title><link>https://fransee.github.io/posts/formations/formation_java/lvl1/</link><pubDate>Sun, 02 Mar 2025 10:11:31 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info " > &lt;center>
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous débuterons cette formation par une initiation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">
-&lt;/center>
-On traitera les thématiques suivantes :
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> Java : &lt;/center>
 &lt;span class="text-left">
 &lt;ul>
-&lt;li>&lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordPress.com et &lt;i class="fa-brands fa-wordpress-simple fa-xl">&lt;/i>ordPress.org&lt;/li>
-&lt;li>C&amp;rsquo;est quoi &lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordPress ?&lt;/li>
-&lt;li>&lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordPress comme Système de gestion de contenu ou CMS&lt;/li>
-&lt;li>Pourquoi WordPress ?&lt;/li>
-&lt;li>Les ressources WordPress et bien d&amp;rsquo;autres choses encore &lt;em>selon le temps et l&amp;rsquo;avancée&lt;/em> &amp;#x1f95e;&lt;/li>
+&lt;li>01 - Introduction sur Java premier langage&lt;/li>
+&lt;li>02 - Structures de contrôle&lt;/li>
+&lt;li>03 - Tableaux statiques&lt;/li>
+&lt;li>04 - Chaine de caracteres tableaux dynamiques&lt;/li>
+&lt;li>05 - les méthodes&lt;/li>
+&lt;li>06 - Introduction poo&lt;/li>
+&lt;li>07 - Les constructeurs&lt;/li>
+&lt;li>08 - Héritage et polymorphisme&lt;/li>
+&lt;li>09 - Interface&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;blockquote>
-&lt;p>“WordPress est un système de gestion de contenu (SGC ou content management system (CMS) en anglais) gratuit, libre et open-source.&lt;br>
-Ce logiciel écrit en PHP repose sur une base de données MySQL et est distribué par la fondation WordPress.org.&lt;br>
-Les fonctionnalités de WordPress lui permettent de créer et gérer différents types de sites Web : site vitrine, site de vente en ligne, site applicatif, blog, portfolio, site institutionnel, site d&amp;rsquo;enseignement…”&lt;/p></description></item><item><title>Formation Java - programmation graphique</title><link>https://fransee.github.io/posts/formations/formation_java/lvl2/</link><pubDate>Sun, 02 Mar 2025 10:11:30 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:200px" src="java.png" alt="">
+Java est un langage de programmation de haut niveau orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy (cofondateur de Sun Microsystems en 1982), présenté officiellement le 23 mai 1995 au SunWorld.
+&lt;p>La société Sun est rachetée en 2009 par la société Oracle qui détient et maintient désormais Java.&lt;/p></description></item><item><title>Formation Java - programmation graphique</title><link>https://fransee.github.io/posts/formations/formation_java/lvl2/</link><pubDate>Sun, 02 Mar 2025 10:11:30 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info" > &lt;center>
 &lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">&lt;/center> en voyant les thématiques suivantes :
 &lt;span class="text-left">
