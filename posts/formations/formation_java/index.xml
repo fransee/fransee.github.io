@@ -18,21 +18,28 @@
 &lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:200px" src="java.png" alt="">
 Java est un langage de programmation de haut niveau orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy (cofondateur de Sun Microsystems en 1982), présenté officiellement le 23 mai 1995 au SunWorld.
 &lt;p>La société Sun est rachetée en 2009 par la société Oracle qui détient et maintient désormais Java.&lt;/p></description></item><item><title>Formation Java - programmation graphique</title><link>https://fransee.github.io/posts/formations/formation_java/lvl2/</link><pubDate>Sun, 02 Mar 2025 10:11:30 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
-&lt;div class="d-sm-block alert alert-info" > &lt;center>
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">&lt;/center> en voyant les thématiques suivantes :
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation sur la programmation graphique avec AWT, SWING et &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> JavaFX : &lt;/center>
 &lt;span class="text-left">
 &lt;ul>
-&lt;li>
-&lt;p>Les plugins avec &lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordpress, notamment :&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="yoast.svg"> &lt;/span> L&amp;rsquo;obligatoire Yoast SEO, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/wordpress-seo/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/wordpress-seo/&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="elementor.svg">&lt;/span> L&amp;rsquo;indispensable Elementor Website Builder, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/elementor/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/elementor/&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="cookienotice_30.png">&lt;/span>  L&amp;rsquo;utile cause obligation RGPD, Cookie Notice &amp;amp; Compliance, disponible ici : &lt;a href="https://wordpress.org/plugins/cookie-notice/" target="_blank" rel="noopener">https://wordpress.org/plugins/cookie-notice/&lt;/a>&lt;/p></description></item><item><title>Formation Java -</title><link>https://fransee.github.io/posts/formations/formation_java/lvl3/</link><pubDate>Sun, 02 Mar 2025 10:11:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl3/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;li>10 - 0 - Introduction a la programmation graphique&lt;/li>
+&lt;li>10 - A - Programmation graphique Avancée JAVA-FX&lt;/li>
+&lt;li>10 – B - Compléments de programmation&lt;/li>
+&lt;li>10 – C – Architecture Concepts techniques&lt;/li>
+&lt;li>10 – D – Conteneurs Layout-Panes&lt;/li>
+&lt;li>10 – E – Composants de base&lt;/li>
+&lt;li>10 – F – Architecture MVC Gestion Evenement&lt;/li>
+&lt;li>10 – G – FXML SceneBuilder&lt;/li>
+&lt;li>10 – H – Menus Choix Selection&lt;/li>
+&lt;li>10 – I – Panneaux spécialisés&lt;/li>
+&lt;li>10 - J – Boîtes de dialogue&lt;/li>
+&lt;li>10 - K – Feuilles de style CSS&lt;/li>
+&lt;li>10 - L - Jar executable Installeur&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:440px" src="440px-JavaFX_Logo.png" alt=""> &lt;div style="clear:both">&lt;/div>
+JavaFX est un framework et une bibliothèque d&amp;rsquo;interface utilisateur issue du projet OpenJFX, qui permet aux développeurs Java de créer une interface graphique pour des applications de bureau, des applications internet riches et des applications smartphones et tablettes tactiles.&lt;/p></description></item><item><title>Formation Java -</title><link>https://fransee.github.io/posts/formations/formation_java/lvl3/</link><pubDate>Sun, 02 Mar 2025 10:11:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl3/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info" > &lt;center>
 &lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">&lt;/center> en voyant les thématiques suivantes :
 &lt;span class="text-left">
