@@ -40,18 +40,49 @@ Java est un langage de programmation de haut niveau orienté objet créé par Ja
 &lt;blockquote>
 &lt;p>&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:440px" src="440px-JavaFX_Logo.png" alt=""> &lt;div style="clear:both">&lt;/div>
 JavaFX est un framework et une bibliothèque d&amp;rsquo;interface utilisateur issue du projet OpenJFX, qui permet aux développeurs Java de créer une interface graphique pour des applications de bureau, des applications internet riches et des applications smartphones et tablettes tactiles.&lt;/p></description></item><item><title>Formation Java -</title><link>https://fransee.github.io/posts/formations/formation_java/lvl3/</link><pubDate>Sun, 02 Mar 2025 10:11:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl3/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
-&lt;div class="d-sm-block alert alert-info" > &lt;center>
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous poursuivrons cette formation sur &lt;img style="vertical-align: middle;" src="WordPress_logo_30.png" alt="Wordpress">&lt;/center> en voyant les thématiques suivantes :
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation sur la programmation avancé avec &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> Java Lvl 3 : &lt;/center>
 &lt;span class="text-left">
 &lt;ul>
-&lt;li>
-&lt;p>Les plugins avec &lt;i class="fa-brands fa-wordpress fa-xl">&lt;/i>ordpress, notamment :&lt;/p>
+&lt;li>11 - Généricité&lt;/li>
+&lt;li>12 - Exceptions package&lt;/li>
+&lt;li>13 - Introduction à la programmation concurrente&lt;/li>
+&lt;li>14 - Les entres sorties niv1&lt;/li>
+&lt;li>15 - Réseau socket&lt;/li>
+&lt;li>16 - Les collections&lt;/li>
+&lt;li>17 - Persistance et jdbc&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="d-sm-block alert alert-success text-left" role="alert">
+&lt;p>&amp;#x1f393; Afin de débuter la Formation sur &lt;strong>&lt;i class="fa-brands fa-java fa-2xl">&lt;/i>Java programmation avancé lvl3&lt;/strong> ensemble, vous aurez besoin de suivre les instructions du &amp;#x1f4da;support et/ou de récupérer les éléments de la &lt;span style='display:FLEX;margin:0'> &lt;img style="vertical-align: bottom;" src="https://fransee.github.io/images/icones/w30/capsule_30.png" alt="C">apsule donnés par le formateur   &lt;i class="fas fa-chalkboard-teacher">&lt;/i>   le jour de la formation &amp;#x2757;&lt;/p></description></item><item><title>JEE</title><link>https://fransee.github.io/posts/formations/formation_java/javaee/</link><pubDate>Sun, 02 Mar 2025 10:07:31 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/javaee/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> Java Edition Entreprise: &lt;/center>
+&lt;span class="text-left">
 &lt;ul>
-&lt;li>
-&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="yoast.svg"> &lt;/span> L&amp;rsquo;obligatoire Yoast SEO, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/wordpress-seo/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/wordpress-seo/&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub; width:30px" src="elementor.svg">&lt;/span> L&amp;rsquo;indispensable Elementor Website Builder, disponible ici : &lt;a href="https://fr.wordpress.org/plugins/elementor/" target="_blank" rel="noopener">https://fr.wordpress.org/plugins/elementor/&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;span style='float:left'> &lt;img style="-webkit-user-select: none; margin: auto; vertical-align:sub;" src="cookienotice_30.png">&lt;/span>  L&amp;rsquo;utile cause obligation RGPD, Cookie Notice &amp;amp; Compliance, disponible ici : &lt;a href="https://wordpress.org/plugins/cookie-notice/" target="_blank" rel="noopener">https://wordpress.org/plugins/cookie-notice/&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;li>Introduction-ArchiDistribuees&lt;/li>
+&lt;li>Introduction-QuestJEE&lt;/li>
+&lt;li>Introduction-Conteneurs et serveurs applications&lt;/li>
+&lt;li>Couche Presentation&lt;/li>
+&lt;li>JSP&lt;/li>
+&lt;li>Servlet&lt;/li>
+&lt;li>Collaboration Servlet Jsp&lt;/li>
+&lt;li>Jstl Et El&lt;/li>
+&lt;li>Introduction-Persistance&lt;/li>
+&lt;li>Persistance-Orm-Hibernate&lt;/li>
+&lt;li>Persistance-JPA-Intro&lt;/li>
+&lt;li>Persistance-JPA-Associations&lt;/li>
+&lt;li>Persistance-JPA-JPQL&lt;/li>
+&lt;li>Couche Metier WildFly&lt;/li>
+&lt;li>Couche Metier Introduction&lt;/li>
+&lt;li>Couche Metier EJBSession&lt;/li>
+&lt;li>Couche Metier EJBEntity&lt;/li>
+&lt;li>Couche Metier_JMS_MDBe&lt;/li>
+&lt;li>Webservice Introduction&lt;/li>
+&lt;li>JUnit&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:200px" src="250px-Jakarta_ee_logo_stacked.png" alt="">
+Jakarta EE (anciennement Java 2 Platform, Enterprise Edition, ou J2EE , puis Java Platform, Enterprise Edition ou Java EE), est une spécification pour la plate-forme Java d'Oracle, destinée aux applications d'entreprise.
+&lt;p>La plate-forme étend Java Platform, Standard Edition (Java SE) en fournissant une API de mapping objet-relationnel, des architectures distribuées et multitiers, et des services web.
+La plate-forme se fonde principalement sur des composants modulaires exécutés sur un serveur d&amp;rsquo;applications.&lt;/p></description></item></channel></rss>
