@@ -90,6 +90,24 @@ skills:
     url: "../posts/formations/formation_nodejs/"
     categories: ["web", "framework"]
 
+  - name: Electron JS
+    logo: images/icones/electron.png
+    summary: "Expérimenté, capable de former dessus à des niveaux divers"
+    url: "../posts/formations/formation_electronjs/"
+    categories: ["framework"]
+
+  - name: Php
+    logo: images/icones/w30/php_30.png
+    summary: "Expérimenté, capable de former dessus à des niveaux divers"
+    url: "../posts/formations/formation_php/"
+    categories: ["language", "web"]
+
+  - name: Java & JEE
+    logo: images/icones/w30/jee3_30.png
+    summary: "Expérimenté, capable de former dessus à des niveaux divers"
+    url: "../posts/formations/formation_java/"
+    categories: ["language", "web"] 
+
   - name: Docker
     logo: /images/sections/skills/docker.svg
     summary: "Débutant, connaissances de base. Impossible actuellement de former sur cette techno"
@@ -137,13 +155,7 @@ skills:
     url: "../posts/formations/formation_mongodb/"
     categories: ["others"]
 
-  - name: Php
-    logo: images/icones/w30/php_30.png
-    summary: "Expérimenté, capable de former dessus à des niveaux divers"
-    url: "../posts/formations/formation_php/"
-    categories: ["language", "web"]  
-
-  - name: python
+  - name: Python
     logo: images/icones/w30/python_30.png
     summary: "Expérimenté, capable de former dessus à des niveaux divers"
     url: "../posts/formations/formation_python/"
