@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Formation Electron JS on FRANSEE Francis's Blog</title><link>https://fransee.github.io/posts/formations/formation_electronjs/</link><description>Recent content in Formation Electron JS on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Fri, 28 Mar 2025 11:11:25 +0000</lastBuildDate><atom:link href="https://fransee.github.io/posts/formations/formation_electronjs/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation Electron Initiation</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</link><pubDate>Fri, 28 Mar 2025 11:11:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;p>&lt;i class="fa fa-atom fa-2xl">&lt;/i> Electron JS : &lt;/center>&lt;/p>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-light fa-atom fa-2xl">&lt;/i> Electron JS : &lt;/center>
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>01 - Introduction sur Java premier langage&lt;/li>
+&lt;li>02 - Structures de contrôle&lt;/li>
+&lt;li>03 - Tableaux statiques&lt;/li>
+&lt;li>04 - Chaine de caracteres tableaux dynamiques&lt;/li>
+&lt;li>05 - les méthodes&lt;/li>
+&lt;li>06 - Introduction poo&lt;/li>
+&lt;li>07 - Les constructeurs&lt;/li>
+&lt;li>08 - Héritage et polymorphisme&lt;/li>
+&lt;li>09 - Interface&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:200px" src="java.png" alt="">
+Java est un langage de programmation de haut niveau orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy (cofondateur de Sun Microsystems en 1982), présenté officiellement le 23 mai 1995 au SunWorld.
+&lt;p>La société Sun est rachetée en 2009 par la société Oracle qui détient et maintient désormais Java.&lt;/p></description></item><item><title>Formation Electron Avancée</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</link><pubDate>Fri, 28 Mar 2025 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation sur la programmation graphique avec AWT, SWING et &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> JavaFX : &lt;/center>
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>10 - 0 - Introduction a la programmation graphique&lt;/li>
+&lt;li>10 - A - Programmation graphique Avancée JAVA-FX&lt;/li>
+&lt;li>10 – B - Compléments de programmation&lt;/li>
+&lt;li>10 – C – Architecture Concepts techniques&lt;/li>
+&lt;li>10 – D – Conteneurs Layout-Panes&lt;/li>
+&lt;li>10 – E – Composants de base&lt;/li>
+&lt;li>10 – F – Architecture MVC Gestion Evenement&lt;/li>
+&lt;li>10 – G – FXML SceneBuilder&lt;/li>
+&lt;li>10 – H – Menus Choix Selection&lt;/li>
+&lt;li>10 – I – Panneaux spécialisés&lt;/li>
+&lt;li>10 - J – Boîtes de dialogue&lt;/li>
+&lt;li>10 - K – Feuilles de style CSS&lt;/li>
+&lt;li>10 - L - Jar executable Installeur&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:440px" src="440px-JavaFX_Logo.png" alt=""> &lt;div style="clear:both">&lt;/div>
+JavaFX est un framework et une bibliothèque d&amp;rsquo;interface utilisateur issue du projet OpenJFX, qui permet aux développeurs Java de créer une interface graphique pour des applications de bureau, des applications internet riches et des applications smartphones et tablettes tactiles.&lt;/p></description></item></channel></rss>
