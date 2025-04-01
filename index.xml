@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FRANSEE Francis's Blog</title><link>https://fransee.github.io/</link><description>Recent content on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Fri, 28 Mar 2025 11:11:25 +0000</lastBuildDate><atom:link href="https://fransee.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation Electron Initiation</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</link><pubDate>Fri, 28 Mar 2025 11:11:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
-&lt;p>&lt;i class="fa fa-atom fa-2xl">&lt;/i> Electron JS : &lt;/center>&lt;/p>
 &lt;div class="d-sm-block alert alert-info " > &lt;center>
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-light fa-atom fa-2xl">&lt;/i> Electron JS : &lt;/center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-classic fa-atom fa-2xl">&lt;/i> Electron : &lt;/center>
 &lt;span class="text-left">
 &lt;ul>
-&lt;li>01 - Introduction sur Java premier langage&lt;/li>
-&lt;li>02 - Structures de contrôle&lt;/li>
-&lt;li>03 - Tableaux statiques&lt;/li>
-&lt;li>04 - Chaine de caracteres tableaux dynamiques&lt;/li>
-&lt;li>05 - les méthodes&lt;/li>
-&lt;li>06 - Introduction poo&lt;/li>
-&lt;li>07 - Les constructeurs&lt;/li>
-&lt;li>08 - Héritage et polymorphisme&lt;/li>
-&lt;li>09 - Interface&lt;/li>
+&lt;li>Créer votre première application&lt;/li>
+&lt;li>Importation de modules&lt;/li>
+&lt;li>Exécution de l’application Electron&lt;/li>
+&lt;li>Débogage avec VS Code&lt;/li>
+&lt;li>Débogage avec Chromium DevTools&lt;/li>
+&lt;li>Utiliser des scripts de préchargement&lt;/li>
+&lt;li>Enrichir le moteur de rendu avec un script de préchargement&lt;/li>
+&lt;li>Ajouter des fonctionnalités I II III IV&lt;/li>
+&lt;li>Empaqueter votre application&lt;/li>
+&lt;li>Création d’une distribution livrable – ajout d’un icon&lt;/li>
+&lt;li>Création d’une distribution livrable EXE – MSI Windows&lt;/li>
+&lt;li>Signer son code&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;blockquote>
-&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:200px" src="java.png" alt="">
-Java est un langage de programmation de haut niveau orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy (cofondateur de Sun Microsystems en 1982), présenté officiellement le 23 mai 1995 au SunWorld.
-&lt;p>La société Sun est rachetée en 2009 par la société Oracle qui détient et maintient désormais Java.&lt;/p></description></item><item><title>Formation Electron Avancée</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</link><pubDate>Fri, 28 Mar 2025 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:50px" src="electron.png" alt="">
+Electron est un environnement permettant de développer des applications multi-plateformes de bureau avec des technologies web (JavaScript, HTML et CSS).
+&lt;p>L&amp;rsquo;infrastructure (backend) est codée en Node.js, et l&amp;rsquo;interface (frontend) est bâtie sur les outils Chromium, la partie open source de Google Chrome.&lt;/p></description></item><item><title>Formation Electron Avancée</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</link><pubDate>Fri, 28 Mar 2025 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info " > &lt;center>
 &lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation sur la programmation graphique avec AWT, SWING et &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> JavaFX : &lt;/center>
 &lt;span class="text-left">
