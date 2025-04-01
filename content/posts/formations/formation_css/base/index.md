@@ -4,7 +4,7 @@ date: 2022-02-13T08:11:26+00:00
 description: CSS formation bases initiation
 menu:
   sidebar:
-    name: CSS LvL 1
+    name: CSS 1
     identifier: css1_en
     parent: formations_css_en
     weight: 10

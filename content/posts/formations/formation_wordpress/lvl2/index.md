@@ -4,7 +4,7 @@ date: 2021-06-13T10:11:30+00:00
 description: wordpress formation avancé plugin  
 menu:
   sidebar:
-    name: Wordpress LvL 2
+    name: Wordpress 2
     identifier: wp2_en
     parent: formations_wp_en
     weight: 10

@@ -4,7 +4,7 @@ date: 2021-12-26T10:11:57+00:00
 description: php formation avancé  
 menu:
   sidebar:
-    name: PhP LvL 3
+    name: PhP 3
     identifier: php3_fr
     parent: formations_php_fr
     weight: 10

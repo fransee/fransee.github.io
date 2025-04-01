@@ -4,7 +4,7 @@ date: 2025-03-02T10:11:31+00:00
 description: java formation initiation bases  
 menu:
   sidebar:
-    name: Java Lvl 1
+    name: Java 1
     identifier: java1_en
     parent: formations_java_en
     weight: 10

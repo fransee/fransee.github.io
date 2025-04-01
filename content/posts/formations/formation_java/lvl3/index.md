@@ -4,7 +4,7 @@ date: 2025-03-02T10:11:29+00:00
 description: java formation programmation graphique
 menu:
   sidebar:
-    name: Java LvL 3
+    name: Java 3
     identifier: java3_en
     parent: formations_java_en
     weight: 10

@@ -4,7 +4,7 @@ date: 2021-06-13T05:11:25+00:00
 description: Javascript formation avancé json 
 menu:
   sidebar:
-    name: Javascript LvL 2
+    name: Javascript 2
     identifier: Javascript2_fr
     parent: formations_Javascript_fr
     weight: 10

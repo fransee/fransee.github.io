@@ -4,7 +4,7 @@ date: 2021-12-26T10:11:56+00:00
 description: php formation avancé  
 menu:
   sidebar:
-    name: PhP LvL 4
+    name: PhP 4
     identifier: php4_en
     parent: formations_php_en
     weight: 10

@@ -4,7 +4,7 @@ date: 2025-03-02T10:11:30+00:00
 description: java formation programmation graphique
 menu:
   sidebar:
-    name: Java LvL 2
+    name: Java 2
     identifier: java2_fr
     parent: formations_java_fr
     weight: 10

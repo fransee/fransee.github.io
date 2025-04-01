@@ -4,7 +4,7 @@ date: 2021-06-13T10:11:31+00:00
 description: wordpress formation initiation  
 menu:
   sidebar:
-    name: Wordpress LvL 1
+    name: Wordpress 1
     identifier: wp1_en
     parent: formations_wp_en
     weight: 10

@@ -4,7 +4,7 @@ date: 2021-12-26T10:11:59+00:00
 description: php formation bases initiation
 menu:
   sidebar:
-    name: PhP LvL 1
+    name: PhP 1
     identifier: php1_fr
     parent: formations_php_fr
     weight: 10

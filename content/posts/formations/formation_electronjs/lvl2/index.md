@@ -4,7 +4,7 @@ date: 2025-03-28T10:10:29+00:00
 description: Electron formation Avancé framework
 menu:
   sidebar:
-    name: Electron Lvl 2
+    name: Electron 2
     identifier: electron2_en
     parent: formations_electronjs_en
     weight: 10

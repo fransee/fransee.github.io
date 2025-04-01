@@ -4,7 +4,7 @@ date: 2021-06-13T09:11:25+00:00
 description: Javascript formation bases initiation
 menu:
   sidebar:
-    name: Javascript LvL 1
+    name: Javascript 1
     identifier: Javascript1_fr
     parent: formations_Javascript_fr
     weight: 10

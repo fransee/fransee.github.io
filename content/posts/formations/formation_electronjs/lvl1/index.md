@@ -4,7 +4,7 @@ date: 2025-03-28T11:11:25+00:00
 description: Electron formation bases initiation framework javascript
 menu:
   sidebar:
-    name: Electron Lvl 1
+    name: Electron  1
     identifier: electron1_en
     parent: formations_electronjs_en
     weight: 10
@@ -48,33 +48,20 @@ menu:
 ## <i class="fas fa-clipboard-list "></i> TODO :roller_coaster::
 :speech_balloon: Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO :roller_coaster:) suivantes <i class="fas fa-clipboard-list "></i> :  
 
+- :point_right:  Utilisez l'IDE Visual Studio Code, téléchargez et installez le ici : [->https://code.visualstudio.com/<-](https://code.visualstudio.com/)
 
-Java est tellement populaire qu'il y a des versions concurrentes de la version officielle et surtout des versions entièrement gratuite ce qui ne fut pas toujours le cas des versions de l'OPEN JDK https://fr.wikipedia.org/wiki/OpenJDK.
+- :point_right:  Installer Git (tappez “git version” dans un terminal pour vérifier que tout est bon)
+, téléchargez et installez le ici : [->https://github.com/git-guides/install-git<-](https://github.com/git-guides/install-git)
 
-Afin de vous sensibiliser à l'écosystème du logiciel libre et des différentes versions possibles on utilisera différentes versions du **Java Development Kit (JDK)** qui nous permettrons de développper en <i class="fa-brands fa-java fa-2xl"></i>Java.
+- :point_right:  Téléchargez et installez <i class="fa-brands fa-chrome fa-2xl"></i> Chrome ou Chromium ici : [->https://www.chromium.org/getting-involved/download-chromium/<-](https://www.chromium.org/getting-involved/download-chromium/) ou là : [->https://www.google.com/intl/fr/chrome/<-](https://www.google.com/intl/fr/chrome/)
 
+- :point_right:  Installer <i class="fa-brands fa-node fa-2xl"></i> (et npm) (tappez “node -v” puis “npm -v”dans un terminal pour vérifier que tout est bon), téléchargez et installez le ici : [->https://nodejs.org/en/download<-](https://nodejs.org/en/download)
 
-- :point_right:  Allez sur [->https://docs.aws.amazon.com/corretto/<-](https://docs.aws.amazon.com/corretto/)
-![amazoncoretto.png](amazoncoretto.png)
-
-- :point_right: Puis cliquez sur **Corretto 8 User Guide** puis  **_Downloads_**  (:exclamation: attention il y a plusieurs versions, prenez bien celle de votre OS et surtout la version 8:)
-
-- :point_right: Puis suivez le guide jusqu'à la **partie 3)** comprise (pas besoin de faire le point 4 et 5) :sunglasses: https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/windows-install.html 
-
-- :point_right: Installez-le dans un dossier spécifique car vous installerez différentes versions ultérieurement et vous aurez besoin de le linker avec votre IDE (Éditeur pour développer).
-![c:\utils\java\amazoncoretto ](amazoncorettodestfolder.png)
-
-- :point_right:  Allez sur  [-> https://archive.eclipse.org/eclipse/downloads/drops4/R-4.6-201606061100/ <-](https://archive.eclipse.org/eclipse/downloads/drops4/R-4.6-201606061100/)
-Télécharger la version d'**Eclipse SDK** pour votre **OS** puis dezipper la
-
-Au lancement d'Eclipse Neon vous devez spécifier un repertoire de travail, nommez le comme suit : (on utilisera plusieurs IDE et les repertoires de travail ne sont pas compatibles entre eux alors faites attention:exclamation::exclamation::exclamation:)
-![C:\Workspace\Eclipse-neon](eclipseworkspace.png)
-
-Eclipse sera votre IDE pour développer en java, là encore il y a une multitude de versions, nous choisirons celle-ci qui est compatible avec le JDK et qui ne consomme pas trop en mémoire.
+- :point_right:  Lire le début de la doc officielle ici : [->https://www.electronjs.org/fr/docs/latest/<-](https://www.electronjs.org/fr/docs/latest/)
 
 <div class="d-sm-block  alert alert-success  text-left" role="alert">
 
-:mortar_board: Afin de débuter la Formation sur **<i class="fa-brands fa-java fa-2xl"></i>Java Lvl1** ensemble, vous aurez besoin de suivre les instructions du :books:support et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp; le jour de la formation :exclamation:
+:mortar_board: Afin de débuter la Formation sur **Electron Lvl1** ensemble, vous aurez besoin de suivre les instructions du :books:support et/ou de récupérer les éléments de la <span style='display:FLEX;margin:0'> <img style="vertical-align: bottom;" src="/images/icones/w30/capsule_30.png" alt="C">apsule donnés par le formateur &nbsp; <i class="fas fa-chalkboard-teacher"></i> &nbsp; le jour de la formation :exclamation:
 
 </div>
 

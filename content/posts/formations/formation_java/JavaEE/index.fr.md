@@ -4,7 +4,7 @@ date: 2025-03-02T10:07:31+00:00
 description: Java Edition Entreprise JEE
 menu:
   sidebar:
-    name: JavaEE
+    name: Java EE
     identifier: jee1_fr
     parent: formations_java_fr
     weight: 10

@@ -4,7 +4,7 @@ date: 2022-02-13T08:11:25+00:00
 description: CSS formation avancé
 menu:
   sidebar:
-    name: CSS LvL 2
+    name: CSS 2
     identifier: css2_fr
     parent: formations_css_fr
     weight: 20
