@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Liste Formation FP on FRANSEE Francis's Blog</title><link>https://fransee.github.io/posts/formations/</link><description>Recent content in Liste Formation FP on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Fri, 28 Mar 2025 11:11:25 +0000</lastBuildDate><atom:link href="https://fransee.github.io/posts/formations/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation Electron Initiation</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</link><pubDate>Fri, 28 Mar 2025 11:11:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Liste Formation FP on FRANSEE Francis's Blog</title><link>https://fransee.github.io/posts/formations/</link><description>Recent content in Liste Formation FP on FRANSEE Francis's Blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Everything is mine</copyright><lastBuildDate>Wed, 02 Apr 2025 10:10:29 +0000</lastBuildDate><atom:link href="https://fransee.github.io/posts/formations/index.xml" rel="self" type="application/rss+xml"/><item><title>Formation sur React</title><link>https://fransee.github.io/posts/formations/formation_react/</link><pubDate>Wed, 02 Apr 2025 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_react/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-brands fa-react fa-2xl">&lt;/i> React : &lt;/center>
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>&lt;strong>Premier pas&lt;/strong>
+&lt;ul>
+&lt;li>Fonctionnalités&lt;/li>
+&lt;li>Éléments de javascript utilisés&lt;/li>
+&lt;li>Différentes utilisations de ReactJS&lt;/li>
+&lt;li>React à l’intérieur d’un projet existant&lt;/li>
+&lt;li>React en tant que projet principal&lt;/li>
+&lt;li>Configuration environnement de dev&lt;/li>
+&lt;li>Premier pas avec JSX&lt;/li>
+&lt;li>Les règles de JSX&lt;/li>
+&lt;li>Syntaxe et éléments JSX&lt;/li>
+&lt;li>Construire une interface avec des composants&lt;/li>
+&lt;li>Isolation des fonctionnalités&lt;/li>
+&lt;li>Bonnes pratiques&lt;/li>
+&lt;li>Expressions conditionnelles&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>Les fondamentaux&lt;/strong>
+&lt;ul>
+&lt;li>Les composants&lt;/li>
+&lt;li>Les props et l&amp;rsquo;état local&lt;/li>
+&lt;li>Les hooks&lt;/li>
+&lt;li>Le style&lt;/li>
+&lt;li>Le routage&lt;/li>
+&lt;li>Les formulaires&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>Avancé&lt;/strong>
+&lt;ul>
+&lt;li>Optimiser les performances d&amp;rsquo;une application&lt;/li>
+&lt;li>Partager l’état entre des composants&lt;/li>
+&lt;li>Gestion de l’état&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;p>&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:50px" src="react_30-1.png" alt="">“ React (aussi appelé React.js ou ReactJS) est une bibliothèque open source JavaScript pour créer des interfaces utilisateurs. Elle est maintenue par Meta (anciennement Facebook) ainsi que par une communauté de développeurs individuels et d&amp;rsquo;entreprises depuis 2013.&lt;/p></description></item><item><title>Formation Electron Initiation</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</link><pubDate>Fri, 28 Mar 2025 11:11:25 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info " > &lt;center>
 &lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-classic fa-atom fa-2xl">&lt;/i> Electron : &lt;/center>
 &lt;span class="text-left">
@@ -22,27 +70,23 @@
 Electron est un environnement permettant de développer des applications multi-plateformes de bureau avec des technologies web (JavaScript, HTML et CSS).
 &lt;p>L&amp;rsquo;infrastructure (backend) est codée en Node.js, et l&amp;rsquo;interface (frontend) est bâtie sur les outils Chromium, la partie open source de Google Chrome.&lt;/p></description></item><item><title>Formation Electron Avancée</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</link><pubDate>Fri, 28 Mar 2025 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info " > &lt;center>
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation sur la programmation graphique avec AWT, SWING et &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> JavaFX : &lt;/center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-classic fa-atom fa-2xl">&lt;/i> Electron Avancé : &lt;/center>
 &lt;span class="text-left">
 &lt;ul>
-&lt;li>10 - 0 - Introduction a la programmation graphique&lt;/li>
-&lt;li>10 - A - Programmation graphique Avancée JAVA-FX&lt;/li>
-&lt;li>10 – B - Compléments de programmation&lt;/li>
-&lt;li>10 – C – Architecture Concepts techniques&lt;/li>
-&lt;li>10 – D – Conteneurs Layout-Panes&lt;/li>
-&lt;li>10 – E – Composants de base&lt;/li>
-&lt;li>10 – F – Architecture MVC Gestion Evenement&lt;/li>
-&lt;li>10 – G – FXML SceneBuilder&lt;/li>
-&lt;li>10 – H – Menus Choix Selection&lt;/li>
-&lt;li>10 – I – Panneaux spécialisés&lt;/li>
-&lt;li>10 - J – Boîtes de dialogue&lt;/li>
-&lt;li>10 - K – Feuilles de style CSS&lt;/li>
-&lt;li>10 - L - Jar executable Installeur&lt;/li>
+&lt;li>Isolation du contexte&lt;/li>
+&lt;li>IPC&lt;/li>
+&lt;li>Les Canaux IPC I II III&lt;/li>
+&lt;li>Ajout de fonctionnalités&lt;/li>
+&lt;li>Ouvrir une page Web dans le navigateur externe&lt;/li>
+&lt;li>Accès au localstorage&lt;/li>
+&lt;li>Afficher un menu contextuel dans la fenêtre de rendu&lt;/li>
+&lt;li>Création du menu de l&amp;rsquo;application avec l&amp;rsquo;API de template&lt;/li>
+&lt;li>Raccourcis clavier en local&lt;/li>
+&lt;li>Raccourci clavier global&lt;/li>
 &lt;/ul>
 &lt;/div>
-&lt;blockquote>
-&lt;p>&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:440px" src="440px-JavaFX_Logo.png" alt=""> &lt;div style="clear:both">&lt;/div>
-JavaFX est un framework et une bibliothèque d&amp;rsquo;interface utilisateur issue du projet OpenJFX, qui permet aux développeurs Java de créer une interface graphique pour des applications de bureau, des applications internet riches et des applications smartphones et tablettes tactiles.&lt;/p></description></item><item><title>Formation Java - Bases</title><link>https://fransee.github.io/posts/formations/formation_java/lvl1/</link><pubDate>Sun, 02 Mar 2025 10:11:31 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) suivantes &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item><item><title>Formation Java - Bases</title><link>https://fransee.github.io/posts/formations/formation_java/lvl1/</link><pubDate>Sun, 02 Mar 2025 10:11:31 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_java/lvl1/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info " > &lt;center>
 &lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> Java : &lt;/center>
 &lt;span class="text-left">

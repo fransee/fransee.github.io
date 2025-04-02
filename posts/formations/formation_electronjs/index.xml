@@ -22,24 +22,20 @@
 Electron est un environnement permettant de développer des applications multi-plateformes de bureau avec des technologies web (JavaScript, HTML et CSS).
 &lt;p>L&amp;rsquo;infrastructure (backend) est codée en Node.js, et l&amp;rsquo;interface (frontend) est bâtie sur les outils Chromium, la partie open source de Google Chrome.&lt;/p></description></item><item><title>Formation Electron Avancée</title><link>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</link><pubDate>Fri, 28 Mar 2025 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_electronjs/lvl2/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info " > &lt;center>
-&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation sur la programmation graphique avec AWT, SWING et &lt;i class="fa-brands fa-java fa-2xl">&lt;/i> JavaFX : &lt;/center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation &lt;i class="fa-classic fa-atom fa-2xl">&lt;/i> Electron Avancé : &lt;/center>
 &lt;span class="text-left">
 &lt;ul>
-&lt;li>10 - 0 - Introduction a la programmation graphique&lt;/li>
-&lt;li>10 - A - Programmation graphique Avancée JAVA-FX&lt;/li>
-&lt;li>10 – B - Compléments de programmation&lt;/li>
-&lt;li>10 – C – Architecture Concepts techniques&lt;/li>
-&lt;li>10 – D – Conteneurs Layout-Panes&lt;/li>
-&lt;li>10 – E – Composants de base&lt;/li>
-&lt;li>10 – F – Architecture MVC Gestion Evenement&lt;/li>
-&lt;li>10 – G – FXML SceneBuilder&lt;/li>
-&lt;li>10 – H – Menus Choix Selection&lt;/li>
-&lt;li>10 – I – Panneaux spécialisés&lt;/li>
-&lt;li>10 - J – Boîtes de dialogue&lt;/li>
-&lt;li>10 - K – Feuilles de style CSS&lt;/li>
-&lt;li>10 - L - Jar executable Installeur&lt;/li>
+&lt;li>Isolation du contexte&lt;/li>
+&lt;li>IPC&lt;/li>
+&lt;li>Les Canaux IPC I II III&lt;/li>
+&lt;li>Ajout de fonctionnalités&lt;/li>
+&lt;li>Ouvrir une page Web dans le navigateur externe&lt;/li>
+&lt;li>Accès au localstorage&lt;/li>
+&lt;li>Afficher un menu contextuel dans la fenêtre de rendu&lt;/li>
+&lt;li>Création du menu de l&amp;rsquo;application avec l&amp;rsquo;API de template&lt;/li>
+&lt;li>Raccourcis clavier en local&lt;/li>
+&lt;li>Raccourci clavier global&lt;/li>
 &lt;/ul>
 &lt;/div>
-&lt;blockquote>
-&lt;p>&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:440px" src="440px-JavaFX_Logo.png" alt=""> &lt;div style="clear:both">&lt;/div>
-JavaFX est un framework et une bibliothèque d&amp;rsquo;interface utilisateur issue du projet OpenJFX, qui permet aux développeurs Java de créer une interface graphique pour des applications de bureau, des applications internet riches et des applications smartphones et tablettes tactiles.&lt;/p></description></item></channel></rss>
+&lt;h2 id="todo-roller_coaster">&lt;i class="fas fa-clipboard-list ">&lt;/i> TODO &amp;#x1f3a2;:&lt;/h2>
+&lt;p>&amp;#x1f4ac; Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO &amp;#x1f3a2;) suivantes &lt;i class="fas fa-clipboard-list ">&lt;/i> :&lt;/p></description></item></channel></rss>
