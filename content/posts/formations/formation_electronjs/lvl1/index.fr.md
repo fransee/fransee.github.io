@@ -10,7 +10,7 @@ menu:
     weight: 10
 ---
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
--
+---
 
 <div class="d-sm-block alert alert-info " > <center>
 <i class="fas fa-info-circle " style="color: blue;"></i> Au programme de cette formation <i class="fa-classic fa-atom fa-2xl"></i> Electron : </center>

@@ -2,7 +2,7 @@
 title: Formations Javascript (Vanilla)
 menu:
   sidebar:
-    name: Vanilla JavaScript
+    name: JavaScript
     identifier: formations_Javascript_fr
     parent: liste_formations_fr
     weight: 300
