@@ -95,6 +95,12 @@ skills:
     summary: "Expérimenté, capable de former dessus à des niveaux divers"
     url: "../posts/formations/formation_electronjs/"
     categories: ["framework"]
+  
+  - name: React
+    logo: images/icones/w30/react_30.png
+    summary: "Capable de former et de développer dessus"
+    url: "../posts/formations/formation_react/"
+    categories: ["web", "framework"]
 
   - name: Php
     logo: images/icones/w30/php_30.png
@@ -142,6 +148,12 @@ skills:
     summary: "Expérimenté, capable de former dessus à des niveaux divers"
     url: "../posts/formations/formation_js/"
     categories: ["language", "web"]
+
+  - name: JQuery
+    logo: images/icones/w30/jQuery1_30.png
+    summary: "Expérimenté, capable de former dessus à des niveaux divers"
+    url: "../posts/formations/formation_jquery/"
+    categories: ["language", "web","framework"]
 
   - name: Ajax
     logo: images/icones/ajax_h50.png
