@@ -173,7 +173,83 @@ JavaFX est un framework et une bibliothèque d&amp;rsquo;interface utilisateur i
 &lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:200px" src="250px-Jakarta_ee_logo_stacked.png" alt="">
 Jakarta EE (anciennement Java 2 Platform, Enterprise Edition, ou J2EE , puis Java Platform, Enterprise Edition ou Java EE), est une spécification pour la plate-forme Java d'Oracle, destinée aux applications d'entreprise.
 &lt;p>La plate-forme étend Java Platform, Standard Edition (Java SE) en fournissant une API de mapping objet-relationnel, des architectures distribuées et multitiers, et des services web.
-La plate-forme se fonde principalement sur des composants modulaires exécutés sur un serveur d&amp;rsquo;applications.&lt;/p></description></item><item><title>Formation CSS 3 - Premier Niveau -</title><link>https://fransee.github.io/posts/formations/formation_css/base/</link><pubDate>Sun, 13 Feb 2022 08:11:26 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_css/base/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+La plate-forme se fonde principalement sur des composants modulaires exécutés sur un serveur d&amp;rsquo;applications.&lt;/p></description></item><item><title>Formation sur JQuery</title><link>https://fransee.github.io/posts/formations/formation_jquery/</link><pubDate>Tue, 02 Apr 2024 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_jquery/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation JQuery : &lt;/center>
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>&lt;strong>La suite de Javascript&lt;/strong>
+&lt;ul>
+&lt;li>Présentation&lt;/li>
+&lt;li>Les bases&lt;/li>
+&lt;li>Manipuler le code html&lt;/li>
+&lt;li>Les sélecteurs&lt;/li>
+&lt;li>Les évènements&lt;/li>
+&lt;li>Les animations&lt;/li>
+&lt;li>Le plugins UI&lt;/li>
+&lt;li>Les widgets UI&lt;/li>
+&lt;li>JQueryMobile&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:50px" src="jQuery1_30.png" alt="">
+jQuery est une bibliothèque JavaScript libre et multiplateforme créée pour faciliter l'écriture de scripts côté client dans le code HTML des pages web[3]. La première version est lancée en janvier 2006 par John Resig.
+&lt;p>Le but de la bibliothèque étant le parcours et la modification du DOM (y compris le support des sélecteurs CSS 1 à 3 et un support basique de XPath), elle contient de nombreuses fonctionnalités ; notamment des animations, la manipulation des feuilles de style en cascade (accessibilité des classes et attributs), la gestion des évènements, etc. L&amp;rsquo;utilisation d&amp;rsquo;Ajax est facilitée et de nombreux plugins sont présents.&lt;/p></description></item><item><title>Formation sur l'Algorithmique</title><link>https://fransee.github.io/posts/formations/formation_algorithmique/</link><pubDate>Tue, 02 Apr 2024 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_algorithmique/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation Algorithmique : &lt;/center>
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Configuration environnement de développement&lt;/li>
+&lt;li>Les variables&lt;/li>
+&lt;li>La Structure générale&lt;/li>
+&lt;li>Les conditions&lt;/li>
+&lt;li>Les Boucles&lt;/li>
+&lt;li>Les Tableaux&lt;/li>
+&lt;li>Les Chaines de caractères&lt;/li>
+&lt;li>Les Fonctions&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:50px" src="algo_30.png" alt="">
+L'algorithmique est l'étude et la production de règles et techniques qui sont impliquées dans la définition et la conception d'algorithmes, c'est-à-dire de processus systématiques de résolution d'un problème permettant de décrire précisément des étapes pour résoudre un problème algorithmique.
+&lt;p>Le substantif algorithmique désigne l&amp;rsquo;ensemble des méthodes permettant de créer des algorithmes. Le terme est également employé comme adjectif.&lt;/p></description></item><item><title>Formation sur le maquettage d'application</title><link>https://fransee.github.io/posts/formations/formation_maquettage/</link><pubDate>Tue, 02 Apr 2024 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_maquettage/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation sur le maquettage d'application : &lt;/center>
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Définitions&lt;/li>
+&lt;li>Dans quel cadre&lt;/li>
+&lt;li>Quand procéder au maquettage d’une application&lt;/li>
+&lt;li>Enchainement des écrans&lt;/li>
+&lt;li>Les étapes clefs pour un maquettage d’une app réussi&lt;/li>
+&lt;li>Le Maquettage Numérique&lt;/li>
+&lt;li>Les différents logiciels pour réaliser des maquettes numériques&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;blockquote>
+&lt;p>Maquettage papier&lt;/p>&lt;/blockquote>
+&lt;p>En interface homme-machine et en ergonomie informatique, le maquettage papier (ou prototypage) est une technique encore très utilisée dans la conception centrée sur l&amp;rsquo;utilisateur. Cette technique aide les parties prenantes d&amp;rsquo;un projet (concepteurs, développeurs, commerciaux, etc.) à concevoir un logiciel ou un site web qui répondent aux attentes et besoins des utilisateurs finaux. Il s&amp;rsquo;agit le plus souvent des premières idées brutes jetées sur le papier, faites d&amp;rsquo;esquisses et de dessins, représentant l&amp;rsquo;agencement et les zones de contenus (ou zoning). On parlera également de maquette fil de fer ou wireframe.&lt;/p></description></item><item><title>Formation sur Merise</title><link>https://fransee.github.io/posts/formations/formation_merise/</link><pubDate>Tue, 02 Apr 2024 10:10:29 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_merise/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
+&lt;div class="d-sm-block alert alert-info " > &lt;center>
+&lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Au programme de cette formation Merise : &lt;/center>
+&lt;span class="text-left">
+&lt;ul>
+&lt;li>Présentation&lt;/li>
+&lt;li>Des données aux dépendances Fonctionnelles&lt;/li>
+&lt;li>Introduction au Modèle Conceptuel des Données&lt;/li>
+&lt;li>Introduction au Modèle Logique des Données&lt;/li>
+&lt;li>Introduction au Modèle Physique des Données&lt;/li>
+&lt;li>Génération BDD via Outils&lt;/li>
+&lt;li>Le Modèle Conceptuel des Traitements&lt;/li>
+&lt;li>Introduction aux extensions Merise/2&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;blockquote>
+&lt;img style="float:left; vertical-align: middle;margin-right:0px!important;width:50px" src="merise_30.png" alt="">
+Merise est une méthode d'analyse, de conception et de gestion de projet informatique.
+&lt;p>Merise a été très utilisée dans les années 1970 et 1980 pour l&amp;rsquo;informatisation massive des organisations. Cette méthode reste adaptée pour la gestion des projets internes aux organisations, se limitant à un domaine précis. Elle est en revanche moins adaptée aux projets transverses aux organisations, qui gèrent le plus souvent des informations à caractère sociétal (environnemental et social) avec des parties prenantes.&lt;/p></description></item><item><title>Formation CSS 3 - Premier Niveau -</title><link>https://fransee.github.io/posts/formations/formation_css/base/</link><pubDate>Sun, 13 Feb 2022 08:11:26 +0000</pubDate><guid>https://fransee.github.io/posts/formations/formation_css/base/</guid><description>&lt;h2>&lt;em>&lt;center>&amp;#x1f4e2; Bonjour à tous et à toutes &amp;#x2757;&lt;/center>&lt;/em>&lt;/h2>
 &lt;div class="d-sm-block alert alert-info text-center" role="alert">
 &lt;i class="fas fa-info-circle " style="color: blue;">&lt;/i> Nous verrons dans cette formation sur &lt;mark> &lt;i class="fa-brands fa-css3-alt fa-beat">&lt;/i> CSS 3 (Feuilles de style en cascade) &lt;/mark> , les fondamentaux, l’essentiel pour démarrer avec ce langage qui est présent quasiment depuis le début du WWWeb et est un incontournable de la création de &lt;i class="fas fa-sitemap">&lt;/i>sites internet, &lt;i class="fas fa-file-code">&lt;/i>pages web ou même support de documentation &lt;br/>
 &lt;/div>
