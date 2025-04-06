@@ -178,7 +178,25 @@ skills:
     summary: "Expérimenté, capable de former dessus à des niveaux divers"
     url: "../posts/formations/formation_uml/"
     categories: ["language", "management"]    
-  
+
+  - name: Merise
+    logo: images/icones/w30/merise_30.png
+    summary: "Expérimenté, capable de former dessus"
+    url: "../posts/formations/formation_merise/"
+    categories: ["others", "management"] 
+
+  - name: Algorithmique
+    logo: images/icones/w30/algo_30.png
+    summary: "Expérimenté, capable de former à des niveaux divers, généralement je fais la formation avec python"
+    url: "../posts/formations/formation_algorithmique/"
+    categories: ["others", "language"]
+
+  - name: Maquettage d'application
+    logo: images/icones/w30/photoshop_30.png
+    summary: "Expérimenté, l'essentiel pour comprendre le principe et maquetter une application, pour les devs"
+    url: "../posts/formations/formation_maquettage/"
+    categories: ["others", "management"] 
+
   - name: Vue JS
     logo: images/icones/w30/vuejs2_30.png
     summary: "Capable de former et de développer dessus"
@@ -216,7 +234,7 @@ skills:
     url: "../posts/formations/formation_typescript/"
     categories: ["language"]
 
-  - name: SEO
+  - name: SEO Référencement
     logo: /images/sections/skills/SEOkisspng-search-engine-optimization-computer-icons-web-sear-seo-icon-png-5ab053f026b5e3.0083853915215052641586.png
     summary: "Capable de former et de déployer puis d'enregistrer le site sur les moteurs de recherche, Google Analytics & Adwords etc ..,utilisation de référencement naturel et de référencement payant"
     url: "../posts/formations/referencement/"

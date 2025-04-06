@@ -50,9 +50,9 @@ menu:
 >
 >Le but principal de cette bibliothèque est de faciliter la création d'application web monopage, via la création de composants dépendant d'un état et générant une page (ou portion) HTML à chaque changement d'état.
 >
->React est une bibliothèque qui ne gère que l'interface de l'application, cette interface étant considérée comme la vue dans le modèle MVC. Elle peut ainsi être utilisée avec une autre bibliothèque ou un framework MVC comme AngularJS. La bibliothèque se démarque de ses concurrents par sa flexibilité et ses performances, en travaillant avec un DOM virtuel et en ne mettant à jour le rendu dans le navigateur qu'en cas de nécessité[2]
+>React est une bibliothèque qui ne gère que l'interface de l'application, cette interface étant considérée comme la vue dans le modèle MVC. Elle peut ainsi être utilisée avec une autre bibliothèque ou un framework MVC comme AngularJS. La bibliothèque se démarque de ses concurrents par sa flexibilité et ses performances, en travaillant avec un DOM virtuel et en ne mettant à jour le rendu dans le navigateur qu'en cas de nécessité
 >
-> <cite>[ <img style="float:left; margin: 1px; " height="40px" src="/files/images/wikipedia.png"> Wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/Python_(langage) "Définition à lire pour bien comprendre")</cite>
+> <cite>[ <img style="float:left; margin: 1px; " height="40px" src="/files/images/wikipedia.png"> Wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/React "Définition à lire pour bien comprendre")</cite>
 
 
 Ces éléments de Javascript sont très fréquemment utilisés, pour une meilleurecompréhension du support il peut être très intéressant de les (voir)/revoir
