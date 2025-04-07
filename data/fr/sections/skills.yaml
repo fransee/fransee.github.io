@@ -78,6 +78,7 @@ skills:
     categories: ["others"]
 
   # #Faire web et rajouter icone et texte <img src="/images/icones/logoNorsys30p30.png">
+
   - name: Bootstrap
     logo: /images/sections/skills/bootstrap.png
     summary: "Capable de former et de développer des pages webs responsives avec Bootstrap"
@@ -89,6 +90,12 @@ skills:
     summary: "Capable de former et de produire des applications en CLI, côté serveur avec Mongoose, Jade / Pug, Express et EJS "
     url: "../posts/formations/formation_nodejs/"
     categories: ["web", "framework"]
+
+  - name: Agile
+    logo: images/icones/w30/scrum_30.png
+    summary: "Capable de former en méthodologie Scrum, j'ai dispose aussi de 4 ateliers agiles pour approfondir ou faire découvrir la méthode agile"
+    url: "../posts/formations/formation_agile/"
+    categories: ["management", "framework"]
 
   - name: Electron JS
     logo: images/icones/electron.png
