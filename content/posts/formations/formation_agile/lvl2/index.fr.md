@@ -11,10 +11,20 @@ menu:
 ---
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 -
-
-<div class="d-sm-block alert alert-info text-center" > 
-<i class="fas fa-info-circle " style="color: orange;"></i> Nous verrons dans cette formation sur <i class="fa-brands fa-js fa-beat"></i> <mark>JavaScript Niveau 2 </mark>, les fonctions Avancées, l'Objet dans sa version la plus récente en JS, les nouveautés apportées par ECMA V6, le JSON  et bien d'autres choses encore :pancakes:
+<div class="d-sm-block alert alert-info " > <center>
+<i class="fas fa-info-circle " style="color: blue;"></i> Au programme de ces ateliers ou plus communéments appelés **Serious Games** : </center>
+<span class="text-left">
+<br>
 </div>
+Dans le cadre des formations ou des ateliers que j'anime, j'utilise le jeu comme vecteur d’ancrage des
+apprentissages ou plus simplement pour mettre les participants en énergie, prêts à contribuer, pour le moment je dispose de 4 Serious Games qui ont chacun leurs spécificité et apportent tous un plus dans l'apprentisage de la méthodologie Agile ou dans le team building.
+
+>>Marshmallow Challenge
+>
+>Le Marshmallow Challenge est un classique du jeu agile, il permet, de manière très ludique, d’étudier en quoi le prototyping et le test rapide peuvent donner de meilleurs résultats qu’une planification longue, construction longue et test rapide au dernier moment.
+>par équipe de 3 à 5, de 45 à 90 minutes
+>
+>
 
 ## <i class="fas fa-clipboard-list "></i> TODO :roller_coaster::
 :speech_balloon: Vous devez avoir obligatoirement configuré votre environnement de développement avec les intructions (partie TODO :roller_coaster:) données précédemment <i class="fas fa-clipboard-list "></i> :  
