@@ -160,8 +160,11 @@ params:
       services:
         # Google Analytics
         google:
-          id: G-L8WV0RBRYG
-        # # CounterDev
+          id: GTM-58F28NCS
+          #fransee GTM-58F28NCS
+          # fp GTM-KTZCJRJ
+        #old G-L8WV0RBRYG
+        # # CounterDev  
         # counterDev:
         #   id: <your counterdev id>
         # # GoatCounter

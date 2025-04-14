@@ -11,6 +11,7 @@ menu:
 ---
 *<center>:loudspeaker: Bonjour à tous et à toutes :heavy_exclamation_mark:</center>*
 ---
+
 <div class="d-sm-block alert alert-info " > <center>
 <i class="fas fa-info-circle " style="color: blue;"></i> Au programme de cette formation Algorithmique : </center>
 <span class="text-left">
@@ -18,11 +19,13 @@ menu:
   - Configuration environnement de développement
   - Les variables
   - La Structure générale 
-  - Les conditions 
+  - Structure conditionnelle 
   - Les Boucles
   - Les Tableaux
   - Les Chaines de caractères
-  - Les Fonctions
+  - Procédures et Fonctions
+  - Trace d'exécution d'un algorithme et complexité
+  - Bonnes pratiques de programmation
 
 </div>
 
@@ -37,6 +40,8 @@ menu:
 >On parle de « code source » pour désigner le texte, constituant le programme, réalisant l’algorithme. Le code est plus ou moins détaillé selon le niveau d’abstraction du langage utilisé, de même qu'une recette de cuisine doit être plus ou moins détaillée selon l’expérience du cuisinier.
 >
 > <cite>[ <img style="float:left; margin: 1px; " height="40px" src="/files/images/wikipedia.png"> Wikipedia <i class="fas fa-external-link-alt"></i>](https://fr.wikipedia.org/wiki/Algorithmique "Définition à lire pour bien comprendre")</cite>
+
+Ce cours s'adresse à des étudiants qui débutent et n'ont jamais appris de langage de programmation, on pourra apprendre en parallèle un langage simple de programmation type python ou javascript mais cela n'est pas obligé.
 
 Paramétrons notre environnement de développement afin de pouvoir démarrer la formation : 
 ## TODO  :roller_coaster:: 
